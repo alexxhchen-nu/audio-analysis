@@ -1,0 +1,13 @@
+pitch_class,mean_chroma,scale_degree,in_scale
+C,0.47054967,4,True
+C#,0.38139057,chromatic,False
+D,0.4545575,5,True
+D#,0.39015523,chromatic,False
+E,0.44007775,6,True
+F,0.41985318,chromatic,False
+F#,0.41324374,7,True
+G,0.639464,1,True
+G#,0.44598615,chromatic,False
+A,0.40750158,2,True
+A#,0.43441993,chromatic,False
+B,0.4019775,3,True
