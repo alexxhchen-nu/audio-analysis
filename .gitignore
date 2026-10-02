@@ -1,0 +1,13 @@
+# Downloaded and processed audio
+/audio/
+*.wav
+/results/demucs/
+*.npy
+
+# Notebook outputs and editor state
+/notebooks/youtube_audio_clustering.ipynb
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
