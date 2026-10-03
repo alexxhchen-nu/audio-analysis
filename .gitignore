@@ -4,6 +4,7 @@
 *.wav
 /results/demucs/
 *.npy
+/data/emotion_reference/
 
 # Notebook outputs and editor state
 /notebooks/youtube_audio_clustering.ipynb
