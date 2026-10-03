@@ -74,9 +74,9 @@ Most project analysis is Python/Jupyter. MERT and Basic Pitch are optional model
 
 ### 🚀 Quick start
 
-1. Open [`notebooks/master.ipynb`](notebooks/master.ipynb) and set `INPUT_MEDIA` to a file you placed in `video/`.
-2. Run the notebook cells in order. Video audio is extracted locally with FFmpeg; there is no automatic downloader.
-3. Find outputs under `results/master/<input-name>/`.
+1. Organize source videos by publisher account ID: `video/<account-id>/<filename>`. Treat the ID as text so leading zeros are preserved.
+2. Open [`notebooks/master.ipynb`](notebooks/master.ipynb), set `ACCOUNT_ID` and `INPUT_FILENAME` in the input configuration cell, then run the notebook cells in order. Analyze one file per run. Video audio is extracted locally with FFmpeg; there is no automatic downloader.
+3. Find outputs under `results/master/<account-id>/<input-name>/`. Each video's `audio_manifest.csv` records `account_id` alongside the content-hash-based `sample_id` and audio-variant provenance; `results/master/audio_manifest_all.csv` combines the per-video manifests for batch browsing. Older manifests without `account_id` are included as unassigned. Leave `ACCOUNT_ID` empty only for media that has not yet been assigned to an account; this uses the legacy root-level `video/` and results layout.
 4. Use [`notebooks/test.ipynb`](notebooks/test.ipynb) for scratch experiments and [`notebooks/notes.ipynb`](notebooks/notes.ipynb) for methodology and the work journal.
 
 The master notebook documents its baseline package setup. FFmpeg must also be available on the machine. PyTorch installation depends on the available CPU/GPU; use the [official installation selector](https://pytorch.org/get-started/locally/) for your environment.
