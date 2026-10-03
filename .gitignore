@@ -1,8 +1,6 @@
 # Downloaded and processed audio
 /audio/
 /video/
-/uploads/*
-!/uploads/.gitkeep
 *.wav
 /results/demucs/
 *.npy
