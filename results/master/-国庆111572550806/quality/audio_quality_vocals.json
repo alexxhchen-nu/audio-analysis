@@ -1,13 +1,13 @@
 {
   "stem": "vocals",
-  "file": "/home/ubuntu/music/results/master/-国庆111572550806/demucs/htdemucs/audio_original/vocals.wav",
-  "duration_seconds": 29.90730158730159,
+  "file": "/home/ubuntu/music/results/master/-国庆111572550806/demucs/htdemucs/audio_analysis_trimmed/vocals.wav",
+  "duration_seconds": 29.000589569160997,
   "sample_rate_hz": 44100,
   "channels": 2,
-  "frames": 1318912,
-  "peak_absolute_amplitude": 0.7596893310546875,
+  "frames": 1278926,
+  "peak_absolute_amplitude": 0.758514404296875,
   "clipped_sample_fraction": 0.0,
-  "rms_mean": 0.10954157263040543,
+  "rms_mean": 0.11136725544929504,
   "near_silence_frame_fraction": 0.0,
   "near_silence_rms_threshold": 0.0001
 }

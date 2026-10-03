@@ -1,6 +1,6 @@
 # Audio Analysis
 
-The canonical, reusable audio-analysis workflow is [`notebooks/master.ipynb`](notebooks/master.ipynb). It accepts locally supplied video or audio files (no downloader), extracts video audio with FFmpeg, and includes Demucs stem separation, audio summaries, quality checks, a timestamped manifest, windowed handcrafted features, music analysis, and optional MERT/Basic Pitch sections.
+The canonical, reusable audio-analysis workflow is [`notebooks/master.ipynb`](notebooks/master.ipynb). It accepts locally supplied video or audio files (no downloader), extracts video audio with FFmpeg, detects sustained trailing silence (−40 dB for at least 0.5 seconds) and trims only a separate analysis copy, preserving the full extracted source. It includes Demucs stem separation, audio summaries, quality checks, a timestamped manifest, windowed handcrafted features, music analysis, MERT embeddings, exploratory clustering, and optional Basic Pitch sections.
 
 ## Local media and persistent storage
 
