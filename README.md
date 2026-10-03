@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🎧✨ Little Audio Garden
+# ⚡🎧 Pika-Audio
 
-### A curious, careful toolkit for exploring music and audio in short videos
+### A tiny electric lab for exploring music and audio in short videos
 
-🌷 *Listen closely · compare fairly · keep the human in the loop* 🌷
+🌷 *Pikachu-inspired sparkle · careful science · human ears welcome* 🌷
 
 [🇬🇧 English](#english) · [🇨🇳 简体中文](#简体中文)
 
@@ -14,7 +14,7 @@
 
 ## 🇬🇧 English
 
-Welcome to **Little Audio Garden**! 🌱 This research project explores how audio in short videos is put together: music, voices, acoustic features, and similarities between clips. It helps us ask better questions; it does **not** automatically decide what a clip means or what someone intended.
+Welcome to **Pika-Audio**! ⚡🎧 This Pikachu-inspired (but unofficial!) research project explores how audio in short videos is put together: music, voices, acoustic features, and similarities between clips. It helps us ask better questions; it does **not** automatically decide what a clip means or what someone intended.
 
 ### 🌼 What you can do
 
@@ -28,14 +28,20 @@ Welcome to **Little Audio Garden**! 🌱 This research project explores how audi
 
 ### 🧪 Emotion pilot: an honest first test
 
-The reproducible 50-song pilot is in [`scripts/deam_emotion_pilot.py`](scripts/deam_emotion_pilot.py). It uses 5-second, non-overlapping windows beginning at 15 seconds, aligns each window to DEAM's 500-ms valence/arousal ratings, computes 62 Librosa features and 768-dimensional MERT embeddings, and holds out entire songs for testing.
+The reproducible DEAM experiment is in [`scripts/deam_emotion_pilot.py`](scripts/deam_emotion_pilot.py). It uses 5-second, non-overlapping windows beginning at 15 seconds, aligns each window to DEAM's 500-ms valence/arousal ratings, computes 62 Librosa features and 768-dimensional MERT embeddings, and keeps all windows from each song in the same evaluation split.
 
-The initial fixed-seed split contains 40 training songs and 10 test songs (300 windows total). On this small holdout, both feature sets performed better than a training-mean baseline, but these exploratory scores are **not** a validated emotion model and do not establish transfer to short-video audio. See the [pilot report](results/emotion/deam_pilot/README.md) and raw [metrics](results/emotion/deam_pilot/metrics.csv). A different random seed or more songs may change the results.
+The initial fixed-seed pilot contains 50 songs (40 train / 10 held out; 300 windows). On that small holdout, both feature sets beat a training-mean baseline. We are extending the test to shuffled five-fold evaluation across all usable DEAM tracks, with Librosa-only, MERT-only, and fused baselines. Pilot results are exploratory—not a validated emotion model—and neither the pilot nor DEAM cross-validation establishes transfer to short-video audio. See the [pilot report](results/emotion/deam_pilot/README.md) and raw [metrics](results/emotion/deam_pilot/metrics.csv).
 
 Run it from the repository root:
 
 ```bash
 python scripts/deam_emotion_pilot.py --n-tracks 50 --seed 42
+```
+
+Run the full track-grouped cross-validation:
+
+```bash
+python scripts/deam_emotion_pilot.py --all-tracks --cv-folds 5 --seed 42 --output-dir results/emotion/deam_cross_validation
 ```
 
 The script expects DEAM assets under the Git-ignored `data/emotion_reference/` folder and a locally cached MERT checkpoint. To explicitly allow Transformers to fetch MERT model code and weights:
@@ -91,6 +97,10 @@ The master notebook documents its baseline package setup. FFmpeg must also be av
 - Clustering can group by source video, recording, encoding, loudness, or production rather than shared musical content.
 - Preserve originals, cite dataset sources, check their licenses, and report uncertainty.
 
+### 💛 About the name
+
+**Pika-Audio** borrows a little electric sparkle from Pikachu—just the name's playful inspiration. This is an independent research project and is **not affiliated with, endorsed by, or associated with Pokémon or The Pokémon Company**. No official character artwork is used.
+
 ### 💾 Media and privacy
 
 Put local source media in `video/`; generated analysis files go under `results/`. For durable work, use a persistent volume and keep a backup. The local `video/` folder and the current container filesystem are not a backup.
@@ -103,7 +113,7 @@ Research datasets, their terms, and large audio are deliberately kept out of Git
 
 ## 🇨🇳 简体中文
 
-欢迎来到 **Little Audio Garden（小小音频花园）**！🌱 这是一个探索短视频音频构成的研究项目：音乐、人声、可解释声学特征，以及不同片段之间的相似性。它帮助我们提出和检验问题，**不会**自动判定音频的含义或创作者意图。
+欢迎来到 **Pika-Audio（皮卡音频）**！⚡🎧 这是一个受皮卡丘电气感启发、但与宝可梦及宝可梦公司无关的独立研究项目，探索短视频音频构成：音乐、人声、可解释声学特征，以及不同片段之间的相似性。它帮助我们提出和检验问题，**不会**自动判定音频的含义或创作者意图。
 
 ### 🌼 可以做什么
 
@@ -117,14 +127,20 @@ Research datasets, their terms, and large audio are deliberately kept out of Git
 
 ### 🧪 情绪试验：先做一个诚实的小测试
 
-可复现的 50 首歌曲试验位于 [`scripts/deam_emotion_pilot.py`](scripts/deam_emotion_pilot.py)。它从第 15 秒开始切分 5 秒、不重叠的窗口，将每个窗口与 DEAM 每 500 毫秒的效价／唤醒度评分对齐，计算 62 维 Librosa 特征和 768 维 MERT 向量，并按整首歌留出测试集。
+可复现的 DEAM 试验位于 [`scripts/deam_emotion_pilot.py`](scripts/deam_emotion_pilot.py)。它从第 15 秒开始切分 5 秒、不重叠的窗口，将每个窗口与 DEAM 每 500 毫秒的效价／唤醒度评分对齐，计算 62 维 Librosa 特征和 768 维 MERT 向量，并确保同一首歌的窗口始终位于同一个数据划分中。
 
-固定种子的初步划分为 40 首训练、10 首测试，共 300 个窗口。在这次小型留出测试中，两类特征的表现都优于训练集均值基线；但这只是探索性结果，**不能视为已验证的情绪模型，也不能证明模型能迁移到短视频音频**。详见[试验报告](results/emotion/deam_pilot/README.md)和[原始指标](results/emotion/deam_pilot/metrics.csv)。更换随机种子或增加歌曲后，结果可能变化。
+固定种子的初步试验使用 50 首歌曲（40 首训练／10 首留出测试，共 300 个窗口）。这次小型测试中，两类特征都优于训练集均值基线。接下来会扩展为全部可用 DEAM 曲目的打乱式五折验证，并比较 Librosa、MERT 和特征融合。现有结果只是探索性结果，**不能视为已验证的情绪模型，也不能证明模型能迁移到短视频音频**。详见[初步试验报告](results/emotion/deam_pilot/README.md)和[原始指标](results/emotion/deam_pilot/metrics.csv)。
 
 在仓库根目录运行：
 
 ```bash
 python scripts/deam_emotion_pilot.py --n-tracks 50 --seed 42
+```
+
+运行完整的歌曲分组交叉验证：
+
+```bash
+python scripts/deam_emotion_pilot.py --all-tracks --cv-folds 5 --seed 42 --output-dir results/emotion/deam_cross_validation
 ```
 
 脚本需要 `data/emotion_reference/` 中的本地 DEAM 文件，以及已缓存的 MERT 模型。若希望 Transformers 下载 MERT 模型代码和权重，请明确运行：
@@ -180,6 +196,10 @@ python scripts/deam_emotion_pilot.py --n-tracks 50 --seed 42 --download-model
 - 聚类可能按视频来源、录音、编码、响度或制作差异分组，而非按共同音乐内容分组。
 - 保留原件、注明数据来源、核对许可，并报告不确定性。
 
+### 💛 名称说明
+
+**Pika-Audio** 只是借用皮卡丘的电气感作为名字灵感。本项目是独立研究项目，**不隶属于、未获宝可梦或宝可梦公司的认可，也与其无关联**；没有使用官方角色图片。
+
 ### 💾 媒体与隐私
 
 将本地源媒体放入 `video/`，分析结果放在 `results/`。重要数据应放在持久化存储中并另做备份；本地 `video/` 目录和当前容器文件系统都不能替代备份。
@@ -188,4 +208,4 @@ python scripts/deam_emotion_pilot.py --n-tracks 50 --seed 42 --download-model
 
 ---
 
-🌱 **Thanks for listening with care.** · **感谢你认真聆听。** 🎧
+⚡ **Thanks for listening with care.** · **感谢你认真聆听。** 🎧
