@@ -1,5 +1,6 @@
 # Downloaded and processed audio
 /audio/
+/video/
 *.wav
 /results/demucs/
 *.npy
