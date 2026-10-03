@@ -30,7 +30,7 @@ Welcome to **Pika-Audio**! ⚡🎧 This Pikachu-inspired (but unofficial!) resea
 
 The reproducible DEAM experiment is in [`scripts/deam_emotion_pilot.py`](scripts/deam_emotion_pilot.py). It uses 5-second, non-overlapping windows beginning at 15 seconds, aligns each window to DEAM's 500-ms valence/arousal ratings, computes 62 Librosa features and 768-dimensional MERT embeddings, and keeps all windows from each song in the same evaluation split.
 
-The initial fixed-seed pilot contains 50 songs (40 train / 10 held out; 300 windows). On that small holdout, both feature sets beat a training-mean baseline. We are extending the test to shuffled five-fold evaluation across all usable DEAM tracks, with Librosa-only, MERT-only, and fused baselines. Pilot results are exploratory—not a validated emotion model—and neither the pilot nor DEAM cross-validation establishes transfer to short-video audio. See the [pilot report](results/emotion/deam_pilot/README.md) and raw [metrics](results/emotion/deam_pilot/metrics.csv).
+The initial fixed-seed pilot contains 50 songs (40 train / 10 held out; 300 windows). We then ran shuffled five-fold evaluation on all 1,802 usable DEAM tracks: 12,964 non-overlapping windows, with Librosa-only, MERT-only, and fused baselines. The fused features performed best on the pooled DEAM scores, but these are dataset-specific exploratory results—not a validated general emotion model—and do not establish transfer to short-video audio. See the [pilot report](results/emotion/deam_pilot/README.md), [full cross-validation report](results/emotion/deam_cross_validation/README.md), and [cross-validation metrics](results/emotion/deam_cross_validation/metrics.csv).
 
 Run it from the repository root:
 
@@ -42,6 +42,12 @@ Run the full track-grouped cross-validation:
 
 ```bash
 python scripts/deam_emotion_pilot.py --all-tracks --cv-folds 5 --seed 42 --output-dir results/emotion/deam_cross_validation
+```
+
+If the full feature extraction is already cached, rerun only the evaluation:
+
+```bash
+python scripts/deam_emotion_cv.py --features-dir results/emotion/deam_cross_validation --folds 5 --seed 42
 ```
 
 The script expects DEAM assets under the Git-ignored `data/emotion_reference/` folder and a locally cached MERT checkpoint. To explicitly allow Transformers to fetch MERT model code and weights:
@@ -60,7 +66,7 @@ python scripts/deam_emotion_pilot.py --n-tracks 50 --seed 42 --download-model
 | 🎼 **Librosa** | MFCC, chroma, RMS/energy, spectral features, and music analysis |
 | 🧠 **PyTorch + Transformers + MERT** | Learned, timestamped music embeddings |
 | 🥁 **Demucs** | Estimated vocal/accompaniment source separation |
-| 🧪 **scikit-learn** | Scaling, grouped holdout evaluation, and ridge-regression baselines |
+| 🧪 **scikit-learn** | Scaling, track-grouped cross-validation, and ridge-regression baselines |
 | 🎹 **Basic Pitch** *(optional)* | Candidate note-event and MIDI transcription |
 | 🎞️ **FFmpeg** | Local video-audio extraction and media conversion |
 
@@ -83,7 +89,9 @@ The master notebook documents its baseline package setup. FFmpeg must also be av
 | [`notebooks/test.ipynb`](notebooks/test.ipynb) | Clean scratch notebook |
 | [`notebooks/notes.ipynb`](notebooks/notes.ipynb) | Methods, interpretation caveats, and work journal |
 | [`scripts/deam_emotion_pilot.py`](scripts/deam_emotion_pilot.py) | Reproducible DEAM feature/label alignment and baseline evaluation |
+| [`scripts/deam_emotion_cv.py`](scripts/deam_emotion_cv.py) | Re-evaluate cached DEAM features with track-grouped cross-validation |
 | [`results/emotion/deam_pilot/`](results/emotion/deam_pilot/) | Pilot report, metrics, predictions, and selected songs |
+| [`results/emotion/deam_cross_validation/`](results/emotion/deam_cross_validation/) | Full-corpus folds, predictions, metrics, and report |
 | [`results/corpus_clustering/no_vocals_mert/`](results/corpus_clustering/no_vocals_mert/) | Exploratory cross-video MERT clustering outputs |
 | [`data/emotion_reference/`](data/emotion_reference/) | Local reference datasets; intentionally not tracked by Git |
 | [`video/`](video/) | Local source-media drop folder; not tracked by Git |
@@ -129,7 +137,7 @@ Research datasets, their terms, and large audio are deliberately kept out of Git
 
 可复现的 DEAM 试验位于 [`scripts/deam_emotion_pilot.py`](scripts/deam_emotion_pilot.py)。它从第 15 秒开始切分 5 秒、不重叠的窗口，将每个窗口与 DEAM 每 500 毫秒的效价／唤醒度评分对齐，计算 62 维 Librosa 特征和 768 维 MERT 向量，并确保同一首歌的窗口始终位于同一个数据划分中。
 
-固定种子的初步试验使用 50 首歌曲（40 首训练／10 首留出测试，共 300 个窗口）。这次小型测试中，两类特征都优于训练集均值基线。接下来会扩展为全部可用 DEAM 曲目的打乱式五折验证，并比较 Librosa、MERT 和特征融合。现有结果只是探索性结果，**不能视为已验证的情绪模型，也不能证明模型能迁移到短视频音频**。详见[初步试验报告](results/emotion/deam_pilot/README.md)和[原始指标](results/emotion/deam_pilot/metrics.csv)。
+固定种子的初步试验使用 50 首歌曲（40 首训练／10 首留出测试，共 300 个窗口）。随后已对全部 1,802 首可用 DEAM 曲目进行打乱式五折验证，共 12,964 个不重叠窗口，并比较 Librosa、MERT 和特征融合。合并特征在 DEAM 汇总分数上表现最佳，但这仍是数据集内的探索性结果，**不是通用情绪模型，也不能证明模型能迁移到短视频音频**。详见[初步试验报告](results/emotion/deam_pilot/README.md)、[完整交叉验证报告](results/emotion/deam_cross_validation/README.md)和[交叉验证指标](results/emotion/deam_cross_validation/metrics.csv)。
 
 在仓库根目录运行：
 
@@ -141,6 +149,12 @@ python scripts/deam_emotion_pilot.py --n-tracks 50 --seed 42
 
 ```bash
 python scripts/deam_emotion_pilot.py --all-tracks --cv-folds 5 --seed 42 --output-dir results/emotion/deam_cross_validation
+```
+
+如果完整特征已缓存，只重跑评估：
+
+```bash
+python scripts/deam_emotion_cv.py --features-dir results/emotion/deam_cross_validation --folds 5 --seed 42
 ```
 
 脚本需要 `data/emotion_reference/` 中的本地 DEAM 文件，以及已缓存的 MERT 模型。若希望 Transformers 下载 MERT 模型代码和权重，请明确运行：
@@ -159,7 +173,7 @@ python scripts/deam_emotion_pilot.py --n-tracks 50 --seed 42 --download-model
 | 🎼 **Librosa** | MFCC、chroma、RMS／能量、频谱特征和音乐分析 |
 | 🧠 **PyTorch + Transformers + MERT** | 学习型、带时间戳的音乐向量 |
 | 🥁 **Demucs** | 估计人声／伴奏分离 |
-| 🧪 **scikit-learn** | 特征标准化、按歌曲留出评估和岭回归基线 |
+| 🧪 **scikit-learn** | 特征标准化、按歌曲分组交叉验证和岭回归基线 |
 | 🎹 **Basic Pitch**（可选） | 候选音符事件和 MIDI 转录 |
 | 🎞️ **FFmpeg** | 本地提取视频音轨和媒体格式转换 |
 
@@ -182,7 +196,9 @@ python scripts/deam_emotion_pilot.py --n-tracks 50 --seed 42 --download-model
 | [`notebooks/test.ipynb`](notebooks/test.ipynb) | 空白实验 notebook |
 | [`notebooks/notes.ipynb`](notebooks/notes.ipynb) | 研究方法、结果解释注意事项与工作日志 |
 | [`scripts/deam_emotion_pilot.py`](scripts/deam_emotion_pilot.py) | DEAM 特征／标签对齐与基线评估脚本 |
+| [`scripts/deam_emotion_cv.py`](scripts/deam_emotion_cv.py) | 对缓存的 DEAM 特征进行歌曲分组交叉验证 |
 | [`results/emotion/deam_pilot/`](results/emotion/deam_pilot/) | 试验报告、指标、预测和曲目清单 |
+| [`results/emotion/deam_cross_validation/`](results/emotion/deam_cross_validation/) | 全量曲目折分、预测、指标与报告 |
 | [`results/corpus_clustering/no_vocals_mert/`](results/corpus_clustering/no_vocals_mert/) | 跨视频 MERT 聚类探索结果 |
 | [`data/emotion_reference/`](data/emotion_reference/) | 本地参考数据集；不会由 Git 跟踪 |
 | [`video/`](video/) | 本地源媒体目录；不会由 Git 跟踪 |

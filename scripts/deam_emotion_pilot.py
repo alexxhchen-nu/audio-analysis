@@ -196,6 +196,7 @@ def metrics_for(
                 {
                     "model": model_name,
                     "target": target,
+                    "fold": fold,
                     "evaluation_unit": unit,
                     "metric": "rmse",
                     "value": float(np.sqrt(np.mean(np.square(truth - estimate)))),
@@ -204,6 +205,7 @@ def metrics_for(
                 {
                     "model": model_name,
                     "target": target,
+                    "fold": fold,
                     "evaluation_unit": unit,
                     "metric": "pearson_r",
                     "value": correlation(truth, estimate),
