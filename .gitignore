@@ -20,6 +20,9 @@
 /results/master/**/*.mid
 /results/master/**/*.midi
 
+# Milvus Lite 本地向量库
+/results/*.db
+
 # Python cache
 __pycache__/
 *.py[cod]
