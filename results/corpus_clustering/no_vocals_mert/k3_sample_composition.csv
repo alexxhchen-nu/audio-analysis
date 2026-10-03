@@ -1,0 +1,8 @@
+run,cluster_k3,sample,window_count
+all_windows,0,test_video,20
+all_windows,1,test_video,61
+all_windows,2,jiayou_guoqing,7
+all_windows,2,master/-国庆111572550806,10
+balanced_per_video,0,master/-国庆111572550806,7
+balanced_per_video,1,test_video,7
+balanced_per_video,2,jiayou_guoqing,7

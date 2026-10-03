@@ -11,3 +11,7 @@ For data that must survive remote-machine/container replacement, attach or mount
 Use [`notebooks/test.ipynb`](notebooks/test.ipynb) as a clean scratch notebook for future sample-specific experiments.
 
 [`notebooks/notes.ipynb`](notebooks/notes.ipynb) holds methodology notes and the work journal.
+
+## Cross-video clustering results
+
+The current exploratory no-vocals MERT clustering results are in [`results/corpus_clustering/no_vocals_mert/`](results/corpus_clustering/no_vocals_mert/). Open that folder in VS Code to view its README, assignments, score tables, and PCA plot.
