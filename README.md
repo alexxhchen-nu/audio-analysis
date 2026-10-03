@@ -92,7 +92,8 @@ The master notebook documents its baseline package setup. FFmpeg must also be av
 | [`scripts/deam_emotion_cv.py`](scripts/deam_emotion_cv.py) | Re-evaluate cached DEAM features with track-grouped cross-validation |
 | [`results/emotion/deam_pilot/`](results/emotion/deam_pilot/) | Pilot report, metrics, predictions, and selected songs |
 | [`results/emotion/deam_cross_validation/`](results/emotion/deam_cross_validation/) | Full-corpus folds, predictions, metrics, and report |
-| [`results/corpus_clustering/no_vocals_mert/`](results/corpus_clustering/no_vocals_mert/) | Exploratory cross-video MERT clustering outputs |
+| [`results/corpus_clustering/no_vocals_mert/`](results/corpus_clustering/no_vocals_mert/) | Cross-video MERT clusters and timestamped nearest-neighbor listening shortlist |
+| [`cross_video_nearest_neighbors.csv`](results/corpus_clustering/no_vocals_mert/cross_video_nearest_neighbors.csv) | Ranked cross-video window matches with timestamps and cosine similarity |
 | [`data/emotion_reference/`](data/emotion_reference/) | Local reference datasets; intentionally not tracked by Git |
 | [`video/`](video/) | Local source-media drop folder; not tracked by Git |
 
@@ -199,7 +200,8 @@ python scripts/deam_emotion_pilot.py --n-tracks 50 --seed 42 --download-model
 | [`scripts/deam_emotion_cv.py`](scripts/deam_emotion_cv.py) | 对缓存的 DEAM 特征进行歌曲分组交叉验证 |
 | [`results/emotion/deam_pilot/`](results/emotion/deam_pilot/) | 试验报告、指标、预测和曲目清单 |
 | [`results/emotion/deam_cross_validation/`](results/emotion/deam_cross_validation/) | 全量曲目折分、预测、指标与报告 |
-| [`results/corpus_clustering/no_vocals_mert/`](results/corpus_clustering/no_vocals_mert/) | 跨视频 MERT 聚类探索结果 |
+| [`results/corpus_clustering/no_vocals_mert/`](results/corpus_clustering/no_vocals_mert/) | 跨视频 MERT 聚类与带时间戳的近邻试听清单 |
+| [`cross_video_nearest_neighbors.csv`](results/corpus_clustering/no_vocals_mert/cross_video_nearest_neighbors.csv) | 含时间戳和余弦相似度的跨视频片段匹配排名 |
 | [`data/emotion_reference/`](data/emotion_reference/) | 本地参考数据集；不会由 Git 跟踪 |
 | [`video/`](video/) | 本地源媒体目录；不会由 Git 跟踪 |
 
