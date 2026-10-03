@@ -8,6 +8,8 @@
 
 # Notebook outputs and editor state
 /notebooks/youtube_audio_clustering.ipynb
+/notebooks/fun.ipynb
+/results/fun/
 .ipynb_checkpoints/
 
 # Python cache
