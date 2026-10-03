@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/“049831”，欢迎归队！父亲因公牺牲，时隔6年，女儿继承警号。接过警号时，她眼眶微红，令人泪目。_7688270719469276456/audio_original.wav,34.97206349206349,44100,2,1542268,1.0,0.004442807605422663,0.31463783979415894,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/“049831”，欢迎归队！父亲因公牺牲，时隔6年，女儿继承警号。接过警号时，她眼眶微红，令人泪目。_7688270719469276456/demucs/htdemucs/audio_original/vocals.wav,34.97206349206349,44100,2,1542268,0.98736572265625,0.0,0.2200106531381607,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/“049831”，欢迎归队！父亲因公牺牲，时隔6年，女儿继承警号。接过警号时，她眼眶微红，令人泪目。_7688270719469276456/demucs/htdemucs/audio_original/no_vocals.wav,34.97206349206349,44100,2,1542268,0.5770721435546875,0.0,0.11050505191087723,0.0,0.0001

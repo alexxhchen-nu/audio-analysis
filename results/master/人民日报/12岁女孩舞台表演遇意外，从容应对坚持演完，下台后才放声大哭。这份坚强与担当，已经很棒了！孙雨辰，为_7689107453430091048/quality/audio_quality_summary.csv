@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/12岁女孩舞台表演遇意外，从容应对坚持演完，下台后才放声大哭。这份坚强与担当，已经很棒了！孙雨辰，为_7689107453430091048/audio_original.wav,30.049433106575965,44100,2,1325180,1.0,9.6590651835977e-05,0.25625795125961304,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/12岁女孩舞台表演遇意外，从容应对坚持演完，下台后才放声大哭。这份坚强与担当，已经很棒了！孙雨辰，为_7689107453430091048/demucs/htdemucs/audio_original/vocals.wav,30.049433106575965,44100,2,1325180,0.9813079833984375,0.0,0.14718231558799744,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/12岁女孩舞台表演遇意外，从容应对坚持演完，下台后才放声大哭。这份坚强与担当，已经很棒了！孙雨辰，为_7689107453430091048/demucs/htdemucs/audio_original/no_vocals.wav,30.049433106575965,44100,2,1325180,0.7773284912109375,0.0,0.1810123324394226,0.0,0.0001

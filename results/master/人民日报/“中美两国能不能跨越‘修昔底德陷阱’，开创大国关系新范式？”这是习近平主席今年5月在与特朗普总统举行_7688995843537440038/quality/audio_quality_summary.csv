@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/“中美两国能不能跨越‘修昔底德陷阱’，开创大国关系新范式？”这是习近平主席今年5月在与特朗普总统举行_7688995843537440038/audio_analysis_trimmed.wav,100.2490022675737,44100,2,4420981,1.0,0.00013435931979802673,0.18678706884384155,0.004400694846554719,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/“中美两国能不能跨越‘修昔底德陷阱’，开创大国关系新范式？”这是习近平主席今年5月在与特朗普总统举行_7688995843537440038/demucs/htdemucs/audio_analysis_trimmed/vocals.wav,100.2490022675737,44100,2,4420981,0.98748779296875,0.0,0.15208619832992554,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/“中美两国能不能跨越‘修昔底德陷阱’，开创大国关系新范式？”这是习近平主席今年5月在与特朗普总统举行_7688995843537440038/demucs/htdemucs/audio_analysis_trimmed/no_vocals.wav,100.2490022675737,44100,2,4420981,0.9746246337890625,0.0,0.06459308415651321,0.0,0.0001

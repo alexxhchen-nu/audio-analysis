@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/11秒06，破亚运纪录！亚运会女子100米决赛，陈妤颉夺得金牌。点赞祝贺！_7689506617750080802/audio_original.wav,26.427120181405897,44100,2,1165436,0.8283233642578125,0.0,0.17403237521648407,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/11秒06，破亚运纪录！亚运会女子100米决赛，陈妤颉夺得金牌。点赞祝贺！_7689506617750080802/demucs/htdemucs/audio_original/vocals.wav,26.427120181405897,44100,2,1165436,0.6949615478515625,0.0,0.12576721608638763,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/11秒06，破亚运纪录！亚运会女子100米决赛，陈妤颉夺得金牌。点赞祝贺！_7689506617750080802/demucs/htdemucs/audio_original/no_vocals.wav,26.427120181405897,44100,2,1165436,0.4915008544921875,0.0,0.09934642910957336,0.0,0.0001

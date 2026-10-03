@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/11秒06，破亚运纪录！亚运会女子100米决赛，陈妤颉夺得金牌。点赞祝贺！_7689506617750080802/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 26.427120181405897,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1165436,
+  "peak_absolute_amplitude": 0.6949615478515625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.12576721608638763,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/tmp/master_runs/results/master/人民日报/2026年秋天，习近平主席远赴太平洋彼岸，开启举世瞩目的美国之行。三天两晚的国事访问，丰富了中美建设_7690016894669065499/audio_original.wav",
+  "duration_seconds": 99.94149659863946,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 4407420,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 0.00036665441460083224,
+  "rms_mean": 0.21242089569568634,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

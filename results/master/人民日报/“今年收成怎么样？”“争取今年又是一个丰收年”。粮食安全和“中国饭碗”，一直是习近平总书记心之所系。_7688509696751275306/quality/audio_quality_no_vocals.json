@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/“今年收成怎么样？”“争取今年又是一个丰收年”。粮食安全和“中国饭碗”，一直是习近平总书记心之所系。_7688509696751275306/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 73.7958276643991,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3254396,
+  "peak_absolute_amplitude": 0.98077392578125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.05973619222640991,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

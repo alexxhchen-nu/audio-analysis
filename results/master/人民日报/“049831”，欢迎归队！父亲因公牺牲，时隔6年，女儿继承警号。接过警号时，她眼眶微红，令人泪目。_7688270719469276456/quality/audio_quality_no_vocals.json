@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/“049831”，欢迎归队！父亲因公牺牲，时隔6年，女儿继承警号。接过警号时，她眼眶微红，令人泪目。_7688270719469276456/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 34.97206349206349,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1542268,
+  "peak_absolute_amplitude": 0.5770721435546875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.11050505191087723,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

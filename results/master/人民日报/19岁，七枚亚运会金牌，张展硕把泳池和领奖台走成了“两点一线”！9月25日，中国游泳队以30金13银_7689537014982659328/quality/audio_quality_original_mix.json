@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/tmp/master_runs/results/master/人民日报/19岁，七枚亚运会金牌，张展硕把泳池和领奖台走成了“两点一线”！9月25日，中国游泳队以30金13银_7689537014982659328/audio_original.wav",
+  "duration_seconds": 87.58848072562358,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3862652,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 7.766684650856458e-07,
+  "rms_mean": 0.15129467844963074,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

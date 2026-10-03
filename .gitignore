@@ -12,6 +12,14 @@
 /results/fun/
 .ipynb_checkpoints/
 
+# Master 工作流的批量分析产物（保留 CSV/JSON 清单，忽略大型媒体与中间文件）
+/results/master/**/*.wav
+/results/master/**/*.npy
+/results/master/**/demucs/
+/results/master/**/*.png
+/results/master/**/*.mid
+/results/master/**/*.midi
+
 # Python cache
 __pycache__/
 *.py[cod]
