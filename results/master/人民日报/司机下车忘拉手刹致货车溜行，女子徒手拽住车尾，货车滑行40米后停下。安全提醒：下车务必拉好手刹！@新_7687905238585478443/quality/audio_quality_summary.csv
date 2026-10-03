@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/司机下车忘拉手刹致货车溜行，女子徒手拽住车尾，货车滑行40米后停下。安全提醒：下车务必拉好手刹！@新_7687905238585478443/audio_original.wav,16.62829931972789,44100,2,733308,1.0,0.005859747882199567,0.32993027567863464,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/司机下车忘拉手刹致货车溜行，女子徒手拽住车尾，货车滑行40米后停下。安全提醒：下车务必拉好手刹！@新_7687905238585478443/demucs/htdemucs/audio_original/vocals.wav,16.62829931972789,44100,2,733308,0.985870361328125,0.0,0.2072077840566635,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/司机下车忘拉手刹致货车溜行，女子徒手拽住车尾，货车滑行40米后停下。安全提醒：下车务必拉好手刹！@新_7687905238585478443/demucs/htdemucs/audio_original/no_vocals.wav,16.62829931972789,44100,2,733308,0.9735565185546875,0.0,0.15180456638336182,0.0,0.0001

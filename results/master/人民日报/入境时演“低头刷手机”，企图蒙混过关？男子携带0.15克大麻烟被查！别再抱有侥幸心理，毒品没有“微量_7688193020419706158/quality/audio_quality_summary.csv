@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/入境时演“低头刷手机”，企图蒙混过关？男子携带0.15克大麻烟被查！别再抱有侥幸心理，毒品没有“微量_7688193020419706158/audio_original.wav,22.061768707482994,44100,2,972924,1.0,0.0007050910451381608,0.29961127042770386,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/入境时演“低头刷手机”，企图蒙混过关？男子携带0.15克大麻烟被查！别再抱有侥幸心理，毒品没有“微量_7688193020419706158/demucs/htdemucs/audio_original/vocals.wav,22.061768707482994,44100,2,972924,0.9887847900390625,0.0,0.18277546763420105,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/入境时演“低头刷手机”，企图蒙混过关？男子携带0.15克大麻烟被查！别再抱有侥幸心理，毒品没有“微量_7688193020419706158/demucs/htdemucs/audio_original/no_vocals.wav,22.061768707482994,44100,2,972924,0.72015380859375,0.0,0.1684931516647339,0.0,0.0001

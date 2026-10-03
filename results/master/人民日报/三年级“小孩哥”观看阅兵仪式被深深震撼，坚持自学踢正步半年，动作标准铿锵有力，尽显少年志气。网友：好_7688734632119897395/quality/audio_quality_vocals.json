@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/三年级“小孩哥”观看阅兵仪式被深深震撼，坚持自学踢正步半年，动作标准铿锵有力，尽显少年志气。网友：好_7688734632119897395/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 16.721179138321997,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 737404,
+  "peak_absolute_amplitude": 0.6463470458984375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.03588377684354782,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

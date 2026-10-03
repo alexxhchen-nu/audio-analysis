@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/一男子醉酒后参加科目三考试，被取消当日考试资格。驾照考试同样禁止饮酒，切勿心存侥幸！@遂宁公安@平安_7691225448893648191/audio_original.wav,12.913106575963718,44100,2,569468,1.0,0.00034593690953662015,0.17324134707450867,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/一男子醉酒后参加科目三考试，被取消当日考试资格。驾照考试同样禁止饮酒，切勿心存侥幸！@遂宁公安@平安_7691225448893648191/demucs/htdemucs/audio_original/vocals.wav,12.913106575963718,44100,2,569468,0.9693450927734375,0.0,0.12630333006381989,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/一男子醉酒后参加科目三考试，被取消当日考试资格。驾照考试同样禁止饮酒，切勿心存侥幸！@遂宁公安@平安_7691225448893648191/demucs/htdemucs/audio_original/no_vocals.wav,12.913106575963718,44100,2,569468,0.5107879638671875,0.0,0.08077920973300934,0.0,0.0001

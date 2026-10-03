@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/卫星上太空，居然也能“拼车”？7位“乘客”同乘一枚火箭，还得按顺序安全“下车”。一条Vlog带你看懂_7691177998250265871/audio_original.wav,195.14331065759637,44100,2,8605820,0.9943084716796875,0.0,0.11109764128923416,5.949193884228687e-05,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/卫星上太空，居然也能“拼车”？7位“乘客”同乘一枚火箭，还得按顺序安全“下车”。一条Vlog带你看懂_7691177998250265871/demucs/htdemucs/audio_original/vocals.wav,195.14331065759637,44100,2,8605820,0.844970703125,0.0,0.061117034405469894,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/卫星上太空，居然也能“拼车”？7位“乘客”同乘一枚火箭，还得按顺序安全“下车”。一条Vlog带你看懂_7691177998250265871/demucs/htdemucs/audio_original/no_vocals.wav,195.14331065759637,44100,2,8605820,0.968536376953125,0.0,0.08934568613767624,0.0,0.0001

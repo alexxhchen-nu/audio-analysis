@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/tmp/master_runs/results/master/人民日报/“他们为祖国和民族建立的丰功伟绩永载史册！他们的崇高精神永远铭记在人民心中！”9月30日，烈士纪念日_7690987616610635023/audio_original.wav",
+  "duration_seconds": 75.2354648526077,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3317884,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 3.918159887446336e-05,
+  "rms_mean": 0.15612216293811798,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

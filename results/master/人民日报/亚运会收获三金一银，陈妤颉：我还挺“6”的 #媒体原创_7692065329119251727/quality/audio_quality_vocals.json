@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/亚运会收获三金一银，陈妤颉：我还挺“6”的 #媒体原创_7692065329119251727/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 71.24163265306123,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3141756,
+  "peak_absolute_amplitude": 0.989959716796875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.15761946141719818,
+  "near_silence_frame_fraction": 0.00016294606485253382,
+  "near_silence_rms_threshold": 0.0001
+}

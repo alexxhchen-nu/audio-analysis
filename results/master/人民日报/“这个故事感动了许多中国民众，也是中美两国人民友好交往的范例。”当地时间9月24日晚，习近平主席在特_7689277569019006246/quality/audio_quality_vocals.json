@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/“这个故事感动了许多中国民众，也是中美两国人民友好交往的范例。”当地时间9月24日晚，习近平主席在特_7689277569019006246/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 26.659319727891155,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1175676,
+  "peak_absolute_amplitude": 0.321441650390625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.04497063532471657,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

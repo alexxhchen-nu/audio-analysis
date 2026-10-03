@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/tmp/master_runs/results/master/人民日报/“哥，这是我给你攒的零花钱！”19岁哥哥军训一个月没回家。13岁弟弟到学校看望哥哥，哭着从兜里掏出一_7689875158986689819/audio_original.wav",
+  "duration_seconds": 36.87609977324263,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1626236,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 4.919335201040931e-06,
+  "rms_mean": 0.23792149126529694,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

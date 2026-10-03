@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/“拿什么外套，你不要命了！”高速上一小车发生单方事故无法移动，滞留快车道，交警远程喊话。车内人员刚撤_7688226511555398955/audio_original.wav,31.860589569160997,44100,2,1405052,1.0,0.02088534801558946,0.47782233357429504,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/“拿什么外套，你不要命了！”高速上一小车发生单方事故无法移动，滞留快车道，交警远程喊话。车内人员刚撤_7688226511555398955/demucs/htdemucs/audio_original/vocals.wav,31.860589569160997,44100,2,1405052,0.9897613525390625,0.0,0.29559117555618286,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/“拿什么外套，你不要命了！”高速上一小车发生单方事故无法移动，滞留快车道，交警远程喊话。车内人员刚撤_7688226511555398955/demucs/htdemucs/audio_original/no_vocals.wav,31.860589569160997,44100,2,1405052,0.9799652099609375,0.0,0.24494867026805878,0.0,0.0001

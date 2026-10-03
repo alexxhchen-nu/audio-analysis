@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/tmp/master_runs/results/master/人民日报/“她是蛮可爱蛮可爱的。”这篇写于90多年前的文章，预言了我们今天的生活。10月1日国庆节，祝你我的生_7691540287558061347/audio_original.wav",
+  "duration_seconds": 153.30095238095237,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 6760572,
+  "peak_absolute_amplitude": 0.999969482421875,
+  "clipped_sample_fraction": 2.366663649170514e-06,
+  "rms_mean": 0.09118340164422989,
+  "near_silence_frame_fraction": 0.00015145778114350624,
+  "near_silence_rms_threshold": 0.0001
+}

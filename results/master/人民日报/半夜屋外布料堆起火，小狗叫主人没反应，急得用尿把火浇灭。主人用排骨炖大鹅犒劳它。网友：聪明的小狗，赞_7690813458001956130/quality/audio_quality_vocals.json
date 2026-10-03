@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/半夜屋外布料堆起火，小狗叫主人没反应，急得用尿把火浇灭。主人用排骨炖大鹅犒劳它。网友：聪明的小狗，赞_7690813458001956130/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 27.680997732426302,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1220732,
+  "peak_absolute_amplitude": 0.9891510009765625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.11314941197633743,
+  "near_silence_frame_fraction": 0.03773584905660377,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/受贿2.63亿余元！广西壮族自治区政协原党组成员、副主席彭晓春一审被判死缓。_7690915957614611758/audio_original.wav",
+  "duration_seconds": 26.52,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1169532,
+  "peak_absolute_amplitude": 0.7122039794921875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.09249208122491837,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

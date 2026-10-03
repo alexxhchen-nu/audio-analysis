@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/人力三轮车强行左转未让行，与机动车发生碰撞，全责！交警提示：未划分机动车道与非机动车道的道路，驾驶人_7687963809302072619/audio_original.wav,37.3869387755102,44100,2,1648764,1.0,0.004806024391604863,0.4441787898540497,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/人力三轮车强行左转未让行，与机动车发生碰撞，全责！交警提示：未划分机动车道与非机动车道的道路，驾驶人_7687963809302072619/demucs/htdemucs/audio_original/vocals.wav,37.3869387755102,44100,2,1648764,0.970489501953125,0.0,0.270401269197464,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/人力三轮车强行左转未让行，与机动车发生碰撞，全责！交警提示：未划分机动车道与非机动车道的道路，驾驶人_7687963809302072619/demucs/htdemucs/audio_original/no_vocals.wav,37.3869387755102,44100,2,1648764,0.9659423828125,0.0,0.21958833932876587,0.0,0.0001

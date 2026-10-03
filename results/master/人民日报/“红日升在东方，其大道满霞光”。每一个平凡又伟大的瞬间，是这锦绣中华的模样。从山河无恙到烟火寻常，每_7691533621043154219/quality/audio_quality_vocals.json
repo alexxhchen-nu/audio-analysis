@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/“红日升在东方，其大道满霞光”。每一个平凡又伟大的瞬间，是这锦绣中华的模样。从山河无恙到烟火寻常，每_7691533621043154219/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 164.8180498866213,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 7268476,
+  "peak_absolute_amplitude": 0.973236083984375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.13476642966270447,
+  "near_silence_frame_fraction": 0.06677467070507853,
+  "near_silence_rms_threshold": 0.0001
+}

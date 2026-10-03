@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/亚运会男女混合4x100米接力决赛，由陈妤颉、施君豪、刘国怡、陈锦丰组成的中国队夺得金牌。祝贺！_7690933090759281935/audio_original.wav,55.31274376417234,44100,2,2439292,0.8692779541015625,0.0,0.15065538883209229,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/亚运会男女混合4x100米接力决赛，由陈妤颉、施君豪、刘国怡、陈锦丰组成的中国队夺得金牌。祝贺！_7690933090759281935/demucs/htdemucs/audio_original/vocals.wav,55.31274376417234,44100,2,2439292,0.714508056640625,0.0,0.08669372648000717,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/亚运会男女混合4x100米接力决赛，由陈妤颉、施君豪、刘国怡、陈锦丰组成的中国队夺得金牌。祝贺！_7690933090759281935/demucs/htdemucs/audio_original/no_vocals.wav,55.31274376417234,44100,2,2439292,0.583465576171875,0.0,0.1092212125658989,0.0,0.0001

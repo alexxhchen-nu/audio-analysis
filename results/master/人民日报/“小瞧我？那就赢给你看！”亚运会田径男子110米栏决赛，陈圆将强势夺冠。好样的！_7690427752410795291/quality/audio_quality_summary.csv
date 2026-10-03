@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/“小瞧我？那就赢给你看！”亚运会田径男子110米栏决赛，陈圆将强势夺冠。好样的！_7690427752410795291/audio_original.wav,68.13015873015873,44100,2,3004540,1.0,9.98488953383879e-07,0.15051768720149994,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/“小瞧我？那就赢给你看！”亚运会田径男子110米栏决赛，陈圆将强势夺冠。好样的！_7690427752410795291/demucs/htdemucs/audio_original/vocals.wav,68.13015873015873,44100,2,3004540,0.967193603515625,0.0,0.11754879355430603,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/“小瞧我？那就赢给你看！”亚运会田径男子110米栏决赛，陈圆将强势夺冠。好样的！_7690427752410795291/demucs/htdemucs/audio_original/no_vocals.wav,68.13015873015873,44100,2,3004540,0.8416290283203125,0.0,0.06722662597894669,0.0,0.0001

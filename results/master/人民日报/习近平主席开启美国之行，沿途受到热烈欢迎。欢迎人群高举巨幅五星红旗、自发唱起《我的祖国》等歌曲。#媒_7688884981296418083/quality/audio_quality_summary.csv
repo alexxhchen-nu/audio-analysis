@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/习近平主席开启美国之行，沿途受到热烈欢迎。欢迎人群高举巨幅五星红旗、自发唱起《我的祖国》等歌曲。#媒_7688884981296418083/audio_original.wav,20.526439909297054,44100,2,905216,1.0,0.0002684442166289593,0.23244503140449524,0.014132278123233465,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/习近平主席开启美国之行，沿途受到热烈欢迎。欢迎人群高举巨幅五星红旗、自发唱起《我的祖国》等歌曲。#媒_7688884981296418083/demucs/htdemucs/audio_original/vocals.wav,20.526439909297054,44100,2,905216,0.9573822021484375,0.0,0.14383243024349213,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/习近平主席开启美国之行，沿途受到热烈欢迎。欢迎人群高举巨幅五星红旗、自发唱起《我的祖国》等歌曲。#媒_7688884981296418083/demucs/htdemucs/audio_original/no_vocals.wav,20.526439909297054,44100,2,905216,0.883331298828125,0.0,0.13350991904735565,0.0,0.0001

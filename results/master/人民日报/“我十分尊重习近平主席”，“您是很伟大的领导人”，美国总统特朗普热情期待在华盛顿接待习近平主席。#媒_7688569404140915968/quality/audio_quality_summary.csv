@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/“我十分尊重习近平主席”，“您是很伟大的领导人”，美国总统特朗普热情期待在华盛顿接待习近平主席。#媒_7688569404140915968/audio_original.wav,55.68145124716553,44100,2,2455552,0.823577880859375,0.0,0.12651005387306213,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/“我十分尊重习近平主席”，“您是很伟大的领导人”，美国总统特朗普热情期待在华盛顿接待习近平主席。#媒_7688569404140915968/demucs/htdemucs/audio_original/vocals.wav,55.68145124716553,44100,2,2455552,0.8005523681640625,0.0,0.10280048847198486,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/“我十分尊重习近平主席”，“您是很伟大的领导人”，美国总统特朗普热情期待在华盛顿接待习近平主席。#媒_7688569404140915968/demucs/htdemucs/audio_original/no_vocals.wav,55.68145124716553,44100,2,2455552,0.33233642578125,0.0,0.06765259057283401,0.0,0.0001

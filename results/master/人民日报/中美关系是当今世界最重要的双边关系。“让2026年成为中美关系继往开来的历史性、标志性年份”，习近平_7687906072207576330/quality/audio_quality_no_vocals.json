@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/中美关系是当今世界最重要的双边关系。“让2026年成为中美关系继往开来的历史性、标志性年份”，习近平_7687906072207576330/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 60.88553287981859,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2685052,
+  "peak_absolute_amplitude": 0.7886962890625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.08368553221225739,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

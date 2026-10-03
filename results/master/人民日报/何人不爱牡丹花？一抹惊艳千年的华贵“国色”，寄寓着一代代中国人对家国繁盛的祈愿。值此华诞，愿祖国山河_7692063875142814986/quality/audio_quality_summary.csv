@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/何人不爱牡丹花？一抹惊艳千年的华贵“国色”，寄寓着一代代中国人对家国繁盛的祈愿。值此华诞，愿祖国山河_7692063875142814986/audio_analysis_trimmed.wav,82.29410430839002,44100,2,3629170,1.0,1.1297348980620913e-05,0.1427745670080185,0.004231908590774439,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/何人不爱牡丹花？一抹惊艳千年的华贵“国色”，寄寓着一代代中国人对家国繁盛的祈愿。值此华诞，愿祖国山河_7692063875142814986/demucs/htdemucs/audio_analysis_trimmed/vocals.wav,82.29410430839002,44100,2,3629170,0.9779205322265625,0.0,0.11443746089935303,0.025532515164339117,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/何人不爱牡丹花？一抹惊艳千年的华贵“国色”，寄寓着一代代中国人对家国繁盛的祈愿。值此华诞，愿祖国山河_7692063875142814986/demucs/htdemucs/audio_analysis_trimmed/no_vocals.wav,82.29410430839002,44100,2,3629170,0.8836517333984375,0.0,0.06637579202651978,0.0,0.0001

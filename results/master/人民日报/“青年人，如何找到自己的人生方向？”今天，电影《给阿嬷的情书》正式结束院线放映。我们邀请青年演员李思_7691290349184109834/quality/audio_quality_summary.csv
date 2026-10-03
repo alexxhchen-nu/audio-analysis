@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/“青年人，如何找到自己的人生方向？”今天，电影《给阿嬷的情书》正式结束院线放映。我们邀请青年演员李思_7691290349184109834/audio_original.wav,140.57641723356008,44100,2,6199420,0.9471282958984375,0.0,0.09973720461130142,0.00016516640515319185,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/“青年人，如何找到自己的人生方向？”今天，电影《给阿嬷的情书》正式结束院线放映。我们邀请青年演员李思_7691290349184109834/demucs/htdemucs/audio_original/vocals.wav,140.57641723356008,44100,2,6199420,0.94879150390625,0.0,0.08501698821783066,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/“青年人，如何找到自己的人生方向？”今天，电影《给阿嬷的情书》正式结束院线放映。我们邀请青年演员李思_7691290349184109834/demucs/htdemucs/audio_original/no_vocals.wav,140.57641723356008,44100,2,6199420,0.7256927490234375,0.0,0.04715387523174286,0.0,0.0001

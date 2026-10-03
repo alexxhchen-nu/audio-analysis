@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/一气呵成！民警抓逃犯过程中，两名群众机智上演“神助攻”......网友：警民配合好丝滑！记者：杨迅（_7691524338205347122/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 24.33732426303855,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1073276,
+  "peak_absolute_amplitude": 0.8845977783203125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.07464028149843216,
+  "near_silence_frame_fraction": 0.0004768717215069146,
+  "near_silence_rms_threshold": 0.0001
+}

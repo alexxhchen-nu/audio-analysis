@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/“硬核课堂”小技能——今天学习如何射击榴弹炮。_7687985320578665762/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 34.55410430839002,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1523836,
+  "peak_absolute_amplitude": 0.8570404052734375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.10461807996034622,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/“妈妈骄傲的是你没有放弃呀！”妈妈发现孩子把常错的题目终于做对时，和爸爸一起表扬了孩子。父母一句当面_7691331939185331456/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 57.82049886621315,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2549884,
+  "peak_absolute_amplitude": 0.8511199951171875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.09992986172437668,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

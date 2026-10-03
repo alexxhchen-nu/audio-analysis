@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/中美关系，是竞争还是合作？美国著名经济学家、哥伦比亚大学教授杰弗里·萨克斯在接受人民日报专访时表示，_7692413882559728923/audio_analysis_trimmed.wav,229.96501133786848,44100,2,10141457,0.999969482421875,6.902361268208306e-07,0.12085825204849243,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/中美关系，是竞争还是合作？美国著名经济学家、哥伦比亚大学教授杰弗里·萨克斯在接受人民日报专访时表示，_7692413882559728923/demucs/htdemucs/audio_analysis_trimmed/vocals.wav,229.96501133786848,44100,2,10141457,0.9897308349609375,0.0,0.11700499057769775,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/中美关系，是竞争还是合作？美国著名经济学家、哥伦比亚大学教授杰弗里·萨克斯在接受人民日报专访时表示，_7692413882559728923/demucs/htdemucs/audio_analysis_trimmed/no_vocals.wav,229.96501133786848,44100,2,10141457,0.02752685546875,0.0,0.0033845235593616962,0.0,0.0001

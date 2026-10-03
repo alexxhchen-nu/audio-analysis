@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/从一个村庄之变看“中国梦是人民的梦”，从一片绿水青山看“人与自然和谐共生”，从一段鼓岭情缘看“中美人_7689067826967104783/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 174.91591836734693,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 7713792,
+  "peak_absolute_amplitude": 0.9714813232421875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.06296481192111969,
+  "near_silence_frame_fraction": 0.002455697882790204,
+  "near_silence_rms_threshold": 0.0001
+}

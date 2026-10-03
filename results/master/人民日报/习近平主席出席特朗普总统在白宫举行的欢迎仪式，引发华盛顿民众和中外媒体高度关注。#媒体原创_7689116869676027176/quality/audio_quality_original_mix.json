@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/tmp/master_runs/results/master/人民日报/习近平主席出席特朗普总统在白宫举行的欢迎仪式，引发华盛顿民众和中外媒体高度关注。#媒体原创_7689116869676027176/audio_original.wav",
+  "duration_seconds": 9.334421768707482,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 411648,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 0.0006534709266169154,
+  "rms_mean": 0.15831585228443146,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

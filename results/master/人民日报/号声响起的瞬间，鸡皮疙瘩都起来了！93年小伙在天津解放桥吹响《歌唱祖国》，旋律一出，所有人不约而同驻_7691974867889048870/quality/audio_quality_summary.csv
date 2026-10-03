@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/号声响起的瞬间，鸡皮疙瘩都起来了！93年小伙在天津解放桥吹响《歌唱祖国》，旋律一出，所有人不约而同驻_7691974867889048870/audio_original.wav,43.84208616780045,44100,2,1933436,0.6588287353515625,0.0,0.06793239712715149,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/号声响起的瞬间，鸡皮疙瘩都起来了！93年小伙在天津解放桥吹响《歌唱祖国》，旋律一出，所有人不约而同驻_7691974867889048870/demucs/htdemucs/audio_original/vocals.wav,43.84208616780045,44100,2,1933436,0.645782470703125,0.0,0.04318970814347267,0.0015885623510722795,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/号声响起的瞬间，鸡皮疙瘩都起来了！93年小伙在天津解放桥吹响《歌唱祖国》，旋律一出，所有人不约而同驻_7691974867889048870/demucs/htdemucs/audio_original/no_vocals.wav,43.84208616780045,44100,2,1933436,0.4793701171875,0.0,0.04748876392841339,0.0,0.0001

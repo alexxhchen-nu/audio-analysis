@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/今年秋天，湖南省溆浦县中都乡学校的学生们迎来一堂开在田野间的乡村摄影课，真实的乡土成为了最好的老师。_7688553695365188898/demucs/htdemucs/audio_analysis_trimmed/no_vocals.wav",
+  "duration_seconds": 293.0080045351474,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 12921653,
+  "peak_absolute_amplitude": 0.970916748046875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.11269766092300415,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

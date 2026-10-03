@@ -1,0 +1,4 @@
+stem,duration_seconds,estimated_tempo_bpm,detected_beats,top_key_candidate,top_key_correlation,top_key_margin,candidate_boundaries
+original_mix,26.52,135.99917763157896,58,D:min,0.4262735509582896,0.06558850804603639,8
+vocals,26.52,112.34714673913044,50,D#:min,0.31282878910100537,0.01752794139077002,8
+no_vocals,26.52,89.10290948275862,36,D:min,0.4312432263408165,0.08141439796418881,8

@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/关于中美关系、人工智能和人类未来等话题，人民日报新媒体独家对话美国企业家埃隆·马斯克。#媒体原创_7691339621950623014/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 622.8084353741497,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 27465852,
+  "peak_absolute_amplitude": 0.957672119140625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.06629479676485062,
+  "near_silence_frame_fraction": 0.0627831111939603,
+  "near_silence_rms_threshold": 0.0001
+}

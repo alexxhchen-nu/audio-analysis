@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/可爱一幕！一烤鱼店老板正在做烤鱼，一抬头，4只猫齐刷刷蹲在房檐上“围观”……网友：一看就是老顾客了！_7690205650827185408/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 13.656145124716554,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 602236,
+  "peak_absolute_amplitude": 0.98834228515625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.1390880048274994,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

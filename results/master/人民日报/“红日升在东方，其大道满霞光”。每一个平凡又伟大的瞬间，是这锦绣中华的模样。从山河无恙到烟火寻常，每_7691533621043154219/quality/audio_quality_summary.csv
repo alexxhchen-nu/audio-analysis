@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/“红日升在东方，其大道满霞光”。每一个平凡又伟大的瞬间，是这锦绣中华的模样。从山河无恙到烟火寻常，每_7691533621043154219/audio_original.wav,164.8180498866213,44100,2,7268476,1.0,1.2382238037244672e-06,0.17431342601776123,0.00014087483271113616,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/“红日升在东方，其大道满霞光”。每一个平凡又伟大的瞬间，是这锦绣中华的模样。从山河无恙到烟火寻常，每_7691533621043154219/demucs/htdemucs/audio_original/vocals.wav,164.8180498866213,44100,2,7268476,0.973236083984375,0.0,0.13476642966270447,0.06677467070507853,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/“红日升在东方，其大道满霞光”。每一个平凡又伟大的瞬间，是这锦绣中华的模样。从山河无恙到烟火寻常，每_7691533621043154219/demucs/htdemucs/audio_original/no_vocals.wav,164.8180498866213,44100,2,7268476,0.7283172607421875,0.0,0.08476299047470093,0.00014087483271113616,0.0001

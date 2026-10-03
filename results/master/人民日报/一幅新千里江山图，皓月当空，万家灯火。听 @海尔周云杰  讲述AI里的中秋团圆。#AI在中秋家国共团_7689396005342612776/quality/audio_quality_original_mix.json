@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/tmp/master_runs/results/master/人民日报/一幅新千里江山图，皓月当空，万家灯火。听 @海尔周云杰  讲述AI里的中秋团圆。#AI在中秋家国共团_7689396005342612776/audio_original.wav",
+  "duration_seconds": 186.50548752834467,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 8224892,
+  "peak_absolute_amplitude": 0.8892364501953125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.08736437559127808,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

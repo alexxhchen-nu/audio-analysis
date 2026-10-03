@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/古法造纸技艺再现，一幅约14米长、4米宽的“四丈宣”在匠人们的精心捞制下震撼诞生。108道工序，56_7691175387040140590/audio_original.wav",
+  "duration_seconds": 32.55718820861678,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1435772,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 6.964894147538745e-07,
+  "rms_mean": 0.15339361131191254,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

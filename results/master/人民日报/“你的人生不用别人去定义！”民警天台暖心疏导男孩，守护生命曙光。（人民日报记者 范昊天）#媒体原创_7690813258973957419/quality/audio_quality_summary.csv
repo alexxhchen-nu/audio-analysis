@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/“你的人生不用别人去定义！”民警天台暖心疏导男孩，守护生命曙光。（人民日报记者 范昊天）#媒体原创_7690813258973957419/audio_original.wav,33.578866213151926,44100,2,1480828,1.0,8.77887236059826e-06,0.1637110412120819,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/“你的人生不用别人去定义！”民警天台暖心疏导男孩，守护生命曙光。（人民日报记者 范昊天）#媒体原创_7690813258973957419/demucs/htdemucs/audio_original/vocals.wav,33.578866213151926,44100,2,1480828,0.9899444580078125,0.0,0.159596785902977,0.0,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/“你的人生不用别人去定义！”民警天台暖心疏导男孩，守护生命曙光。（人民日报记者 范昊天）#媒体原创_7690813258973957419/demucs/htdemucs/audio_original/no_vocals.wav,33.578866213151926,44100,2,1480828,0.3953704833984375,0.0,0.009945164434611797,0.0,0.0001

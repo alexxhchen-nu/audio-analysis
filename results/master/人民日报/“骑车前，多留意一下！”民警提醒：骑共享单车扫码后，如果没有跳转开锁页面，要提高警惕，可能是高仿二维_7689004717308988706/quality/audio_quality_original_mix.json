@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/tmp/master_runs/results/master/人民日报/“骑车前，多留意一下！”民警提醒：骑共享单车扫码后，如果没有跳转开锁页面，要提高警惕，可能是高仿二维_7689004717308988706/audio_original.wav",
+  "duration_seconds": 41.05569160997732,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1810556,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 5.5231652597323694e-06,
+  "rms_mean": 0.20374853909015656,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

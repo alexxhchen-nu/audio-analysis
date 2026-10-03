@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/tmp/master_runs/results/master/人民日报/做珠宝，如何比出真功夫？备选选手柯璐瑶1分钟带你看懂珠宝加工赛项。#媒体原创_7689999116553800970/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 50.854512471655326,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2242684,
+  "peak_absolute_amplitude": 0.6640625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.0333339162170887,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/不满14岁考入国防科大，43岁高位截肢后仍冲锋不止…28日，“时代楷模”王戟同志先进事迹报告会在人民_7690952538186665252/audio_original.wav,127.9447619047619,44100,2,5642364,1.0,4.430766962216546e-06,0.10413497686386108,0.00018147173577715272,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/不满14岁考入国防科大，43岁高位截肢后仍冲锋不止…28日，“时代楷模”王戟同志先进事迹报告会在人民_7690952538186665252/demucs/htdemucs/audio_original/vocals.wav,127.9447619047619,44100,2,5642364,0.98699951171875,0.0,0.08385740965604782,0.003085019508211596,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/不满14岁考入国防科大，43岁高位截肢后仍冲锋不止…28日，“时代楷模”王戟同志先进事迹报告会在人民_7690952538186665252/demucs/htdemucs/audio_original/no_vocals.wav,127.9447619047619,44100,2,5642364,0.9833831787109375,0.0,0.0514693520963192,0.0,0.0001

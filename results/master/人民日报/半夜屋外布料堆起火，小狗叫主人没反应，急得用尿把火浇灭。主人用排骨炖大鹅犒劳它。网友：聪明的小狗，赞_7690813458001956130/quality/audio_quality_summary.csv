@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/半夜屋外布料堆起火，小狗叫主人没反应，急得用尿把火浇灭。主人用排骨炖大鹅犒劳它。网友：聪明的小狗，赞_7690813458001956130/audio_original.wav,27.680997732426302,44100,2,1220732,1.0,2.211787681489467e-05,0.1575051099061966,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/半夜屋外布料堆起火，小狗叫主人没反应，急得用尿把火浇灭。主人用排骨炖大鹅犒劳它。网友：聪明的小狗，赞_7690813458001956130/demucs/htdemucs/audio_original/vocals.wav,27.680997732426302,44100,2,1220732,0.9891510009765625,0.0,0.11314941197633743,0.03773584905660377,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/半夜屋外布料堆起火，小狗叫主人没反应，急得用尿把火浇灭。主人用排骨炖大鹅犒劳它。网友：聪明的小狗，赞_7690813458001956130/demucs/htdemucs/audio_original/no_vocals.wav,27.680997732426302,44100,2,1220732,0.95745849609375,0.0,0.09811511635780334,0.0,0.0001

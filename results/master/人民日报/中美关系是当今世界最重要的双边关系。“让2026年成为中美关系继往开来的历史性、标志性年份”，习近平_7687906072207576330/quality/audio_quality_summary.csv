@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/tmp/master_runs/results/master/人民日报/中美关系是当今世界最重要的双边关系。“让2026年成为中美关系继往开来的历史性、标志性年份”，习近平_7687906072207576330/audio_original.wav,60.88553287981859,44100,2,2685052,1.0,4.133998149756504e-05,0.2163010537624359,0.0,0.0001
+vocals,/tmp/master_runs/results/master/人民日报/中美关系是当今世界最重要的双边关系。“让2026年成为中美关系继往开来的历史性、标志性年份”，习近平_7687906072207576330/demucs/htdemucs/audio_original/vocals.wav,60.88553287981859,44100,2,2685052,0.9535980224609375,0.0,0.16486187279224396,0.00019065776930409913,0.0001
+no_vocals,/tmp/master_runs/results/master/人民日报/中美关系是当今世界最重要的双边关系。“让2026年成为中美关系继往开来的历史性、标志性年份”，习近平_7687906072207576330/demucs/htdemucs/audio_original/no_vocals.wav,60.88553287981859,44100,2,2685052,0.7886962890625,0.0,0.08368553221225739,0.0,0.0001
