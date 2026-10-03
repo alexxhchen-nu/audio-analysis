@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/-国庆111572550806/audio_original.wav",
+  "duration_seconds": 29.90730158730159,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1318912,
+  "peak_absolute_amplitude": 0.8261871337890625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.15113626420497894,
+  "near_silence_frame_fraction": 0.029879705083430345,
+  "near_silence_rms_threshold": 0.0001
+}
