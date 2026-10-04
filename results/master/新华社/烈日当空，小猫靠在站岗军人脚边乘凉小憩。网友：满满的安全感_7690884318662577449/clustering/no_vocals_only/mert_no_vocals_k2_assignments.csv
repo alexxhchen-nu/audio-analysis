@@ -1,0 +1,4 @@
+embedding_row,part,start_seconds,end_seconds,actual_duration_seconds,cluster_k2
+6,no_vocals,0.0,5.0,5.0,0
+7,no_vocals,2.5,7.5,5.0,0
+8,no_vocals,5.0,10.0,5.0,1
