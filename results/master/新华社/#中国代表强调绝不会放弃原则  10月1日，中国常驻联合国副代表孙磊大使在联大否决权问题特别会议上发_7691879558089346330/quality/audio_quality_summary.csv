@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/#中国代表强调绝不会放弃原则  10月1日，中国常驻联合国副代表孙磊大使在联大否决权问题特别会议上发_7691879558089346330/audio_original.wav,76.58222222222223,44100,2,3377276,1.0,5.625835732702924e-06,0.1780247837305069,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/#中国代表强调绝不会放弃原则  10月1日，中国常驻联合国副代表孙磊大使在联大否决权问题特别会议上发_7691879558089346330/demucs/htdemucs/audio_original/vocals.wav,76.58222222222223,44100,2,3377276,0.9899749755859375,0.0,0.13510872423648834,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/#中国代表强调绝不会放弃原则  10月1日，中国常驻联合国副代表孙磊大使在联大否决权问题特别会议上发_7691879558089346330/demucs/htdemucs/audio_original/no_vocals.wav,76.58222222222223,44100,2,3377276,0.9885101318359375,0.0,0.0979514792561531,0.0,0.0001

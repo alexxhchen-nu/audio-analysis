@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/#中国代表强调绝不会放弃原则  10月1日，中国常驻联合国副代表孙磊大使在联大否决权问题特别会议上发_7691879558089346330/audio_original.wav",
+  "duration_seconds": 76.58222222222223,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3377276,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 5.625835732702924e-06,
+  "rms_mean": 0.1780247837305069,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/#今年我国粮食丰收在望_7690778521987321131/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 10.219591836734693,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 450684,
+  "peak_absolute_amplitude": 0.0179290771484375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.0002693179121706635,
+  "near_silence_frame_fraction": 0.0011350737797956867,
+  "near_silence_rms_threshold": 0.0001
+}
