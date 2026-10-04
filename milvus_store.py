@@ -6,6 +6,7 @@
     upsert_video(results_dir)          # 单视频入库（master.ipynb 工作流末尾自动调用）
     hits = search_similar("人民日报", "<视频名>")  # 以某视频为查询，找最近邻
 """
+import os
 from pathlib import Path
 
 import numpy as np
@@ -17,9 +18,12 @@ DB_PATH = PROJECT_ROOT / "results" / "milvus_mert.db"
 COLLECTION = "mert_embeddings"
 DIM = 768  # MERT-v1-95M 输出维度
 
+# 默认 Milvus Lite（本地文件）；设 MILVUS_URI=http://127.0.0.1:19530 走 Server
+MILVUS_URI = os.environ.get("MILVUS_URI", str(DB_PATH))
+
 
 def get_client() -> MilvusClient:
-    client = MilvusClient(str(DB_PATH))
+    client = MilvusClient(MILVUS_URI)
     _ensure_collection(client)
     return client
 
