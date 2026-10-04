@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/时隔28年！中国男足再夺亚运铜牌。这是亚运会男足项目实行U23年龄限制后，中国队首次获得奖牌。祝贺！_7692418769125199138/audio_original.wav,17.557097505668935,44100,2,774268,0.998077392578125,0.0,0.2013145238161087,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/时隔28年！中国男足再夺亚运铜牌。这是亚运会男足项目实行U23年龄限制后，中国队首次获得奖牌。祝贺！_7692418769125199138/demucs/htdemucs/audio_original/vocals.wav,17.557097505668935,44100,2,774268,0.78131103515625,0.0,0.145430788397789,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/时隔28年！中国男足再夺亚运铜牌。这是亚运会男足项目实行U23年龄限制后，中国队首次获得奖牌。祝贺！_7692418769125199138/demucs/htdemucs/audio_original/no_vocals.wav,17.557097505668935,44100,2,774268,0.860504150390625,0.0,0.12320342659950256,0.0,0.0001

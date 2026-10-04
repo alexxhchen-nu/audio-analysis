@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/记忆里的《倔强的小红军》，终于有了画面 #媒体原创_7690587319459482895/audio_original.wav,321.7849433106576,44100,2,14190716,0.6976318359375,0.0,0.05155373364686966,0.003463578309340838,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/记忆里的《倔强的小红军》，终于有了画面 #媒体原创_7690587319459482895/demucs/htdemucs/audio_original/vocals.wav,321.7849433106576,44100,2,14190716,0.679412841796875,0.0,0.045657381415367126,0.043475123570371976,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/记忆里的《倔强的小红军》，终于有了画面 #媒体原创_7690587319459482895/demucs/htdemucs/audio_original/no_vocals.wav,321.7849433106576,44100,2,14190716,0.5651397705078125,0.0,0.019580120220780373,0.0034274993686185373,0.0001

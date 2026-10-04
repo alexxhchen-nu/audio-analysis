@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/完整版！天安门广场举行国庆升旗仪式。五星红旗冉冉升起，祝祖国山河锦绣，愿人民幸福安康！_7691457227504323886/audio_original.wav,203.68825396825397,44100,2,8982652,1.0,1.825741440278439e-05,0.09451224654912949,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/完整版！天安门广场举行国庆升旗仪式。五星红旗冉冉升起，祝祖国山河锦绣，愿人民幸福安康！_7691457227504323886/demucs/htdemucs/audio_original/vocals.wav,203.68825396825397,44100,2,8982652,0.9888916015625,0.0,0.03907136991620064,0.493872898261613,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/完整版！天安门广场举行国庆升旗仪式。五星红旗冉冉升起，祝祖国山河锦绣，愿人民幸福安康！_7691457227504323886/demucs/htdemucs/audio_original/no_vocals.wav,203.68825396825397,44100,2,8982652,0.977691650390625,0.0,0.07866452634334564,0.0,0.0001

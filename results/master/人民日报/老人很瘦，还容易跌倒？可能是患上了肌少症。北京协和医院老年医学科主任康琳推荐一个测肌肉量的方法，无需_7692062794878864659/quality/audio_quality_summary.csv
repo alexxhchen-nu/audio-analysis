@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/老人很瘦，还容易跌倒？可能是患上了肌少症。北京协和医院老年医学科主任康琳推荐一个测肌肉量的方法，无需_7692062794878864659/audio_original.wav,69.98775510204082,44100,2,3086460,0.994415283203125,0.0,0.11175848543643951,0.0001658649859014762,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/老人很瘦，还容易跌倒？可能是患上了肌少症。北京协和医院老年医学科主任康琳推荐一个测肌肉量的方法，无需_7692062794878864659/demucs/htdemucs/audio_original/vocals.wav,69.98775510204082,44100,2,3086460,0.98681640625,0.0,0.0998690202832222,0.017415823519655,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/老人很瘦，还容易跌倒？可能是患上了肌少症。北京协和医院老年医学科主任康琳推荐一个测肌肉量的方法，无需_7692062794878864659/demucs/htdemucs/audio_original/no_vocals.wav,69.98775510204082,44100,2,3086460,0.75811767578125,0.0,0.04630991071462631,0.0,0.0001

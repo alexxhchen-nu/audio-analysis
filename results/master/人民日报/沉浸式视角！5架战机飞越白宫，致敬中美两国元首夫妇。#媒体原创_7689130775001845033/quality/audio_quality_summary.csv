@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/沉浸式视角！5架战机飞越白宫，致敬中美两国元首夫妇。#媒体原创_7689130775001845033/audio_original.wav,17.975056689342402,44100,2,792700,1.0,3.532231613472941e-05,0.25293171405792236,0.001936733376371853,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/沉浸式视角！5架战机飞越白宫，致敬中美两国元首夫妇。#媒体原创_7689130775001845033/demucs/htdemucs/audio_original/vocals.wav,17.975056689342402,44100,2,792700,0.247955322265625,0.0,0.014340168796479702,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/沉浸式视角！5架战机飞越白宫，致敬中美两国元首夫妇。#媒体原创_7689130775001845033/demucs/htdemucs/audio_original/no_vocals.wav,17.975056689342402,44100,2,792700,0.96923828125,0.0,0.237506702542305,0.0,0.0001

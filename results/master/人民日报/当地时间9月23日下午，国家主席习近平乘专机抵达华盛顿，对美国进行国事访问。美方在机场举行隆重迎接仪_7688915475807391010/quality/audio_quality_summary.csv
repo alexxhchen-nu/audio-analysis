@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，对美国进行国事访问。美方在机场举行隆重迎接仪_7688915475807391010/audio_original.wav,58.142766439909295,44100,2,2564096,0.9368743896484375,0.0,0.14361315965652466,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，对美国进行国事访问。美方在机场举行隆重迎接仪_7688915475807391010/demucs/htdemucs/audio_original/vocals.wav,58.142766439909295,44100,2,2564096,0.606353759765625,0.0,0.04308135062456131,0.039728488720303455,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，对美国进行国事访问。美方在机场举行隆重迎接仪_7688915475807391010/demucs/htdemucs/audio_original/no_vocals.wav,58.142766439909295,44100,2,2564096,0.8406524658203125,0.0,0.12915736436843872,0.0,0.0001

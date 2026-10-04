@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/新郎家挨着学校，婚礼前夜，他给下晚自习的学生发喜糖和可乐，分享喜气。网友：百子送福，百年好合！@王情_7688699062614363435/audio_original.wav,14.724263038548752,44100,2,649340,0.988250732421875,0.0,0.22040508687496185,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/新郎家挨着学校，婚礼前夜，他给下晚自习的学生发喜糖和可乐，分享喜气。网友：百子送福，百年好合！@王情_7688699062614363435/demucs/htdemucs/audio_original/vocals.wav,14.724263038548752,44100,2,649340,0.803253173828125,0.0,0.14211265742778778,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/新郎家挨着学校，婚礼前夜，他给下晚自习的学生发喜糖和可乐，分享喜气。网友：百子送福，百年好合！@王情_7688699062614363435/demucs/htdemucs/audio_original/no_vocals.wav,14.724263038548752,44100,2,649340,0.851226806640625,0.0,0.1522092968225479,0.0,0.0001

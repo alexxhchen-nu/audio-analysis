@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/这一幕好有爱！小学生们放学过斑马线，一路小跑奔向执勤交警求抱抱。@游#媒体原创_7688740537590893874/audio_original.wav,24.15156462585034,44100,2,1065084,0.6483612060546875,0.0,0.16513636708259583,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/这一幕好有爱！小学生们放学过斑马线，一路小跑奔向执勤交警求抱抱。@游#媒体原创_7688740537590893874/demucs/htdemucs/audio_original/vocals.wav,24.15156462585034,44100,2,1065084,0.4241943359375,0.0,0.07435537129640579,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/这一幕好有爱！小学生们放学过斑马线，一路小跑奔向执勤交警求抱抱。@游#媒体原创_7688740537590893874/demucs/htdemucs/audio_original/no_vocals.wav,24.15156462585034,44100,2,1065084,0.4967041015625,0.0,0.13761885464191437,0.0,0.0001

@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/没想到，2000年前的一面铜镜上，竟刻下了与今天的你我一模一样的心愿！#了不起的文物  #国庆 #媒_7692417017625791771/audio_analysis_trimmed.wav",
+  "duration_seconds": 95.41809523809523,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 4207938,
+  "peak_absolute_amplitude": 0.8476409912109375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.05814594030380249,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

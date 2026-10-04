@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/电动车头盔、充电器如何防丢失？一招教你防盗上锁！@河南广播电视台民生频道_7690534668134911274/audio_original.wav,29.77079365079365,44100,2,1312892,0.8912811279296875,0.0,0.20518672466278076,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/电动车头盔、充电器如何防丢失？一招教你防盗上锁！@河南广播电视台民生频道_7690534668134911274/demucs/htdemucs/audio_original/vocals.wav,29.77079365079365,44100,2,1312892,0.84893798828125,0.0,0.15032628178596497,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/电动车头盔、充电器如何防丢失？一招教你防盗上锁！@河南广播电视台民生频道_7690534668134911274/demucs/htdemucs/audio_original/no_vocals.wav,29.77079365079365,44100,2,1312892,0.345947265625,0.0,0.10796749591827393,0.0,0.0001

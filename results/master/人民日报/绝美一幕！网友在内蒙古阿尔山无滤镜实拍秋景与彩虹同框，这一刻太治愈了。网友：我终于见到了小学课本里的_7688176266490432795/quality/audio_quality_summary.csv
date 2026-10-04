@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/绝美一幕！网友在内蒙古阿尔山无滤镜实拍秋景与彩虹同框，这一刻太治愈了。网友：我终于见到了小学课本里的_7688176266490432795/audio_original.wav,23.26920634920635,44100,2,1026172,0.3563995361328125,0.0,0.07720358669757843,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/绝美一幕！网友在内蒙古阿尔山无滤镜实拍秋景与彩虹同框，这一刻太治愈了。网友：我终于见到了小学课本里的_7688176266490432795/demucs/htdemucs/audio_original/vocals.wav,23.26920634920635,44100,2,1026172,0.3388214111328125,0.0,0.045178577303886414,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/绝美一幕！网友在内蒙古阿尔山无滤镜实拍秋景与彩虹同框，这一刻太治愈了。网友：我终于见到了小学课本里的_7688176266490432795/demucs/htdemucs/audio_original/no_vocals.wav,23.26920634920635,44100,2,1026172,0.3097381591796875,0.0,0.06140793859958649,0.0,0.0001

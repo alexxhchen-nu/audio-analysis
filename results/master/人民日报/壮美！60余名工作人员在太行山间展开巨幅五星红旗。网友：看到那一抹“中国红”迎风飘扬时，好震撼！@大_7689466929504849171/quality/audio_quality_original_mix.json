@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/壮美！60余名工作人员在太行山间展开巨幅五星红旗。网友：看到那一抹“中国红”迎风飘扬时，好震撼！@大_7689466929504849171/audio_original.wav",
+  "duration_seconds": 13.098866213151927,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 577660,
+  "peak_absolute_amplitude": 0.892425537109375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.14645110070705414,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

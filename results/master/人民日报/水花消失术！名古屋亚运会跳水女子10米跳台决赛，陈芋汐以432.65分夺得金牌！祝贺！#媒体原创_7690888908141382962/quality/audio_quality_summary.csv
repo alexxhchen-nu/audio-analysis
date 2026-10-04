@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/水花消失术！名古屋亚运会跳水女子10米跳台决赛，陈芋汐以432.65分夺得金牌！祝贺！#媒体原创_7690888908141382962/audio_original.wav,32.975147392290246,44100,2,1454204,1.0,0.0005446278513881133,0.40193280577659607,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/水花消失术！名古屋亚运会跳水女子10米跳台决赛，陈芋汐以432.65分夺得金牌！祝贺！#媒体原创_7690888908141382962/demucs/htdemucs/audio_original/vocals.wav,32.975147392290246,44100,2,1454204,0.956878662109375,0.0,0.0959005057811737,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/水花消失术！名古屋亚运会跳水女子10米跳台决赛，陈芋汐以432.65分夺得金牌！祝贺！#媒体原创_7690888908141382962/demucs/htdemucs/audio_original/no_vocals.wav,32.975147392290246,44100,2,1454204,0.885650634765625,0.0,0.301527738571167,0.0,0.0001

@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/男童踩小区井盖坠井，消防员“倒挂”将其救出。消防提示：井盖存隐患，物业需做好日常巡检维护。家长务必看_7689396821285719296/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 30.328072562358276,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1337468,
+  "peak_absolute_amplitude": 0.9073944091796875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.11391334235668182,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

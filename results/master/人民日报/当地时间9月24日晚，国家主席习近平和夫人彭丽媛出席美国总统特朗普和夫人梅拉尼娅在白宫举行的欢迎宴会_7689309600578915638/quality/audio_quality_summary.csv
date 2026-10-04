@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/当地时间9月24日晚，国家主席习近平和夫人彭丽媛出席美国总统特朗普和夫人梅拉尼娅在白宫举行的欢迎宴会_7689309600578915638/audio_original.wav,18.207256235827664,44100,2,802940,0.933868408203125,0.0,0.2455233633518219,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日晚，国家主席习近平和夫人彭丽媛出席美国总统特朗普和夫人梅拉尼娅在白宫举行的欢迎宴会_7689309600578915638/demucs/htdemucs/audio_original/vocals.wav,18.207256235827664,44100,2,802940,0.0137786865234375,0.0,0.0006691196467727423,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日晚，国家主席习近平和夫人彭丽媛出席美国总统特朗普和夫人梅拉尼娅在白宫举行的欢迎宴会_7689309600578915638/demucs/htdemucs/audio_original/no_vocals.wav,18.207256235827664,44100,2,802940,0.87933349609375,0.0,0.23334260284900665,0.0,0.0001

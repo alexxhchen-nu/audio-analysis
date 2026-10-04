@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/高速免费以下高速时间为准！提醒：这些车型不享受国庆高速免费！@河南广播电视台民生频道_7691955156790938920/audio_original.wav,27.77387755102041,44100,2,1224828,1.0,0.00013716211582360952,0.2481810450553894,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/高速免费以下高速时间为准！提醒：这些车型不享受国庆高速免费！@河南广播电视台民生频道_7691955156790938920/demucs/htdemucs/audio_original/vocals.wav,27.77387755102041,44100,2,1224828,0.98626708984375,0.0,0.17790630459785461,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/高速免费以下高速时间为准！提醒：这些车型不享受国庆高速免费！@河南广播电视台民生频道_7691955156790938920/demucs/htdemucs/audio_original/no_vocals.wav,27.77387755102041,44100,2,1224828,0.94580078125,0.0,0.1155199185013771,0.0,0.0001

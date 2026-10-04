@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/白宫里悬挂着中美两国元首去年釜山会晤、今年5月北京会晤的照片。如今，历史再次定格下习近平主席在白宫出_7689172734047243571/audio_original.wav,21.829569160997732,44100,2,962684,0.8711090087890625,0.0,0.08177252113819122,0.001594896331738437,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/白宫里悬挂着中美两国元首去年釜山会晤、今年5月北京会晤的照片。如今，历史再次定格下习近平主席在白宫出_7689172734047243571/demucs/htdemucs/audio_original/vocals.wav,21.829569160997732,44100,2,962684,0.884185791015625,0.0,0.041893839836120605,0.15364167995746944,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/白宫里悬挂着中美两国元首去年釜山会晤、今年5月北京会晤的照片。如今，历史再次定格下习近平主席在白宫出_7689172734047243571/demucs/htdemucs/audio_original/no_vocals.wav,21.829569160997732,44100,2,962684,0.4210968017578125,0.0,0.06867361068725586,0.0,0.0001

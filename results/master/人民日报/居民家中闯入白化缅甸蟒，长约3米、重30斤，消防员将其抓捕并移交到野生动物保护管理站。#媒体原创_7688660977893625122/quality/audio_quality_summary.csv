@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/居民家中闯入白化缅甸蟒，长约3米、重30斤，消防员将其抓捕并移交到野生动物保护管理站。#媒体原创_7688660977893625122/audio_original.wav,20.66857142857143,44100,2,911484,0.6891326904296875,0.0,0.1528465896844864,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/居民家中闯入白化缅甸蟒，长约3米、重30斤，消防员将其抓捕并移交到野生动物保护管理站。#媒体原创_7688660977893625122/demucs/htdemucs/audio_original/vocals.wav,20.66857142857143,44100,2,911484,0.6693572998046875,0.0,0.06442990154027939,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/居民家中闯入白化缅甸蟒，长约3米、重30斤，消防员将其抓捕并移交到野生动物保护管理站。#媒体原创_7688660977893625122/demucs/htdemucs/audio_original/no_vocals.wav,20.66857142857143,44100,2,911484,0.4073638916015625,0.0,0.13746018707752228,0.0,0.0001

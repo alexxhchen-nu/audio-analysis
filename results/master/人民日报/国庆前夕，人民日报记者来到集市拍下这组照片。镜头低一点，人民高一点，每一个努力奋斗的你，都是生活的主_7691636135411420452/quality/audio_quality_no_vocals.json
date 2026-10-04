@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/国庆前夕，人民日报记者来到集市拍下这组照片。镜头低一点，人民高一点，每一个努力奋斗的你，都是生活的主_7691636135411420452/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 21.643809523809523,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 954492,
+  "peak_absolute_amplitude": 0.9705963134765625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.24922554194927216,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

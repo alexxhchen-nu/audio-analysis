@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/护学岗上一眼认出在逃嫌疑人！一名辅警在学校门口执勤时发现盗窃嫌疑人，随后冷静周旋、等待支援，最终将其_7690183870561389850/audio_original.wav,21.876009070294785,44100,2,964732,0.8674468994140625,0.0,0.12060685455799103,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/护学岗上一眼认出在逃嫌疑人！一名辅警在学校门口执勤时发现盗窃嫌疑人，随后冷静周旋、等待支援，最终将其_7690183870561389850/demucs/htdemucs/audio_original/vocals.wav,21.876009070294785,44100,2,964732,0.6944732666015625,0.0,0.08988594263792038,0.16923076923076924,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/护学岗上一眼认出在逃嫌疑人！一名辅警在学校门口执勤时发现盗窃嫌疑人，随后冷静周旋、等待支援，最终将其_7690183870561389850/demucs/htdemucs/audio_original/no_vocals.wav,21.876009070294785,44100,2,964732,0.32330322265625,0.0,0.07645899057388306,0.0,0.0001

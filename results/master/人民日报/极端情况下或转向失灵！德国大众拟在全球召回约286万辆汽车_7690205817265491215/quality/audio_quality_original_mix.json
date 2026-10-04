@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/极端情况下或转向失灵！德国大众拟在全球召回约286万辆汽车_7690205817265491215/audio_original.wav",
+  "duration_seconds": 28.981315192743764,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1278076,
+  "peak_absolute_amplitude": 0.48779296875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.06119785085320473,
+  "near_silence_frame_fraction": 0.0008009611533840609,
+  "near_silence_rms_threshold": 0.0001
+}

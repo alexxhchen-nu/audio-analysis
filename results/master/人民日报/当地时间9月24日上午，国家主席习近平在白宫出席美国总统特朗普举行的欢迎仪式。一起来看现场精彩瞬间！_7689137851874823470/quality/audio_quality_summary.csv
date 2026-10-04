@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平在白宫出席美国总统特朗普举行的欢迎仪式。一起来看现场精彩瞬间！_7689137851874823470/audio_original.wav,25.68408163265306,44100,2,1132668,0.7910003662109375,0.0,0.031031198799610138,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平在白宫出席美国总统特朗普举行的欢迎仪式。一起来看现场精彩瞬间！_7689137851874823470/demucs/htdemucs/audio_original/vocals.wav,25.68408163265306,44100,2,1132668,0.7366485595703125,0.0,0.009812258183956146,0.5978309986443742,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平在白宫出席美国总统特朗普举行的欢迎仪式。一起来看现场精彩瞬间！_7689137851874823470/demucs/htdemucs/audio_original/no_vocals.wav,25.68408163265306,44100,2,1132668,0.262908935546875,0.0,0.028071394190192223,0.0,0.0001

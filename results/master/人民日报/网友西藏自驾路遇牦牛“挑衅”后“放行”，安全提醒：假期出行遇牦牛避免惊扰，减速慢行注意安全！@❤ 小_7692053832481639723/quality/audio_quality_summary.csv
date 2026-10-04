@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/网友西藏自驾路遇牦牛“挑衅”后“放行”，安全提醒：假期出行遇牦牛避免惊扰，减速慢行注意安全！@❤ 小_7692053832481639723/audio_original.wav,13.098866213151927,44100,2,577660,0.89654541015625,0.0,0.08481945842504501,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/网友西藏自驾路遇牦牛“挑衅”后“放行”，安全提醒：假期出行遇牦牛避免惊扰，减速慢行注意安全！@❤ 小_7692053832481639723/demucs/htdemucs/audio_original/vocals.wav,13.098866213151927,44100,2,577660,0.9345703125,0.0,0.0514119528234005,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/网友西藏自驾路遇牦牛“挑衅”后“放行”，安全提醒：假期出行遇牦牛避免惊扰，减速慢行注意安全！@❤ 小_7692053832481639723/demucs/htdemucs/audio_original/no_vocals.wav,13.098866213151927,44100,2,577660,0.6056060791015625,0.0,0.0661768838763237,0.0,0.0001

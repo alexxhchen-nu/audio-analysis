@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平在白宫出席美国总统特朗普举行的欢迎仪式。习近平在致辞中表示，虽_7689124043634511167/audio_original.wav,18.9502947845805,44100,2,835708,0.87982177734375,0.0,0.05769658833742142,0.000612369871402327,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平在白宫出席美国总统特朗普举行的欢迎仪式。习近平在致辞中表示，虽_7689124043634511167/demucs/htdemucs/audio_original/vocals.wav,18.9502947845805,44100,2,835708,0.889892578125,0.0,0.055132489651441574,0.030006123698714023,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平在白宫出席美国总统特朗普举行的欢迎仪式。习近平在致辞中表示，虽_7689124043634511167/demucs/htdemucs/audio_original/no_vocals.wav,18.9502947845805,44100,2,835708,0.065399169921875,0.0,0.013105444610118866,0.000612369871402327,0.0001

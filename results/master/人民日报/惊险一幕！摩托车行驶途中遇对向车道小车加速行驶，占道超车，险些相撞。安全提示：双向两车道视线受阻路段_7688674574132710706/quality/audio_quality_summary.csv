@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/惊险一幕！摩托车行驶途中遇对向车道小车加速行驶，占道超车，险些相撞。安全提示：双向两车道视线受阻路段_7688674574132710706/audio_original.wav,9.05859410430839,44100,2,399484,1.0,0.003391875519420052,0.4223365783691406,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/惊险一幕！摩托车行驶途中遇对向车道小车加速行驶，占道超车，险些相撞。安全提示：双向两车道视线受阻路段_7688674574132710706/demucs/htdemucs/audio_original/vocals.wav,9.05859410430839,44100,2,399484,0.1507568359375,0.0,0.014112604781985283,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/惊险一幕！摩托车行驶途中遇对向车道小车加速行驶，占道超车，险些相撞。安全提示：双向两车道视线受阻路段_7688674574132710706/demucs/htdemucs/audio_original/no_vocals.wav,9.05859410430839,44100,2,399484,0.985809326171875,0.0,0.3784254193305969,0.0,0.0001

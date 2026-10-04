@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/最后一棒反超日本！中国队夺得亚运会男子4×200米自由泳接力金牌，打破亚洲纪录。祝贺！#媒体原创_7687979921410493736/audio_original.wav,28.331156462585035,44100,2,1249404,1.0,0.002863765443363396,0.37248316407203674,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/最后一棒反超日本！中国队夺得亚运会男子4×200米自由泳接力金牌，打破亚洲纪录。祝贺！#媒体原创_7687979921410493736/demucs/htdemucs/audio_original/vocals.wav,28.331156462585035,44100,2,1249404,0.989013671875,0.0,0.20773163437843323,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/最后一棒反超日本！中国队夺得亚运会男子4×200米自由泳接力金牌，打破亚洲纪录。祝贺！#媒体原创_7687979921410493736/demucs/htdemucs/audio_original/no_vocals.wav,28.331156462585035,44100,2,1249404,0.828338623046875,0.0,0.20207951962947845,0.0,0.0001

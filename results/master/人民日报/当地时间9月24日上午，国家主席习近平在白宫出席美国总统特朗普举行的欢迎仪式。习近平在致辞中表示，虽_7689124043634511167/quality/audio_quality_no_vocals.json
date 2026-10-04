@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平在白宫出席美国总统特朗普举行的欢迎仪式。习近平在致辞中表示，虽_7689124043634511167/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 18.9502947845805,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 835708,
+  "peak_absolute_amplitude": 0.065399169921875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.013105444610118866,
+  "near_silence_frame_fraction": 0.000612369871402327,
+  "near_silence_rms_threshold": 0.0001
+}

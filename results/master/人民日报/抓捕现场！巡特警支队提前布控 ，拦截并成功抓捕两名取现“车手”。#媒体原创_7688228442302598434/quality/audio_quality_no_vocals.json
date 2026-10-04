@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/抓捕现场！巡特警支队提前布控 ，拦截并成功抓捕两名取现“车手”。#媒体原创_7688228442302598434/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 25.26612244897959,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1114236,
+  "peak_absolute_amplitude": 0.9819488525390625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.1757514476776123,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

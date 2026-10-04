@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/网友西藏骑行被牦牛追赶，上坡拼命蹬车躲过一劫。提醒：遇牦牛避免惊扰，野外骑行注意安全！@潘达. @逸_7690880615058640191/audio_original.wav",
+  "duration_seconds": 11.891428571428571,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 524412,
+  "peak_absolute_amplitude": 0.9266357421875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.14265426993370056,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

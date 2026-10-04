@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/高二学生用断了横线的羽毛球拍弹唱。网友：这就是绝对音感吗？@最爱吸一氧化碳_7689089127941262632/audio_original.wav",
+  "duration_seconds": 29.399274376417235,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1296508,
+  "peak_absolute_amplitude": 0.7794647216796875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.07381728291511536,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

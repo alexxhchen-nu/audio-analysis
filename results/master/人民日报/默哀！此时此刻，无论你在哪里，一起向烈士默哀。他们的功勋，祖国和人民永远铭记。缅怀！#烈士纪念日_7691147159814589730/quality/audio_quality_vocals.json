@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/默哀！此时此刻，无论你在哪里，一起向烈士默哀。他们的功勋，祖国和人民永远铭记。缅怀！#烈士纪念日_7691147159814589730/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 11.055510204081633,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 487548,
+  "peak_absolute_amplitude": 0.4779052734375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.018600841984152794,
+  "near_silence_frame_fraction": 0.9391395592864638,
+  "near_silence_rms_threshold": 0.0001
+}

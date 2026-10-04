@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/当地时间9月24日晚，习近平主席在特朗普总统举行的欢迎宴会上发表致辞。来听习近平主席的中秋祝福。#媒_7689273201234414902/audio_original.wav,12.5415873015873,44100,2,553084,0.734649658203125,0.0,0.13397984206676483,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日晚，习近平主席在特朗普总统举行的欢迎宴会上发表致辞。来听习近平主席的中秋祝福。#媒_7689273201234414902/demucs/htdemucs/audio_original/vocals.wav,12.5415873015873,44100,2,553084,0.6378631591796875,0.0,0.11903262883424759,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日晚，习近平主席在特朗普总统举行的欢迎宴会上发表致辞。来听习近平主席的中秋祝福。#媒_7689273201234414902/demucs/htdemucs/audio_original/no_vocals.wav,12.5415873015873,44100,2,553084,0.2431793212890625,0.0,0.05067881941795349,0.0,0.0001

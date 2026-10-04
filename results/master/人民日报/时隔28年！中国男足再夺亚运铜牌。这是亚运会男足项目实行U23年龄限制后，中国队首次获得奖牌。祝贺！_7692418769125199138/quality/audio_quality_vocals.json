@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/时隔28年！中国男足再夺亚运铜牌。这是亚运会男足项目实行U23年龄限制后，中国队首次获得奖牌。祝贺！_7692418769125199138/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 17.557097505668935,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 774268,
+  "peak_absolute_amplitude": 0.78131103515625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.145430788397789,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

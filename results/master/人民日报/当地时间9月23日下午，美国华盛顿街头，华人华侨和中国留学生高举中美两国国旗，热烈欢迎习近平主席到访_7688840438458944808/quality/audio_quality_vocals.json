@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，美国华盛顿街头，华人华侨和中国留学生高举中美两国国旗，热烈欢迎习近平主席到访_7688840438458944808/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 9.383673469387755,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 413820,
+  "peak_absolute_amplitude": 0.2718505859375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.061473432928323746,
+  "near_silence_frame_fraction": 0.0012360939431396785,
+  "near_silence_rms_threshold": 0.0001
+}

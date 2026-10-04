@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/女子过敏性休克，护士将其抱起就冲进抢救室。护士张斌洋，为你点赞！（人民日报记者李凯旋）#媒体原创_7688976417001884947/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 25.776961451247164,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1136764,
+  "peak_absolute_amplitude": 0.465606689453125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.10424041002988815,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

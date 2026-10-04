@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/惊心动魄！男子被困悬崖峭壁边大声呼救，大学生冒险下悬崖，徒手托举救下被困男子。沈道任，为你点赞！@躺_7688624945303194930/audio_original.wav",
+  "duration_seconds": 34.0897052154195,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1503356,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 1.1308033493064849e-05,
+  "rms_mean": 0.21543285250663757,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/国庆将至，各地节日氛围陆续“上线”。网友：已经开始期待国庆了！@山西并州 @航拍看天下 @高凯航拍 _7688327962202049832/audio_original.wav,20.94721088435374,44100,2,923772,0.9478607177734375,0.0,0.29283833503723145,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/国庆将至，各地节日氛围陆续“上线”。网友：已经开始期待国庆了！@山西并州 @航拍看天下 @高凯航拍 _7688327962202049832/demucs/htdemucs/audio_original/vocals.wav,20.94721088435374,44100,2,923772,0.85205078125,0.0,0.19304361939430237,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/国庆将至，各地节日氛围陆续“上线”。网友：已经开始期待国庆了！@山西并州 @航拍看天下 @高凯航拍 _7688327962202049832/demucs/htdemucs/audio_original/no_vocals.wav,20.94721088435374,44100,2,923772,0.9329833984375,0.0,0.19311368465423584,0.0,0.0001

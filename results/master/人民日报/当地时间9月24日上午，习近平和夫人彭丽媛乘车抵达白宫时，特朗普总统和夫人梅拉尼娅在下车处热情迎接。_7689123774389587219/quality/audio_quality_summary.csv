@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，习近平和夫人彭丽媛乘车抵达白宫时，特朗普总统和夫人梅拉尼娅在下车处热情迎接。_7689123774389587219/audio_original.wav,24.894603174603173,44100,2,1097852,0.949951171875,0.0,0.2390146106481552,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，习近平和夫人彭丽媛乘车抵达白宫时，特朗普总统和夫人梅拉尼娅在下车处热情迎接。_7689123774389587219/demucs/htdemucs/audio_original/vocals.wav,24.894603174603173,44100,2,1097852,0.01702880859375,0.0,0.00029421207727864385,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，习近平和夫人彭丽媛乘车抵达白宫时，特朗普总统和夫人梅拉尼娅在下车处热情迎接。_7689123774389587219/demucs/htdemucs/audio_original/no_vocals.wav,24.894603174603173,44100,2,1097852,0.9195556640625,0.0,0.23026026785373688,0.0,0.0001

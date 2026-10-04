@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/完整版！天安门广场举行国庆升旗仪式。五星红旗冉冉升起，祝祖国山河锦绣，愿人民幸福安康！_7691457227504323886/audio_original.wav",
+  "duration_seconds": 203.68825396825397,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 8982652,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 1.825741440278439e-05,
+  "rms_mean": 0.09451224654912949,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

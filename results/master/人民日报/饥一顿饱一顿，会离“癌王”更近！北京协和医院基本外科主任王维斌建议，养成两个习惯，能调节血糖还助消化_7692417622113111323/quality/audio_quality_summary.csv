@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/饥一顿饱一顿，会离“癌王”更近！北京协和医院基本外科主任王维斌建议，养成两个习惯，能调节血糖还助消化_7692417622113111323/audio_analysis_trimmed.wav,50.259410430839004,44100,2,2216440,0.8222503662109375,0.0,0.07795821875333786,0.000693000693000693,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/饥一顿饱一顿，会离“癌王”更近！北京协和医院基本外科主任王维斌建议，养成两个习惯，能调节血糖还助消化_7692417622113111323/demucs/htdemucs/audio_analysis_trimmed/vocals.wav,50.259410430839004,44100,2,2216440,0.793426513671875,0.0,0.07157216966152191,0.001155001155001155,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/饥一顿饱一顿，会离“癌王”更近！北京协和医院基本外科主任王维斌建议，养成两个习惯，能调节血糖还助消化_7692417622113111323/demucs/htdemucs/audio_analysis_trimmed/no_vocals.wav,50.259410430839004,44100,2,2216440,0.1518707275390625,0.0,0.028608161956071854,0.005775005775005775,0.0001

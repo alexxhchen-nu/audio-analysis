@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，国家主席习近平和夫人彭丽媛乘专机抵达美国安德鲁斯空军基地时，特朗普夫妇热情迎_7688860394445753634/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 8.083356009070295,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 356476,
+  "peak_absolute_amplitude": 0.117401123046875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.015579259023070335,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

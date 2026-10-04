@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫举行会谈。会谈后，特朗普挥手送习主席离开_7689161798691441929/audio_original.wav",
+  "duration_seconds": 5.854240362811791,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 258172,
+  "peak_absolute_amplitude": 0.789276123046875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.12020672857761383,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

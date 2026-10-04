@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/近日，美国特斯拉公司首席执行官马斯克在接受人民日报新媒体专访时表示，中美贸易“好比一对连体双胞胎，几_7688606569881242895/demucs/htdemucs/audio_analysis_trimmed/no_vocals.wav",
+  "duration_seconds": 70.77399092970522,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3121133,
+  "peak_absolute_amplitude": 0.0785369873046875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.01573784090578556,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

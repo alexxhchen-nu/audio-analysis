@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/月满中秋，所愿皆圆。一起分享此刻的团圆与浪漫吧！#中秋晒月亮大赛  #美在中秋月圆时_7688923952348925234/audio_analysis_trimmed.wav,32.4497052154195,44100,2,1431032,0.999969482421875,3.493981965462687e-06,0.23714196681976318,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/月满中秋，所愿皆圆。一起分享此刻的团圆与浪漫吧！#中秋晒月亮大赛  #美在中秋月圆时_7688923952348925234/demucs/htdemucs/audio_analysis_trimmed/vocals.wav,32.4497052154195,44100,2,1431032,0.968048095703125,0.0,0.17880892753601074,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/月满中秋，所愿皆圆。一起分享此刻的团圆与浪漫吧！#中秋晒月亮大赛  #美在中秋月圆时_7688923952348925234/demucs/htdemucs/audio_analysis_trimmed/no_vocals.wav,32.4497052154195,44100,2,1431032,0.9867095947265625,0.0,0.14280301332473755,0.0,0.0001

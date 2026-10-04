@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，国家主席习近平和夫人彭丽媛乘专机抵达美国安德鲁斯空军基地时，特朗普夫妇热情迎_7688860394445753634/audio_original.wav,8.083356009070295,44100,2,356476,0.92095947265625,0.0,0.2055978775024414,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，国家主席习近平和夫人彭丽媛乘专机抵达美国安德鲁斯空军基地时，特朗普夫妇热情迎_7688860394445753634/demucs/htdemucs/audio_original/vocals.wav,8.083356009070295,44100,2,356476,0.117401123046875,0.0,0.015579259023070335,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，国家主席习近平和夫人彭丽媛乘专机抵达美国安德鲁斯空军基地时，特朗普夫妇热情迎_7688860394445753634/demucs/htdemucs/audio_original/no_vocals.wav,8.083356009070295,44100,2,356476,0.85723876953125,0.0,0.19071856141090393,0.0,0.0001

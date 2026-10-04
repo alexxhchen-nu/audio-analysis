@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/狗不慎掉入渠沟，路过大哥急中生智，将树枝和扎带组合成工具，成功将其救起。网友：大哥最后拧扎带那几下，_7688291230077308203/audio_original.wav,100.17369614512472,44100,2,4417660,1.0,1.131820918766949e-06,0.11858341842889786,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/狗不慎掉入渠沟，路过大哥急中生智，将树枝和扎带组合成工具，成功将其救起。网友：大哥最后拧扎带那几下，_7688291230077308203/demucs/htdemucs/audio_original/vocals.wav,100.17369614512472,44100,2,4417660,0.7098541259765625,0.0,0.05985596030950546,0.009039286128172442,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/狗不慎掉入渠沟，路过大哥急中生智，将树枝和扎带组合成工具，成功将其救起。网友：大哥最后拧扎带那几下，_7688291230077308203/demucs/htdemucs/audio_original/no_vocals.wav,100.17369614512472,44100,2,4417660,0.88116455078125,0.0,0.07218854874372482,0.0,0.0001

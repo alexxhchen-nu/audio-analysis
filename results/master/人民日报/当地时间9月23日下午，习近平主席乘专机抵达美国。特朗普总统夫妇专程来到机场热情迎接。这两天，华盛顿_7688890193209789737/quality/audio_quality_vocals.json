@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，习近平主席乘专机抵达美国。特朗普总统夫妇专程来到机场热情迎接。这两天，华盛顿_7688890193209789737/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 24.755283446712017,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1091708,
+  "peak_absolute_amplitude": 0.987884521484375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.13008993864059448,
+  "near_silence_frame_fraction": 0.00046882325363338024,
+  "near_silence_rms_threshold": 0.0001
+}

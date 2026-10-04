@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/绝美一幕！网友：看到了传说中的“仙女散花”！@荼蘼_7689793518767820067/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 16.396099773242632,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 723068,
+  "peak_absolute_amplitude": 0.6497039794921875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.09869151562452316,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

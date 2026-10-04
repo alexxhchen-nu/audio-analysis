@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/白宫里悬挂着中美两国元首去年釜山会晤、今年5月北京会晤的照片。如今，历史再次定格下习近平主席在白宫出_7689172734047243571/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 21.829569160997732,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 962684,
+  "peak_absolute_amplitude": 0.884185791015625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.041893839836120605,
+  "near_silence_frame_fraction": 0.15364167995746944,
+  "near_silence_rms_threshold": 0.0001
+}

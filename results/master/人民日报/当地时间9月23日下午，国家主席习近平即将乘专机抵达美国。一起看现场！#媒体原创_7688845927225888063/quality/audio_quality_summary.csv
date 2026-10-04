@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，国家主席习近平即将乘专机抵达美国。一起看现场！#媒体原创_7688845927225888063/audio_original.wav,9.47374149659864,44100,2,417792,1.0,0.0005888097426470588,0.21104639768600464,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，国家主席习近平即将乘专机抵达美国。一起看现场！#媒体原创_7688845927225888063/demucs/htdemucs/audio_original/vocals.wav,9.47374149659864,44100,2,417792,0.9886627197265625,0.0,0.1391679048538208,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月23日下午，国家主席习近平即将乘专机抵达美国。一起看现场！#媒体原创_7688845927225888063/demucs/htdemucs/audio_original/no_vocals.wav,9.47374149659864,44100,2,417792,0.4936370849609375,0.0,0.10688584297895432,0.0,0.0001

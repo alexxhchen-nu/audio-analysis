@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/水花消失术！名古屋亚运会跳水女子双人10米跳台决赛，中国组合陈芋汐_卢为以总分347.82分、领先第_7689682423264595241/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 29.167074829931973,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1286268,
+  "peak_absolute_amplitude": 0.9141998291015625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.24524924159049988,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

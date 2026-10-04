@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/烈日当空，小猫靠在站岗军人脚边乘凉小憩。网友：满满的安全感！@靖瑞四季日常_7690794016048237874/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 11.055510204081633,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 487548,
+  "peak_absolute_amplitude": 0.95367431640625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.16727101802825928,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

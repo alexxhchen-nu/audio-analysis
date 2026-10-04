@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/国台办发言人朱凤莲用闽南话+客家话送出中秋祝福：两岸同胞花好月圆人团圆！无论是吃甜月饼还是咸月饼，都_7689024263667371264/audio_original.wav,25.4518820861678,44100,2,1122428,1.0,0.00012918423275256854,0.15003003180027008,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/国台办发言人朱凤莲用闽南话+客家话送出中秋祝福：两岸同胞花好月圆人团圆！无论是吃甜月饼还是咸月饼，都_7689024263667371264/demucs/htdemucs/audio_original/vocals.wav,25.4518820861678,44100,2,1122428,0.987213134765625,0.0,0.09652645140886307,0.00045599635202918376,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/国台办发言人朱凤莲用闽南话+客家话送出中秋祝福：两岸同胞花好月圆人团圆！无论是吃甜月饼还是咸月饼，都_7689024263667371264/demucs/htdemucs/audio_original/no_vocals.wav,25.4518820861678,44100,2,1122428,0.9899749755859375,0.0,0.076297327876091,0.0,0.0001

@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/每逢国庆，中华儿女心中的爱国主义情愫都会愈发激荡。“对每一个中国人来说，爱国是本分，也是职责，是心之_7691523068308606217/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 48.134965986394555,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2122752,
+  "peak_absolute_amplitude": 0.9899444580078125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.10206326097249985,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

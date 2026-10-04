@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/意气风发！17岁陈妤颉亚运会女子百米破纪录夺冠，赛后喊话爸爸：我有出息了！_7689846473768455466/audio_original.wav,32.83582766439909,44100,2,1448060,1.0,0.0007444442909824179,0.28302696347236633,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/意气风发！17岁陈妤颉亚运会女子百米破纪录夺冠，赛后喊话爸爸：我有出息了！_7689846473768455466/demucs/htdemucs/audio_original/vocals.wav,32.83582766439909,44100,2,1448060,0.9892578125,0.0,0.12763988971710205,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/意气风发！17岁陈妤颉亚运会女子百米破纪录夺冠，赛后喊话爸爸：我有出息了！_7689846473768455466/demucs/htdemucs/audio_original/no_vocals.wav,32.83582766439909,44100,2,1448060,0.9199066162109375,0.0,0.1908496469259262,0.0,0.0001

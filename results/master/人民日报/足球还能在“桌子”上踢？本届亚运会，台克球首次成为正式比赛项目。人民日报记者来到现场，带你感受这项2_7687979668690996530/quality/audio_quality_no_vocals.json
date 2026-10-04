@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/足球还能在“桌子”上踢？本届亚运会，台克球首次成为正式比赛项目。人民日报记者来到现场，带你感受这项2_7687979668690996530/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 135.79310657596372,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 5988476,
+  "peak_absolute_amplitude": 0.86602783203125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.10398131608963013,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

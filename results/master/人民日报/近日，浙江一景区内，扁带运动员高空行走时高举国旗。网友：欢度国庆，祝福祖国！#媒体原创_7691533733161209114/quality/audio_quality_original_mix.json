@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/近日，浙江一景区内，扁带运动员高空行走时高举国旗。网友：欢度国庆，祝福祖国！#媒体原创_7691533733161209114/audio_original.wav",
+  "duration_seconds": 14.631383219954648,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 645244,
+  "peak_absolute_amplitude": 0.9380340576171875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.2502760589122772,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

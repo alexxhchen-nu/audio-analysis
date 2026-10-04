@@ -1,0 +1,4 @@
+start_seconds,end_seconds,dominant_pitch_class,mean_chroma
+0.0,5.0,C,0.8456464409828186
+5.0,10.0,G,0.720483124256134
+10.0,13.11532879818594,F#,0.745429277420044

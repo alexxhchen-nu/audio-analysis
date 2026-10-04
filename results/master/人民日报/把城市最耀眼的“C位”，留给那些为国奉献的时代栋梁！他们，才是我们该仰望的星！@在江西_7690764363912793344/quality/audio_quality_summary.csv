@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/把城市最耀眼的“C位”，留给那些为国奉献的时代栋梁！他们，才是我们该仰望的星！@在江西_7690764363912793344/audio_original.wav,12.680907029478458,44100,2,559228,0.535308837890625,0.0,0.13206590712070465,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/把城市最耀眼的“C位”，留给那些为国奉献的时代栋梁！他们，才是我们该仰望的星！@在江西_7690764363912793344/demucs/htdemucs/audio_original/vocals.wav,12.680907029478458,44100,2,559228,0.40740966796875,0.0,0.09014873206615448,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/把城市最耀眼的“C位”，留给那些为国奉献的时代栋梁！他们，才是我们该仰望的星！@在江西_7690764363912793344/demucs/htdemucs/audio_original/no_vocals.wav,12.680907029478458,44100,2,559228,0.485992431640625,0.0,0.09227831661701202,0.0,0.0001

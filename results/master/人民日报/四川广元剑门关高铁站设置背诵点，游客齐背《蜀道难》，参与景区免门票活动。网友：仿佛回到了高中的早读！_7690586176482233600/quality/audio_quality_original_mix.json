@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/四川广元剑门关高铁站设置背诵点，游客齐背《蜀道难》，参与景区免门票活动。网友：仿佛回到了高中的早读！_7690586176482233600/audio_original.wav",
+  "duration_seconds": 27.680997732426302,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1220732,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 0.0036953237893329574,
+  "rms_mean": 0.31614288687705994,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

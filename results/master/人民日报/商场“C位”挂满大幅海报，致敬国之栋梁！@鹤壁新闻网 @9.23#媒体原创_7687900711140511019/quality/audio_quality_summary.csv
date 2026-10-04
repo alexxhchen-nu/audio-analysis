@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/商场“C位”挂满大幅海报，致敬国之栋梁！@鹤壁新闻网 @9.23#媒体原创_7687900711140511019/audio_original.wav,19.182494331065758,44100,2,845948,0.2483978271484375,0.0,0.05406016483902931,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/商场“C位”挂满大幅海报，致敬国之栋梁！@鹤壁新闻网 @9.23#媒体原创_7687900711140511019/demucs/htdemucs/audio_original/vocals.wav,19.182494331065758,44100,2,845948,0.16644287109375,0.0,0.03486724570393562,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/商场“C位”挂满大幅海报，致敬国之栋梁！@鹤壁新闻网 @9.23#媒体原创_7687900711140511019/demucs/htdemucs/audio_original/no_vocals.wav,19.182494331065758,44100,2,845948,0.2154541015625,0.0,0.038724325597286224,0.0,0.0001

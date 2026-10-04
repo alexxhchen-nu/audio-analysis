@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/抓捕现场！巡特警支队提前布控 ，拦截并成功抓捕两名取现“车手”。#媒体原创_7688228442302598434/audio_original.wav,25.26612244897959,44100,2,1114236,1.0,0.0003266812416759107,0.2840387225151062,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/抓捕现场！巡特警支队提前布控 ，拦截并成功抓捕两名取现“车手”。#媒体原创_7688228442302598434/demucs/htdemucs/audio_original/vocals.wav,25.26612244897959,44100,2,1114236,0.9798431396484375,0.0,0.16888850927352905,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/抓捕现场！巡特警支队提前布控 ，拦截并成功抓捕两名取现“车手”。#媒体原创_7688228442302598434/demucs/htdemucs/audio_original/no_vocals.wav,25.26612244897959,44100,2,1114236,0.9819488525390625,0.0,0.1757514476776123,0.0,0.0001

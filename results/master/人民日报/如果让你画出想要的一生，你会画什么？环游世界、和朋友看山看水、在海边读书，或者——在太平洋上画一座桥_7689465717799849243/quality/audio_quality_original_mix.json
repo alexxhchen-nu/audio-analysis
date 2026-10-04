@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/如果让你画出想要的一生，你会画什么？环游世界、和朋友看山看水、在海边读书，或者——在太平洋上画一座桥_7689465717799849243/audio_original.wav",
+  "duration_seconds": 116.9849433106576,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 5159036,
+  "peak_absolute_amplitude": 0.999969482421875,
+  "clipped_sample_fraction": 7.753386485382152e-07,
+  "rms_mean": 0.1154194325208664,
+  "near_silence_frame_fraction": 0.017663987297806886,
+  "near_silence_rms_threshold": 0.0001
+}

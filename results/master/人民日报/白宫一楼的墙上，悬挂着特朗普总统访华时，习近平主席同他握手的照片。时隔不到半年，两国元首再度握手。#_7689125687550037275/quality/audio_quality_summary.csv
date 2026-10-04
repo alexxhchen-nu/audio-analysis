@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/白宫一楼的墙上，悬挂着特朗普总统访华时，习近平主席同他握手的照片。时隔不到半年，两国元首再度握手。#_7689125687550037275/audio_original.wav,11.194829931972789,44100,2,493692,0.2075653076171875,0.0,0.042145125567913055,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/白宫一楼的墙上，悬挂着特朗普总统访华时，习近平主席同他握手的照片。时隔不到半年，两国元首再度握手。#_7689125687550037275/demucs/htdemucs/audio_original/vocals.wav,11.194829931972789,44100,2,493692,0.00079345703125,0.0,9.167569078272209e-05,0.9419689119170984,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/白宫一楼的墙上，悬挂着特朗普总统访华时，习近平主席同他握手的照片。时隔不到半年，两国元首再度握手。#_7689125687550037275/demucs/htdemucs/audio_original/no_vocals.wav,11.194829931972789,44100,2,493692,0.206329345703125,0.0,0.04197979345917702,0.0,0.0001

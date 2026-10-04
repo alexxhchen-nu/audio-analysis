@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/惊艳！网友2小时延时摄影记录昙花盛开的绝美瞬间，愿见者好运！@任小乐_7688251623658753318/audio_original.wav,19.22893424036281,44100,2,847996,0.327606201171875,0.0,0.07165467739105225,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/惊艳！网友2小时延时摄影记录昙花盛开的绝美瞬间，愿见者好运！@任小乐_7688251623658753318/demucs/htdemucs/audio_original/vocals.wav,19.22893424036281,44100,2,847996,0.0991058349609375,0.0,0.008969433605670929,0.024743512371756187,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/惊艳！网友2小时延时摄影记录昙花盛开的绝美瞬间，愿见者好运！@任小乐_7688251623658753318/demucs/htdemucs/audio_original/no_vocals.wav,19.22893424036281,44100,2,847996,0.319610595703125,0.0,0.06818459928035736,0.0,0.0001

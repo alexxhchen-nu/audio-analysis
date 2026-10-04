@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/近日，浙江一景区内，扁带运动员高空行走时高举国旗。网友：欢度国庆，祝福祖国！#媒体原创_7691533733161209114/audio_original.wav,14.631383219954648,44100,2,645244,0.9380340576171875,0.0,0.2502760589122772,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/近日，浙江一景区内，扁带运动员高空行走时高举国旗。网友：欢度国庆，祝福祖国！#媒体原创_7691533733161209114/demucs/htdemucs/audio_original/vocals.wav,14.631383219954648,44100,2,645244,0.853515625,0.0,0.16525126993656158,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/近日，浙江一景区内，扁带运动员高空行走时高举国旗。网友：欢度国庆，祝福祖国！#媒体原创_7691533733161209114/demucs/htdemucs/audio_original/no_vocals.wav,14.631383219954648,44100,2,645244,0.7632293701171875,0.0,0.16313350200653076,0.0,0.0001

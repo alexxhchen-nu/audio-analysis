@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/重庆网友记录下轻轨出现瞬间，宛若蛟龙出海，科幻感满满！@雨辰_7689733423174388992/audio_original.wav,18.021496598639455,44100,2,794748,1.0,0.001049389240362983,0.31570225954055786,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/重庆网友记录下轻轨出现瞬间，宛若蛟龙出海，科幻感满满！@雨辰_7689733423174388992/demucs/htdemucs/audio_original/vocals.wav,18.021496598639455,44100,2,794748,0.00457763671875,0.0,0.0002885705907829106,0.01674179008370895,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/重庆网友记录下轻轨出现瞬间，宛若蛟龙出海，科幻感满满！@雨辰_7689733423174388992/demucs/htdemucs/audio_original/no_vocals.wav,18.021496598639455,44100,2,794748,0.9879150390625,0.0,0.2969616651535034,0.0,0.0001

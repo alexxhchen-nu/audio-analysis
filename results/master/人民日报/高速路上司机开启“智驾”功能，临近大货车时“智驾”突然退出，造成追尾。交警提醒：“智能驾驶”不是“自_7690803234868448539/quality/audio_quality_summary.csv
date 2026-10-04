@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/高速路上司机开启“智驾”功能，临近大货车时“智驾”突然退出，造成追尾。交警提醒：“智能驾驶”不是“自_7690803234868448539/audio_original.wav,15.188662131519274,44100,2,669820,0.8061676025390625,0.0,0.12483189254999161,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/高速路上司机开启“智驾”功能，临近大货车时“智驾”突然退出，造成追尾。交警提醒：“智能驾驶”不是“自_7690803234868448539/demucs/htdemucs/audio_original/vocals.wav,15.188662131519274,44100,2,669820,0.7182769775390625,0.0,0.06555972993373871,0.05500381970970206,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/高速路上司机开启“智驾”功能，临近大货车时“智驾”突然退出，造成追尾。交警提醒：“智能驾驶”不是“自_7690803234868448539/demucs/htdemucs/audio_original/no_vocals.wav,15.188662131519274,44100,2,669820,0.491912841796875,0.0,0.09935600310564041,0.0,0.0001

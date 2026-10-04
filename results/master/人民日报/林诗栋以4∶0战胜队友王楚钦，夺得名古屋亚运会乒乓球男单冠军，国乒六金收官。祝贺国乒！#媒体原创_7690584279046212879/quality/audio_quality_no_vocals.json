@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/林诗栋以4∶0战胜队友王楚钦，夺得名古屋亚运会乒乓球男单冠军，国乒六金收官。祝贺国乒！#媒体原创_7690584279046212879/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 32.650068027210885,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1439868,
+  "peak_absolute_amplitude": 0.9817352294921875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.2314440757036209,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/提到白鸽，我们为什么总会首先联想到“和平”？其实，我们明白，只靠和平鸽无法带来和平，真正能带来和平的_7690451980346559790/audio_analysis_trimmed.wav",
+  "duration_seconds": 203.3550113378685,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 8967956,
+  "peak_absolute_amplitude": 0.9899749755859375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.059212613850831985,
+  "near_silence_frame_fraction": 0.0005138159397122631,
+  "near_silence_rms_threshold": 0.0001
+}

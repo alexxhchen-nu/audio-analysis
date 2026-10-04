@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/当地时间9月25日下午，习近平主席在圆满结束对美国的国事访问后离开华盛顿。两国元首在不到半年时间里实_7689527354011454771/audio_original.wav,25.86984126984127,44100,2,1140860,0.7631378173828125,0.0,0.0909205824136734,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月25日下午，习近平主席在圆满结束对美国的国事访问后离开华盛顿。两国元首在不到半年时间里实_7689527354011454771/demucs/htdemucs/audio_original/vocals.wav,25.86984126984127,44100,2,1140860,0.7474822998046875,0.0,0.07813206315040588,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月25日下午，习近平主席在圆满结束对美国的国事访问后离开华盛顿。两国元首在不到半年时间里实_7689527354011454771/demucs/htdemucs/audio_original/no_vocals.wav,25.86984126984127,44100,2,1140860,0.1891021728515625,0.0,0.038934703916311264,0.0,0.0001

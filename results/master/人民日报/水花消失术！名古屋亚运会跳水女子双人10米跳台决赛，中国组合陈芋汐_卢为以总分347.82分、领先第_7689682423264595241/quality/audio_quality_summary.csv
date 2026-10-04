@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/水花消失术！名古屋亚运会跳水女子双人10米跳台决赛，中国组合陈芋汐_卢为以总分347.82分、领先第_7689682423264595241/audio_original.wav,29.167074829931973,44100,2,1286268,1.0,8.396383957309052e-05,0.3178364634513855,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/水花消失术！名古屋亚运会跳水女子双人10米跳台决赛，中国组合陈芋汐_卢为以总分347.82分、领先第_7689682423264595241/demucs/htdemucs/audio_original/vocals.wav,29.167074829931973,44100,2,1286268,0.857940673828125,0.0,0.12699151039123535,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/水花消失术！名古屋亚运会跳水女子双人10米跳台决赛，中国组合陈芋汐_卢为以总分347.82分、领先第_7689682423264595241/demucs/htdemucs/audio_original/no_vocals.wav,29.167074829931973,44100,2,1286268,0.9141998291015625,0.0,0.24524924159049988,0.0,0.0001

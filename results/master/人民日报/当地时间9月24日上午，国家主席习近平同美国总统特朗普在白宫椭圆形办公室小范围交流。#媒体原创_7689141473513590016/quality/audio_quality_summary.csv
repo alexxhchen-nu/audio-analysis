@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫椭圆形办公室小范围交流。#媒体原创_7689141473513590016/audio_original.wav,6.179319727891157,44100,2,272508,0.062744140625,0.0,0.014695798978209496,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫椭圆形办公室小范围交流。#媒体原创_7689141473513590016/demucs/htdemucs/audio_original/vocals.wav,6.179319727891157,44100,2,272508,0.0001220703125,0.0,1.4389053831109777e-05,1.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫椭圆形办公室小范围交流。#媒体原创_7689141473513590016/demucs/htdemucs/audio_original/no_vocals.wav,6.179319727891157,44100,2,272508,0.0613861083984375,0.0,0.014612406492233276,0.0,0.0001

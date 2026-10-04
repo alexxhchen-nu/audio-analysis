@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/女子双手掌心被粘鼠板的胶粘到一起，紧急来到消防站求助，消防员一招化解。@四川消防 #媒体原创_7689031554072350003/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 26.798639455782315,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1181820,
+  "peak_absolute_amplitude": 0.7266845703125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.08923986554145813,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/大货车下坡时失控，司机驶入避险车道安全停车。交警提醒：行车遇到车辆故障或刹车失效，请及时驶入避险车道_7688356500523289865/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 27.17015873015873,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1198204,
+  "peak_absolute_amplitude": 0.52783203125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.06574185937643051,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

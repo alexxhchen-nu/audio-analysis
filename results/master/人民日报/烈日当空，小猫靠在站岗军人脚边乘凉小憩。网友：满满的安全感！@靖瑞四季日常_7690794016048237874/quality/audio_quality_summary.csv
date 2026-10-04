@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/烈日当空，小猫靠在站岗军人脚边乘凉小憩。网友：满满的安全感！@靖瑞四季日常_7690794016048237874/audio_original.wav,11.055510204081633,44100,2,487548,0.999969482421875,4.102160197560035e-06,0.209116593003273,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/烈日当空，小猫靠在站岗军人脚边乘凉小憩。网友：满满的安全感！@靖瑞四季日常_7690794016048237874/demucs/htdemucs/audio_original/vocals.wav,11.055510204081633,44100,2,487548,0.95367431640625,0.0,0.16727101802825928,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/烈日当空，小猫靠在站岗军人脚边乘凉小憩。网友：满满的安全感！@靖瑞四季日常_7690794016048237874/demucs/htdemucs/audio_original/no_vocals.wav,11.055510204081633,44100,2,487548,0.50689697265625,0.0,0.11748482286930084,0.0,0.0001

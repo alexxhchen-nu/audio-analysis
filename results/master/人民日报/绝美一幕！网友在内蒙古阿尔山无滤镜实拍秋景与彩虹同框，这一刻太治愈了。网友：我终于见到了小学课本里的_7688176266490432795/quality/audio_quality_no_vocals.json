@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/绝美一幕！网友在内蒙古阿尔山无滤镜实拍秋景与彩虹同框，这一刻太治愈了。网友：我终于见到了小学课本里的_7688176266490432795/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 23.26920634920635,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1026172,
+  "peak_absolute_amplitude": 0.3097381591796875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.06140793859958649,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

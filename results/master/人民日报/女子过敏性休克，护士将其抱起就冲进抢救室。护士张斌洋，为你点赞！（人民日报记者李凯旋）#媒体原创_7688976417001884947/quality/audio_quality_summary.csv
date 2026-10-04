@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/女子过敏性休克，护士将其抱起就冲进抢救室。护士张斌洋，为你点赞！（人民日报记者李凯旋）#媒体原创_7688976417001884947/audio_original.wav,25.776961451247164,44100,2,1136764,0.5005035400390625,0.0,0.13395103812217712,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/女子过敏性休克，护士将其抱起就冲进抢救室。护士张斌洋，为你点赞！（人民日报记者李凯旋）#媒体原创_7688976417001884947/demucs/htdemucs/audio_original/vocals.wav,25.776961451247164,44100,2,1136764,0.3967742919921875,0.0,0.07302479445934296,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/女子过敏性休克，护士将其抱起就冲进抢救室。护士张斌洋，为你点赞！（人民日报记者李凯旋）#媒体原创_7688976417001884947/demucs/htdemucs/audio_original/no_vocals.wav,25.776961451247164,44100,2,1136764,0.465606689453125,0.0,0.10424041002988815,0.0,0.0001

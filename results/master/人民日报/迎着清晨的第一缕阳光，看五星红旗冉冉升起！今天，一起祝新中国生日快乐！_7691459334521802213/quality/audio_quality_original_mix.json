@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/人民日报/迎着清晨的第一缕阳光，看五星红旗冉冉升起！今天，一起祝新中国生日快乐！_7691459334521802213/audio_original.wav",
+  "duration_seconds": 65.1580045351474,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2873468,
+  "peak_absolute_amplitude": 0.997467041015625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.11352037638425827,
+  "near_silence_frame_fraction": 0.00017815784785319794,
+  "near_silence_rms_threshold": 0.0001
+}

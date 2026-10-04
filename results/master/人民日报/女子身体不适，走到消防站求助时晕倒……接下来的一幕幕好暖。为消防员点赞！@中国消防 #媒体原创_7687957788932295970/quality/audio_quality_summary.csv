@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/女子身体不适，走到消防站求助时晕倒……接下来的一幕幕好暖。为消防员点赞！@中国消防 #媒体原创_7687957788932295970/audio_original.wav,36.13306122448979,44100,2,1593468,0.4758453369140625,0.0,0.0687333419919014,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/女子身体不适，走到消防站求助时晕倒……接下来的一幕幕好暖。为消防员点赞！@中国消防 #媒体原创_7687957788932295970/demucs/htdemucs/audio_original/vocals.wav,36.13306122448979,44100,2,1593468,0.296966552734375,0.0,0.032852862030267715,0.18695791840668166,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/女子身体不适，走到消防站求助时晕倒……接下来的一幕幕好暖。为消防员点赞！@中国消防 #媒体原创_7687957788932295970/demucs/htdemucs/audio_original/no_vocals.wav,36.13306122448979,44100,2,1593468,0.3856201171875,0.0,0.05783339962363243,0.0,0.0001

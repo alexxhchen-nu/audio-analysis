@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/游本昌爷爷，一路走好！我们会继续向前 #媒体原创_7688943849250589978/audio_original.wav,29.817233560090703,44100,2,1314940,0.9468841552734375,0.0,0.09383765608072281,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/游本昌爷爷，一路走好！我们会继续向前 #媒体原创_7688943849250589978/demucs/htdemucs/audio_original/vocals.wav,29.817233560090703,44100,2,1314940,0.879669189453125,0.0,0.08783859014511108,0.04671078240560529,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/游本昌爷爷，一路走好！我们会继续向前 #媒体原创_7688943849250589978/demucs/htdemucs/audio_original/no_vocals.wav,29.817233560090703,44100,2,1314940,0.201873779296875,0.0,0.029968392103910446,0.0,0.0001

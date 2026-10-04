@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/人民日报/当地时间9月24日上午，国家主席习近平即将在白宫出席美国总统特朗普举行的欢迎仪式。#媒体原创_7689104116588563755/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 17.371337868480726,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 766076,
+  "peak_absolute_amplitude": 0.89971923828125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.2360508292913437,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

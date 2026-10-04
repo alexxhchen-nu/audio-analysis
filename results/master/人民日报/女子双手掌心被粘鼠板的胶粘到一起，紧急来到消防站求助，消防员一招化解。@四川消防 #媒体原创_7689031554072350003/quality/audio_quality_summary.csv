@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/人民日报/女子双手掌心被粘鼠板的胶粘到一起，紧急来到消防站求助，消防员一招化解。@四川消防 #媒体原创_7689031554072350003/audio_original.wav,26.798639455782315,44100,2,1181820,0.910552978515625,0.0,0.15919020771980286,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/人民日报/女子双手掌心被粘鼠板的胶粘到一起，紧急来到消防站求助，消防员一招化解。@四川消防 #媒体原创_7689031554072350003/demucs/htdemucs/audio_original/vocals.wav,26.798639455782315,44100,2,1181820,0.7266845703125,0.0,0.08923986554145813,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/人民日报/女子双手掌心被粘鼠板的胶粘到一起，紧急来到消防站求助，消防员一招化解。@四川消防 #媒体原创_7689031554072350003/demucs/htdemucs/audio_original/no_vocals.wav,26.798639455782315,44100,2,1181820,0.4583892822265625,0.0,0.12560807168483734,0.0,0.0001
