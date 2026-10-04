@@ -3,7 +3,6 @@
 /video/
 *.wav
 /results/demucs/
-*.npy
 /data/emotion_reference/
 
 # Notebook outputs and editor state
@@ -13,9 +12,8 @@
 /results/fun/
 .ipynb_checkpoints/
 
-# Master 工作流的批量分析产物（保留 CSV/JSON 清单，忽略大型媒体与中间文件）
+# Master 工作流的批量分析产物（保留 CSV/JSON 清单，忽略大型媒体与中间文件；npy 由 git-annex 管理进 R2）
 /results/master/**/*.wav
-/results/master/**/*.npy
 /results/master/**/demucs/
 /results/master/**/*.png
 /results/master/**/*.mid
