@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/新华社消息｜习近平给四川大学全体师生回信强调 发挥文理工医交叉融合优势 努力在服务新时代国家战略中当_7690767056718810414/audio_original.wav,41.52009070294785,44100,2,1831036,0.999969482421875,7.645944700158818e-06,0.16531313955783844,0.012021246854906346,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜习近平给四川大学全体师生回信强调 发挥文理工医交叉融合优势 努力在服务新时代国家战略中当_7690767056718810414/demucs/htdemucs/audio_original/vocals.wav,41.52009070294785,44100,2,1831036,0.989166259765625,0.0,0.16272905468940735,0.00363433044450657,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜习近平给四川大学全体师生回信强调 发挥文理工医交叉融合优势 努力在服务新时代国家战略中当_7690767056718810414/demucs/htdemucs/audio_original/no_vocals.wav,41.52009070294785,44100,2,1831036,0.0122528076171875,0.0,0.0007831532857380807,0.0,0.0001

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/国庆佳节，中国武术运动员姚洋送上祝福：祝愿祖国国泰民安，人民平安喜乐。_7691539184170831155/audio_original.wav,28.23827664399093,44100,2,1245308,0.377471923828125,0.0,0.02743162401020527,0.0004110152075626798,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/国庆佳节，中国武术运动员姚洋送上祝福：祝愿祖国国泰民安，人民平安喜乐。_7691539184170831155/demucs/htdemucs/audio_original/vocals.wav,28.23827664399093,44100,2,1245308,0.37689208984375,0.0,0.026752959936857224,0.06165228113440197,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/国庆佳节，中国武术运动员姚洋送上祝福：祝愿祖国国泰民安，人民平安喜乐。_7691539184170831155/demucs/htdemucs/audio_original/no_vocals.wav,28.23827664399093,44100,2,1245308,0.0341644287109375,0.0,0.005227695684880018,0.0004110152075626798,0.0001

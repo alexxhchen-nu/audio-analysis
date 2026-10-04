@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/“清澈的爱，只为中国！”#滚烫的中国心  #像陈祥榕一样的青春身影  #那些让我们热泪盈眶的名字  _7691864375061237030/audio_analysis_trimmed.wav",
+  "duration_seconds": 413.8380045351474,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 18250256,
+  "peak_absolute_amplitude": 0.999969482421875,
+  "clipped_sample_fraction": 3.835562635395361e-07,
+  "rms_mean": 0.10519954562187195,
+  "near_silence_frame_fraction": 0.0004208045783538125,
+  "near_silence_rms_threshold": 0.0001
+}

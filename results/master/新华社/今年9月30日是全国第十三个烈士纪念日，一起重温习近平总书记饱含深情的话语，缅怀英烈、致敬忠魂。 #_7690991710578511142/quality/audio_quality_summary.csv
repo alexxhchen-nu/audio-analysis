@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/今年9月30日是全国第十三个烈士纪念日，一起重温习近平总书记饱含深情的话语，缅怀英烈、致敬忠魂。 #_7690991710578511142/audio_original.wav,53.640907029478456,44100,2,2365564,0.8266143798828125,0.0,0.18749366700649261,0.0012984202553559835,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/今年9月30日是全国第十三个烈士纪念日，一起重温习近平总书记饱含深情的话语，缅怀英烈、致敬忠魂。 #_7690991710578511142/demucs/htdemucs/audio_original/vocals.wav,53.640907029478456,44100,2,2365564,0.81427001953125,0.0,0.16228368878364563,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/今年9月30日是全国第十三个烈士纪念日，一起重温习近平总书记饱含深情的话语，缅怀英烈、致敬忠魂。 #_7690991710578511142/demucs/htdemucs/audio_original/no_vocals.wav,53.640907029478456,44100,2,2365564,0.531341552734375,0.0,0.07989806681871414,0.0,0.0001

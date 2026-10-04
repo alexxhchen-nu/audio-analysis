@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/#新一批城市迈入高铁时代#中国高铁4箭齐发#从鲜活故事里读懂蒸蒸日上的中国_7690743444687342890/audio_original.wav,80.43673469387755,44100,2,3547260,1.0,1.9733540817419642e-06,0.1373283863067627,0.0001443209698369173,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/#新一批城市迈入高铁时代#中国高铁4箭齐发#从鲜活故事里读懂蒸蒸日上的中国_7690743444687342890/demucs/htdemucs/audio_original/vocals.wav,80.43673469387755,44100,2,3547260,0.97845458984375,0.0,0.11636925488710403,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/#新一批城市迈入高铁时代#中国高铁4箭齐发#从鲜活故事里读懂蒸蒸日上的中国_7690743444687342890/demucs/htdemucs/audio_original/no_vocals.wav,80.43673469387755,44100,2,3547260,0.6457366943359375,0.0,0.04841301962733269,0.0,0.0001

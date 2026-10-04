@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/世界三大高香红茶之一，搭配一季桂花，品味秋天的味道#桂花祁红 #祁门红茶 #桂花 （广告）_7692031664729460010/audio_original.wav,54.43038548752835,44100,2,2400380,0.675537109375,0.0,0.07826346904039383,0.0012795905310300703,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/世界三大高香红茶之一，搭配一季桂花，品味秋天的味道#桂花祁红 #祁门红茶 #桂花 （广告）_7692031664729460010/demucs/htdemucs/audio_original/vocals.wav,54.43038548752835,44100,2,2400380,0.6378936767578125,0.0,0.07077591121196747,0.0012795905310300703,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/世界三大高香红茶之一，搭配一季桂花，品味秋天的味道#桂花祁红 #祁门红茶 #桂花 （广告）_7692031664729460010/demucs/htdemucs/audio_original/no_vocals.wav,54.43038548752835,44100,2,2400380,0.5295257568359375,0.0,0.03026873990893364,0.0,0.0001

@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/新华社消息｜《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》_7691230819473526070/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 23.362086167800452,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1030268,
+  "peak_absolute_amplitude": 0.535003662109375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.06544210016727448,
+  "near_silence_frame_fraction": 0.001987083954297069,
+  "near_silence_rms_threshold": 0.0001
+}

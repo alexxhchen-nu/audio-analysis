@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/9月23日，由新华网、中国邮政储蓄银行、太合音乐集团联合主办的“此刻正青春”问天音乐节，在北京航空航_7690787714257390882/demucs/htdemucs/audio_analysis_trimmed/vocals.wav",
+  "duration_seconds": 64.32709750566893,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2836825,
+  "peak_absolute_amplitude": 0.7120819091796875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.007078650873154402,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/南昌国庆烟花晚会结束后，民警们一字排开组成“人墙”，压速带道控制人群行进节奏，护送130万观众安全、_7692274097564257587/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 11.563537414965987,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 509952,
+  "peak_absolute_amplitude": 0.63934326171875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.24481530487537384,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

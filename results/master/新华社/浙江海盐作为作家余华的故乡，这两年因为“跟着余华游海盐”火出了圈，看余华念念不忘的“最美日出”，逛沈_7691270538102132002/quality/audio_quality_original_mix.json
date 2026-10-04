@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/浙江海盐作为作家余华的故乡，这两年因为“跟着余华游海盐”火出了圈，看余华念念不忘的“最美日出”，逛沈_7691270538102132002/audio_original.wav",
+  "duration_seconds": 263.3170975056689,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 11612284,
+  "peak_absolute_amplitude": 0.999969482421875,
+  "clipped_sample_fraction": 5.166942179505772e-07,
+  "rms_mean": 0.17889447510242462,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

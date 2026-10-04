@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/完整视频来了！天安门广场举行2026年国庆升旗仪式。转发点赞，祝福祖国！_7691468363029171471/audio_original.wav",
+  "duration_seconds": 270.74748299319725,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 11939964,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 2.512570389659466e-07,
+  "rms_mean": 0.10144133120775223,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

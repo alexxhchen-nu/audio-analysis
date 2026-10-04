@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/他们是731部队受害者，更是隐蔽战线的英烈， 致敬!（来源：新华社）_7691288022490287395/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 117.86730158730158,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 5197948,
+  "peak_absolute_amplitude": 0.960205078125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.1344906985759735,
+  "near_silence_frame_fraction": 0.07712006303555599,
+  "near_silence_rms_threshold": 0.0001
+}

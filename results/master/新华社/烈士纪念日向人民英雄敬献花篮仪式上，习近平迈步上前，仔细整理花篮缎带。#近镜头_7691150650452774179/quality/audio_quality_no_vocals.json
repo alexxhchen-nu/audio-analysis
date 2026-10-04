@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/烈士纪念日向人民英雄敬献花篮仪式上，习近平迈步上前，仔细整理花篮缎带。#近镜头_7691150650452774179/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 14.817142857142857,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 653436,
+  "peak_absolute_amplitude": 0.6632232666015625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.1318972408771515,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

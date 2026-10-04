@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/9月28日，#京港高铁雄商段  正式开通运营。这条横跨河北、山东、河南三省的高铁线路全长552公里，_7690924279197682984/audio_original.wav,84.8485260770975,44100,2,3741820,0.882904052734375,0.0,0.09427598118782043,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/9月28日，#京港高铁雄商段  正式开通运营。这条横跨河北、山东、河南三省的高铁线路全长552公里，_7690924279197682984/demucs/htdemucs/audio_original/vocals.wav,84.8485260770975,44100,2,3741820,0.8822174072265625,0.0,0.08819276839494705,0.03735121083595567,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/9月28日，#京港高铁雄商段  正式开通运营。这条横跨河北、山东、河南三省的高铁线路全长552公里，_7690924279197682984/demucs/htdemucs/audio_original/no_vocals.wav,84.8485260770975,44100,2,3741820,0.1953277587890625,0.0,0.029591288417577744,0.0,0.0001

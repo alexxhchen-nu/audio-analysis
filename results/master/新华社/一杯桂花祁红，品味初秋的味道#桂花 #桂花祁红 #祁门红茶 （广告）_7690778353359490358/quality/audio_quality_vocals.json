@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/一杯桂花祁红，品味初秋的味道#桂花 #桂花祁红 #祁门红茶 （广告）_7690778353359490358/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 36.55102040816327,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1611900,
+  "peak_absolute_amplitude": 0.7993927001953125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.0884869322180748,
+  "near_silence_frame_fraction": 0.0012702445220704986,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/居民房贷贴息政策10月1日起实施（记者：申铖、刘慧）_7690898554411404584/audio_original.wav,6.086439909297052,44100,2,268412,0.532958984375,0.0,0.16319170594215393,0.009523809523809525,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/居民房贷贴息政策10月1日起实施（记者：申铖、刘慧）_7690898554411404584/demucs/htdemucs/audio_original/vocals.wav,6.086439909297052,44100,2,268412,0.0017547607421875,0.0,0.0005221822066232562,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/居民房贷贴息政策10月1日起实施（记者：申铖、刘慧）_7690898554411404584/demucs/htdemucs/audio_original/no_vocals.wav,6.086439909297052,44100,2,268412,0.5274505615234375,0.0,0.16012248396873474,0.0,0.0001

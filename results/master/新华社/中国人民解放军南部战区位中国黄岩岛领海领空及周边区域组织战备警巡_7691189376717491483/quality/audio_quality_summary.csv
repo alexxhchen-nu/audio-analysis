@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡_7691189376717491483/audio_original.wav,42.588208616780044,44100,2,1878140,1.0,5.324416710149403e-07,0.17847387492656708,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡_7691189376717491483/demucs/htdemucs/audio_original/vocals.wav,42.588208616780044,44100,2,1878140,0.9860687255859375,0.0,0.13909700512886047,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡_7691189376717491483/demucs/htdemucs/audio_original/no_vocals.wav,42.588208616780044,44100,2,1878140,0.663482666015625,0.0,0.09781043231487274,0.0,0.0001

@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/中国排面：国旗护卫队步步铿锵 #天安门广场举行国庆升旗仪式_7691545034390342947/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 18.22766439909297,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 803840,
+  "peak_absolute_amplitude": 0.955108642578125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.06801863014698029,
+  "near_silence_frame_fraction": 0.0006365372374283895,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/这就是今天早上的天安门广场，祝福祖国！_7691457795291352355/audio_original.wav,9.241541950113378,44100,2,407552,0.6718597412109375,0.0,0.11645130813121796,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/这就是今天早上的天安门广场，祝福祖国！_7691457795291352355/demucs/htdemucs/audio_original/vocals.wav,9.241541950113378,44100,2,407552,0.00128173828125,0.0,0.0001690717035671696,0.0012547051442910915,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/这就是今天早上的天安门广场，祝福祖国！_7691457795291352355/demucs/htdemucs/audio_original/no_vocals.wav,9.241541950113378,44100,2,407552,0.666900634765625,0.0,0.11524412035942078,0.0,0.0001

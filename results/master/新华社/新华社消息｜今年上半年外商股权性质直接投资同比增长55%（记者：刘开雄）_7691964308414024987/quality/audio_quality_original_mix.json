@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/新华社消息｜今年上半年外商股权性质直接投资同比增长55%（记者：刘开雄）_7691964308414024987/audio_original.wav",
+  "duration_seconds": 32.18566893424036,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1419388,
+  "peak_absolute_amplitude": 0.999969482421875,
+  "clipped_sample_fraction": 2.818115976744907e-06,
+  "rms_mean": 0.12568911910057068,
+  "near_silence_frame_fraction": 0.0003606202668589975,
+  "near_silence_rms_threshold": 0.0001
+}

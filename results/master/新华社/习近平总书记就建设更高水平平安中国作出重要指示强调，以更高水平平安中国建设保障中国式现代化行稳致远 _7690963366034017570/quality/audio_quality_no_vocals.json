@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/习近平总书记就建设更高水平平安中国作出重要指示强调，以更高水平平安中国建设保障中国式现代化行稳致远 _7690963366034017570/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 72.07755102040817,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3178620,
+  "peak_absolute_amplitude": 0.3094024658203125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.033801913261413574,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

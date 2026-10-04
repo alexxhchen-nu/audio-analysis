@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/新华社消息｜国庆假期首日高速公路充电量同比增长60.4%_7691980394098396457/audio_original.wav",
+  "duration_seconds": 36.59746031746032,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1613948,
+  "peak_absolute_amplitude": 0.856109619140625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.06825495511293411,
+  "near_silence_frame_fraction": 0.0003171582619727244,
+  "near_silence_rms_threshold": 0.0001
+}

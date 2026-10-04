@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/烈日当空，小猫靠在站岗军人脚边乘凉小憩。网友：满满的安全感_7690884318662577449/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 11.101950113378685,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 489596,
+  "peak_absolute_amplitude": 0.52996826171875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.11790437251329422,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

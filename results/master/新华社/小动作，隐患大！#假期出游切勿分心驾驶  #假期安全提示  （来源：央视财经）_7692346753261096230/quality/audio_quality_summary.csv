@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/小动作，隐患大！#假期出游切勿分心驾驶  #假期安全提示  （来源：央视财经）_7692346753261096230/audio_original.wav,56.75238095238095,44100,2,2502780,0.917816162109375,0.0,0.16369327902793884,0.0034771937001431786,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/小动作，隐患大！#假期出游切勿分心驾驶  #假期安全提示  （来源：央视财经）_7692346753261096230/demucs/htdemucs/audio_original/vocals.wav,56.75238095238095,44100,2,2502780,0.924072265625,0.0,0.15135955810546875,0.0006136224176723256,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/小动作，隐患大！#假期出游切勿分心驾驶  #假期安全提示  （来源：央视财经）_7692346753261096230/demucs/htdemucs/audio_original/no_vocals.wav,56.75238095238095,44100,2,2502780,0.7478179931640625,0.0,0.054611023515462875,0.0,0.0001

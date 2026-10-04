@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/#新一批城市迈入高铁时代#中国高铁4箭齐发#从鲜活故事里读懂蒸蒸日上的中国_7690743444687342890/audio_original.wav",
+  "duration_seconds": 80.43673469387755,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3547260,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 1.9733540817419642e-06,
+  "rms_mean": 0.1373283863067627,
+  "near_silence_frame_fraction": 0.0001443209698369173,
+  "near_silence_rms_threshold": 0.0001
+}

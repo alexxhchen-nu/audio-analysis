@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/夜训打出金色“弹幕” 拂晓回赠云海朝霞（来源：@人民空军  ）_7690757516950654242/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 35.29714285714286,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1556604,
+  "peak_absolute_amplitude": 0.7203369140625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.14150746166706085,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/10月1日起，我国将对居民使用新发放商业性个人住房贷款购房实施贴息。（来源：央视新闻）_7690927530471132442/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 35.99374149659864,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1587324,
+  "peak_absolute_amplitude": 0.97894287109375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.12578043341636658,
+  "near_silence_frame_fraction": 0.0009674298613350532,
+  "near_silence_rms_threshold": 0.0001
+}

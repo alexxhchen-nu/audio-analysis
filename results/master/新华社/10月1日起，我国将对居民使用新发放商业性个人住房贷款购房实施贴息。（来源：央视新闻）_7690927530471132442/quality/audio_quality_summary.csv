@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/10月1日起，我国将对居民使用新发放商业性个人住房贷款购房实施贴息。（来源：央视新闻）_7690927530471132442/audio_original.wav,35.99374149659864,44100,2,1587324,0.928558349609375,0.0,0.1728912889957428,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/10月1日起，我国将对居民使用新发放商业性个人住房贷款购房实施贴息。（来源：央视新闻）_7690927530471132442/demucs/htdemucs/audio_original/vocals.wav,35.99374149659864,44100,2,1587324,0.97894287109375,0.0,0.12578043341636658,0.0009674298613350532,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/10月1日起，我国将对居民使用新发放商业性个人住房贷款购房实施贴息。（来源：央视新闻）_7690927530471132442/demucs/htdemucs/audio_original/no_vocals.wav,35.99374149659864,44100,2,1587324,0.3059539794921875,0.0,0.1157592311501503,0.0,0.0001

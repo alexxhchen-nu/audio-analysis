@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/#小猫误入天安门执勤岗哨  或许，可靠又可爱的战士，也让小猫安全感满满吧（来源：央视新闻）_7692009063495912754/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 33.71818594104308,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1486972,
+  "peak_absolute_amplitude": 0.4903564453125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.060741178691387177,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

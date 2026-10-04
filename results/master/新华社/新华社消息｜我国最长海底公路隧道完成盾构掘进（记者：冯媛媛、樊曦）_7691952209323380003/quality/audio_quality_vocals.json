@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/新华社消息｜我国最长海底公路隧道完成盾构掘进（记者：冯媛媛、樊曦）_7691952209323380003/demucs/htdemucs/audio_analysis_trimmed/vocals.wav",
+  "duration_seconds": 43.19990929705215,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1905116,
+  "peak_absolute_amplitude": 0.989959716796875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.12666389346122742,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

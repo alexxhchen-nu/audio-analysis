@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/新华社消息｜新疆大石峡水利枢纽工程首批机组并网发电（记者：杨志刚、宿传义、郝玉）_7690820779604331830/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 50.575873015873015,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2230396,
+  "peak_absolute_amplitude": 0.059906005859375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.0041570705361664295,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/福建海警喊话金门船：两岸同为一家人 愿早日团圆_7690822053607312694/audio_original.wav,20.66857142857143,44100,2,911484,0.9951934814453125,0.0,0.26405638456344604,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/福建海警喊话金门船：两岸同为一家人 愿早日团圆_7690822053607312694/demucs/htdemucs/audio_original/vocals.wav,20.66857142857143,44100,2,911484,0.9578704833984375,0.0,0.15919490158557892,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/福建海警喊话金门船：两岸同为一家人 愿早日团圆_7690822053607312694/demucs/htdemucs/audio_original/no_vocals.wav,20.66857142857143,44100,2,911484,0.887847900390625,0.0,0.18435333669185638,0.0,0.0001

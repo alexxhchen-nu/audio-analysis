@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/人潮中最让人安心的身影！国庆节，武警北京总队官兵坚守执勤一线，保障旅客平安出行_7691891885228477723/audio_original.wav",
+  "duration_seconds": 24.755283446712017,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1091708,
+  "peak_absolute_amplitude": 0.979034423828125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.24005275964736938,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

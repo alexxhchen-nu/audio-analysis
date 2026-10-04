@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/“无醇”不等于零醇 碰酒就别开车（来源：国家应急广播）_7691940774035934479/audio_original.wav,42.17024943310658,44100,2,1859708,0.948486328125,0.0,0.17157483100891113,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/“无醇”不等于零醇 碰酒就别开车（来源：国家应急广播）_7691940774035934479/demucs/htdemucs/audio_original/vocals.wav,42.17024943310658,44100,2,1859708,0.943328857421875,0.0,0.16575472056865692,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/“无醇”不等于零醇 碰酒就别开车（来源：国家应急广播）_7691940774035934479/demucs/htdemucs/audio_original/no_vocals.wav,42.17024943310658,44100,2,1859708,0.3192138671875,0.0,0.03325076401233673,0.0,0.0001

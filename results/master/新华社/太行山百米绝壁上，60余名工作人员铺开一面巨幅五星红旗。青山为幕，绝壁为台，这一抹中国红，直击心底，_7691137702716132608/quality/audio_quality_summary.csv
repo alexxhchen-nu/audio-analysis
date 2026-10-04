@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/太行山百米绝壁上，60余名工作人员铺开一面巨幅五星红旗。青山为幕，绝壁为台，这一抹中国红，直击心底，_7691137702716132608/audio_original.wav,15.931700680272108,44100,2,702588,0.750518798828125,0.0,0.17241626977920532,0.0007283321194464676,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/太行山百米绝壁上，60余名工作人员铺开一面巨幅五星红旗。青山为幕，绝壁为台，这一抹中国红，直击心底，_7691137702716132608/demucs/htdemucs/audio_original/vocals.wav,15.931700680272108,44100,2,702588,0.6504364013671875,0.0,0.136023610830307,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/太行山百米绝壁上，60余名工作人员铺开一面巨幅五星红旗。青山为幕，绝壁为台，这一抹中国红，直击心底，_7691137702716132608/demucs/htdemucs/audio_original/no_vocals.wav,15.931700680272108,44100,2,702588,0.6660919189453125,0.0,0.09488248080015182,0.0,0.0001

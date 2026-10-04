@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/山河入秋，层林尽染，帧帧盛景慰人间#瞬间中国 #媒体原创_7691869118751919375/audio_original.wav,26.102040816326532,44100,2,1151100,0.9426422119140625,0.0,0.1778377890586853,0.00044464206313917296,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/山河入秋，层林尽染，帧帧盛景慰人间#瞬间中国 #媒体原创_7691869118751919375/demucs/htdemucs/audio_original/vocals.wav,26.102040816326532,44100,2,1151100,0.6998748779296875,0.0,0.11427520215511322,0.00044464206313917296,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/山河入秋，层林尽染，帧帧盛景慰人间#瞬间中国 #媒体原创_7691869118751919375/demucs/htdemucs/audio_original/no_vocals.wav,26.102040816326532,44100,2,1151100,0.947296142578125,0.0,0.12919743359088898,0.0,0.0001

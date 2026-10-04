@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/文艺是时代前进的号角，最能代表一个时代的风貌，最能引领一个时代的风气。中国文联系列微纪录片《回声》第_7690777601467583780/demucs/htdemucs/audio_analysis_trimmed/vocals.wav",
+  "duration_seconds": 302.28,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 13330548,
+  "peak_absolute_amplitude": 0.9860992431640625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.1414124220609665,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

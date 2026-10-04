@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/长途出行勿久坐不动 减少血栓发生风险（来源：国家应急广播）_7692231364019637539/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 31.509478458049887,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1389568,
+  "peak_absolute_amplitude": 0.9754486083984375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.16566787660121918,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

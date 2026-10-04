@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/新华社消息｜我国生成式人工智能用户规模突破7亿人（记者：王思北）_7690854826380381478/audio_original.wav,59.44589569160998,44100,2,2621564,0.999969482421875,2.6701617812878112e-06,0.12883152067661285,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜我国生成式人工智能用户规模突破7亿人（记者：王思北）_7690854826380381478/demucs/htdemucs/audio_original/vocals.wav,59.44589569160998,44100,2,2621564,0.9891204833984375,0.0,0.1268310546875,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜我国生成式人工智能用户规模突破7亿人（记者：王思北）_7690854826380381478/demucs/htdemucs/audio_original/no_vocals.wav,59.44589569160998,44100,2,2621564,0.009674072265625,0.0,0.000652555376291275,0.0,0.0001

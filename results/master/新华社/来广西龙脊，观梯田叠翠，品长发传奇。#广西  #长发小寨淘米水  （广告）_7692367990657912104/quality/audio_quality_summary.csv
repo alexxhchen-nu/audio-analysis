@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/来广西龙脊，观梯田叠翠，品长发传奇。#广西  #长发小寨淘米水  （广告）_7692367990657912104/audio_original.wav,49.321995464852606,44100,2,2175100,0.999969482421875,3.677991816468208e-06,0.26005667448043823,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/来广西龙脊，观梯田叠翠，品长发传奇。#广西  #长发小寨淘米水  （广告）_7692367990657912104/demucs/htdemucs/audio_original/vocals.wav,49.321995464852606,44100,2,2175100,0.9899139404296875,0.0,0.23777997493743896,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/来广西龙脊，观梯田叠翠，品长发传奇。#广西  #长发小寨淘米水  （广告）_7692367990657912104/demucs/htdemucs/audio_original/no_vocals.wav,49.321995464852606,44100,2,2175100,0.4768218994140625,0.0,0.052113451063632965,0.0,0.0001

@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/黄令仪，为了尽快攻克芯片“卡脖子”难题，年近八十依然坚守在“龙芯”研发中心。当有人劝她不要亲自操劳时_7691668666160598315/audio_original.wav",
+  "duration_seconds": 59.817414965986394,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2637948,
+  "peak_absolute_amplitude": 0.815826416015625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.10566332191228867,
+  "near_silence_frame_fraction": 0.00019406171162429653,
+  "near_silence_rms_threshold": 0.0001
+}

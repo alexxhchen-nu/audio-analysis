@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/新中国成立77周年之际，一起重温习近平总书记的重要论述，用拼搏进取、耕耘奉献，铸就欣欣向荣的中国。#_7691480169093090569/audio_original.wav,59.35301587301587,44100,2,2617468,0.915008544921875,0.0,0.1516610085964203,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/新中国成立77周年之际，一起重温习近平总书记的重要论述，用拼搏进取、耕耘奉献，铸就欣欣向荣的中国。#_7691480169093090569/demucs/htdemucs/audio_original/vocals.wav,59.35301587301587,44100,2,2617468,0.9237518310546875,0.0,0.12248227745294571,0.022296107960101702,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/新中国成立77周年之际，一起重温习近平总书记的重要论述，用拼搏进取、耕耘奉献，铸就欣欣向荣的中国。#_7691480169093090569/demucs/htdemucs/audio_original/no_vocals.wav,59.35301587301587,44100,2,2617468,0.364990234375,0.0,0.07651156187057495,0.0,0.0001

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/新华社消息｜今年上半年我国经常账户收支总额同比增长16%（记者：刘开雄）_7691551868207500563/audio_original.wav,52.29414965986395,44100,2,2306172,0.471710205078125,0.0,0.03382179141044617,0.010876803551609323,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜今年上半年我国经常账户收支总额同比增长16%（记者：刘开雄）_7691551868207500563/demucs/htdemucs/audio_original/vocals.wav,52.29414965986395,44100,2,2306172,0.47125244140625,0.0,0.03377467393875122,0.012652608213096559,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜今年上半年我国经常账户收支总额同比增长16%（记者：刘开雄）_7691551868207500563/demucs/htdemucs/audio_original/no_vocals.wav,52.29414965986395,44100,2,2306172,0.003814697265625,0.0,0.0001869393017841503,0.0004439511653718091,0.0001

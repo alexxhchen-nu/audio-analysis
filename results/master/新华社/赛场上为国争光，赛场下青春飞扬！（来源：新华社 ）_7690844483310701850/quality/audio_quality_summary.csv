@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/赛场上为国争光，赛场下青春飞扬！（来源：新华社 ）_7690844483310701850/audio_original.wav,32.27854875283447,44100,2,1423484,0.6966705322265625,0.0,0.1920817345380783,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/赛场上为国争光，赛场下青春飞扬！（来源：新华社 ）_7690844483310701850/demucs/htdemucs/audio_original/vocals.wav,32.27854875283447,44100,2,1423484,0.2308807373046875,0.0,0.049820393323898315,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/赛场上为国争光，赛场下青春飞扬！（来源：新华社 ）_7690844483310701850/demucs/htdemucs/audio_original/no_vocals.wav,32.27854875283447,44100,2,1423484,0.6525115966796875,0.0,0.18087312579154968,0.0,0.0001

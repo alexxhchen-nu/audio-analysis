@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/明天国庆！外交部发言人系上中国红领带送上节日祝福 #国庆_7691255387844087091/audio_original.wav,27.77106575963719,44100,2,1224704,0.9990692138671875,8.165238294314381e-07,0.21305830776691437,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/明天国庆！外交部发言人系上中国红领带送上节日祝福 #国庆_7691255387844087091/demucs/htdemucs/audio_original/vocals.wav,27.77106575963719,44100,2,1224704,0.98992919921875,0.0,0.15198685228824615,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/明天国庆！外交部发言人系上中国红领带送上节日祝福 #国庆_7691255387844087091/demucs/htdemucs/audio_original/no_vocals.wav,27.77106575963719,44100,2,1224704,0.7198944091796875,0.0,0.1216464713215828,0.0,0.0001

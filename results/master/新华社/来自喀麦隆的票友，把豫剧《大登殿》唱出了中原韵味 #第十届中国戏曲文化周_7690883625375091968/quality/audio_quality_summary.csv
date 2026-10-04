@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/来自喀麦隆的票友，把豫剧《大登殿》唱出了中原韵味 #第十届中国戏曲文化周_7690883625375091968/audio_original.wav,62.78956916099773,44100,2,2769020,0.6600341796875,0.0,0.07635876536369324,0.00036975411351451286,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/来自喀麦隆的票友，把豫剧《大登殿》唱出了中原韵味 #第十届中国戏曲文化周_7690883625375091968/demucs/htdemucs/audio_original/vocals.wav,62.78956916099773,44100,2,2769020,0.651031494140625,0.0,0.07001804560422897,0.00036975411351451286,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/来自喀麦隆的票友，把豫剧《大登殿》唱出了中原韵味 #第十届中国戏曲文化周_7690883625375091968/demucs/htdemucs/audio_original/no_vocals.wav,62.78956916099773,44100,2,2769020,0.2700347900390625,0.0,0.027039814740419388,0.00018487705675725643,0.0001

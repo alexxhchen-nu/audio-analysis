@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/新华社消息｜烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席_7690560177619225866/audio_original.wav",
+  "duration_seconds": 24.012244897959185,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1058940,
+  "peak_absolute_amplitude": 0.905548095703125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.07515022903680801,
+  "near_silence_frame_fraction": 0.007733204446592557,
+  "near_silence_rms_threshold": 0.0001
+}

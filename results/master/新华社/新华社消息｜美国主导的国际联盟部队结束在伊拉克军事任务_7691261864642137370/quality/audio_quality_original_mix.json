@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/新华社消息｜美国主导的国际联盟部队结束在伊拉克军事任务_7691261864642137370/audio_original.wav",
+  "duration_seconds": 29.213514739229026,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1288316,
+  "peak_absolute_amplitude": 0.999969482421875,
+  "clipped_sample_fraction": 1.0866899114813446e-05,
+  "rms_mean": 0.15662752091884613,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

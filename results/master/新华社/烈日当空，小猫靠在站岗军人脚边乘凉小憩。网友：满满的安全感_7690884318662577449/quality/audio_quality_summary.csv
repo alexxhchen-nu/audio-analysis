@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/烈日当空，小猫靠在站岗军人脚边乘凉小憩。网友：满满的安全感_7690884318662577449/audio_original.wav,11.101950113378685,44100,2,489596,0.999969482421875,6.127501041675177e-06,0.209128275513649,0.0020898641588296763,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/烈日当空，小猫靠在站岗军人脚边乘凉小憩。网友：满满的安全感_7690884318662577449/demucs/htdemucs/audio_original/vocals.wav,11.101950113378685,44100,2,489596,0.9396514892578125,0.0,0.1664191037416458,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/烈日当空，小猫靠在站岗军人脚边乘凉小憩。网友：满满的安全感_7690884318662577449/demucs/htdemucs/audio_original/no_vocals.wav,11.101950113378685,44100,2,489596,0.52996826171875,0.0,0.11790437251329422,0.0,0.0001

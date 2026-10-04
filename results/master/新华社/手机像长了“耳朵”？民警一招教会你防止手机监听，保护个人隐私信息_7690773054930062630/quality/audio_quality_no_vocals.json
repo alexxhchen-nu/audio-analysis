@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/手机像长了“耳朵”？民警一招教会你防止手机监听，保护个人隐私信息_7690773054930062630/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 62.46448979591837,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2754684,
+  "peak_absolute_amplitude": 0.9866485595703125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.21884265542030334,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

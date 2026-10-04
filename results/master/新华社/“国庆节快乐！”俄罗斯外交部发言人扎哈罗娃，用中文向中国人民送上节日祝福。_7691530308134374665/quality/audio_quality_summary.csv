@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/“国庆节快乐！”俄罗斯外交部发言人扎哈罗娃，用中文向中国人民送上节日祝福。_7691530308134374665/audio_original.wav,16.906938775510206,44100,2,745596,1.0,1.4753298032714768e-05,0.19310417771339417,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/“国庆节快乐！”俄罗斯外交部发言人扎哈罗娃，用中文向中国人民送上节日祝福。_7691530308134374665/demucs/htdemucs/audio_original/vocals.wav,16.906938775510206,44100,2,745596,0.9772491455078125,0.0,0.1695079356431961,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/“国庆节快乐！”俄罗斯外交部发言人扎哈罗娃，用中文向中国人民送上节日祝福。_7691530308134374665/demucs/htdemucs/audio_original/no_vocals.wav,16.906938775510206,44100,2,745596,0.5787200927734375,0.0,0.06468069553375244,0.0,0.0001

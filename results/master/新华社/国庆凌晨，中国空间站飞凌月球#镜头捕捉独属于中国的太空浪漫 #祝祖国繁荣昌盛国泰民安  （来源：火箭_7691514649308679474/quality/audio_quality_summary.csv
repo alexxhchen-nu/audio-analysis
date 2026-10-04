@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/国庆凌晨，中国空间站飞凌月球#镜头捕捉独属于中国的太空浪漫 #祝祖国繁荣昌盛国泰民安  （来源：火箭_7691514649308679474/audio_original.wav,28.609795918367347,44100,2,1261692,0.939239501953125,0.0,0.2002994865179062,0.0008113590263691683,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/国庆凌晨，中国空间站飞凌月球#镜头捕捉独属于中国的太空浪漫 #祝祖国繁荣昌盛国泰民安  （来源：火箭_7691514649308679474/demucs/htdemucs/audio_original/vocals.wav,28.609795918367347,44100,2,1261692,0.8188629150390625,0.0,0.0238700769841671,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/国庆凌晨，中国空间站飞凌月球#镜头捕捉独属于中国的太空浪漫 #祝祖国繁荣昌盛国泰民安  （来源：火箭_7691514649308679474/demucs/htdemucs/audio_original/no_vocals.wav,28.609795918367347,44100,2,1261692,0.8951873779296875,0.0,0.1941140741109848,0.0,0.0001

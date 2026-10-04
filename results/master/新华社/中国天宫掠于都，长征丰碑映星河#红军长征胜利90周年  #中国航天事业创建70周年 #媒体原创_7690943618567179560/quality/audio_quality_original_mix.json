@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/中国天宫掠于都，长征丰碑映星河#红军长征胜利90周年  #中国航天事业创建70周年 #媒体原创_7690943618567179560/audio_original.wav",
+  "duration_seconds": 12.680907029478458,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 559228,
+  "peak_absolute_amplitude": 0.8680419921875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.26455092430114746,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

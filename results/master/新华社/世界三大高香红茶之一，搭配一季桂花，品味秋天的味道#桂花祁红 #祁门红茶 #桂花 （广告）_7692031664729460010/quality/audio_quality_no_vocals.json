@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/世界三大高香红茶之一，搭配一季桂花，品味秋天的味道#桂花祁红 #祁门红茶 #桂花 （广告）_7692031664729460010/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 54.43038548752835,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2400380,
+  "peak_absolute_amplitude": 0.5295257568359375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.03026873990893364,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/一边是先烈笔下对祖国的美好憧憬，_一边是今日华夏的秀美山河。_以诵读告慰先烈，这盛世如您所愿！_方志_7691318925774064922/audio_original.wav,29.213514739229026,44100,2,1288316,0.596893310546875,0.0,0.10540416836738586,0.0007945967421533572,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/一边是先烈笔下对祖国的美好憧憬，_一边是今日华夏的秀美山河。_以诵读告慰先烈，这盛世如您所愿！_方志_7691318925774064922/demucs/htdemucs/audio_original/vocals.wav,29.213514739229026,44100,2,1288316,0.5372772216796875,0.0,0.09833759814500809,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/一边是先烈笔下对祖国的美好憧憬，_一边是今日华夏的秀美山河。_以诵读告慰先烈，这盛世如您所愿！_方志_7691318925774064922/demucs/htdemucs/audio_original/no_vocals.wav,29.213514739229026,44100,2,1288316,0.2352447509765625,0.0,0.03659665957093239,0.0,0.0001

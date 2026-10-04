@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/山河入秋，层林尽染，帧帧盛景慰人间#瞬间中国 #媒体原创_7691869118751919375/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 26.102040816326532,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1151100,
+  "peak_absolute_amplitude": 0.6998748779296875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.11427520215511322,
+  "near_silence_frame_fraction": 0.00044464206313917296,
+  "near_silence_rms_threshold": 0.0001
+}

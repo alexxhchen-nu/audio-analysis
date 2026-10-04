@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/#这可能是你距离天安门国旗护卫队最近的一次  跟随新晋旗手第一视角，感受国旗护卫队的训练日常。汗水打_7691501286218403106/audio_original.wav,70.31283446712018,44100,2,3100796,0.9324188232421875,0.0,0.14782968163490295,0.0001650982334489021,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/#这可能是你距离天安门国旗护卫队最近的一次  跟随新晋旗手第一视角，感受国旗护卫队的训练日常。汗水打_7691501286218403106/demucs/htdemucs/audio_original/vocals.wav,70.31283446712018,44100,2,3100796,0.95806884765625,0.0,0.1401858627796173,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/#这可能是你距离天安门国旗护卫队最近的一次  跟随新晋旗手第一视角，感受国旗护卫队的训练日常。汗水打_7691501286218403106/demucs/htdemucs/audio_original/no_vocals.wav,70.31283446712018,44100,2,3100796,0.826934814453125,0.0,0.03732459247112274,0.0,0.0001

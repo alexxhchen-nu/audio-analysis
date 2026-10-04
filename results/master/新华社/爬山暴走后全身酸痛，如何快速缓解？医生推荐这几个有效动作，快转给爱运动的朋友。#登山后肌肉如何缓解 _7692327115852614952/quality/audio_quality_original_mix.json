@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/爬山暴走后全身酸痛，如何快速缓解？医生推荐这几个有效动作，快转给爱运动的朋友。#登山后肌肉如何缓解 _7692327115852614952/audio_analysis_trimmed.wav",
+  "duration_seconds": 116.8529931972789,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 5153217,
+  "peak_absolute_amplitude": 0.999969482421875,
+  "clipped_sample_fraction": 5.0453920337528965e-06,
+  "rms_mean": 0.11444704234600067,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

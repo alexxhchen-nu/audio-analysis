@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/这就是今天早上的天安门广场，祝福祖国！_7691457795291352355/audio_original.wav",
+  "duration_seconds": 9.241541950113378,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 407552,
+  "peak_absolute_amplitude": 0.6718597412109375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.11645130813121796,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

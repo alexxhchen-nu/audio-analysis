@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/全场肃立，向为中国人民解放事业和共和国建设事业英勇献身的烈士默哀。#近镜头_7691155892519111987/audio_original.wav",
+  "duration_seconds": 67.20136054421769,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2963580,
+  "peak_absolute_amplitude": 0.9256591796875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.0675908550620079,
+  "near_silence_frame_fraction": 0.00017274140611504577,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/新华社消息｜新疆大石峡水利枢纽工程首批机组并网发电（记者：杨志刚、宿传义、郝玉）_7690820779604331830/audio_original.wav,50.575873015873015,44100,2,2230396,0.951416015625,0.0,0.1367049366235733,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜新疆大石峡水利枢纽工程首批机组并网发电（记者：杨志刚、宿传义、郝玉）_7690820779604331830/demucs/htdemucs/audio_original/vocals.wav,50.575873015873015,44100,2,2230396,0.9465484619140625,0.0,0.1360670030117035,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜新疆大石峡水利枢纽工程首批机组并网发电（记者：杨志刚、宿传义、郝玉）_7690820779604331830/demucs/htdemucs/audio_original/no_vocals.wav,50.575873015873015,44100,2,2230396,0.059906005859375,0.0,0.0041570705361664295,0.0,0.0001

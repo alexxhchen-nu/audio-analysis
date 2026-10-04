@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/驻守喀喇昆仑高原，边防军人的铿锵誓言，带来满满安全感 （来源：央视军事）_7691597900702305576/audio_original.wav,75.27909297052155,44100,2,3319808,0.7270965576171875,0.0,0.17930731177330017,0.00015420200462606013,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/驻守喀喇昆仑高原，边防军人的铿锵誓言，带来满满安全感 （来源：央视军事）_7691597900702305576/demucs/htdemucs/audio_original/vocals.wav,75.27909297052155,44100,2,3319808,0.7373809814453125,0.0,0.14646488428115845,0.001079414032382421,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/驻守喀喇昆仑高原，边防军人的铿锵誓言，带来满满安全感 （来源：央视军事）_7691597900702305576/demucs/htdemucs/audio_original/no_vocals.wav,75.27909297052155,44100,2,3319808,0.6834869384765625,0.0,0.08979610353708267,0.0,0.0001

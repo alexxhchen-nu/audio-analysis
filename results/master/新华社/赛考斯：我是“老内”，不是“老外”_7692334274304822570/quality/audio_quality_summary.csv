@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/赛考斯：我是“老内”，不是“老外”_7692334274304822570/audio_original.wav,79.27573696145124,44100,2,3496060,0.8267974853515625,0.0,0.0620751827955246,0.0002928686484111876,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/赛考斯：我是“老内”，不是“老外”_7692334274304822570/demucs/htdemucs/audio_original/vocals.wav,79.27573696145124,44100,2,3496060,0.81549072265625,0.0,0.05476851016283035,0.008639625128130034,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/赛考斯：我是“老内”，不是“老外”_7692334274304822570/demucs/htdemucs/audio_original/no_vocals.wav,79.27573696145124,44100,2,3496060,0.166107177734375,0.0,0.027051685377955437,0.002196514863083907,0.0001

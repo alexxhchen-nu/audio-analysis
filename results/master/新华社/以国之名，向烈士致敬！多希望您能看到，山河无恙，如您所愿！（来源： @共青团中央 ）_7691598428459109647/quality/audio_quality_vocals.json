@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/以国之名，向烈士致敬！多希望您能看到，山河无恙，如您所愿！（来源： @共青团中央 ）_7691598428459109647/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 76.06857142857143,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3354624,
+  "peak_absolute_amplitude": 0.984283447265625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.15115049481391907,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

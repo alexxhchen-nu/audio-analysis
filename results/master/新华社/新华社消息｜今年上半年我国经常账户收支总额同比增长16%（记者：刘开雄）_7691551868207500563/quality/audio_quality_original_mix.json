@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/新华社消息｜今年上半年我国经常账户收支总额同比增长16%（记者：刘开雄）_7691551868207500563/audio_original.wav",
+  "duration_seconds": 52.29414965986395,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2306172,
+  "peak_absolute_amplitude": 0.471710205078125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.03382179141044617,
+  "near_silence_frame_fraction": 0.010876803551609323,
+  "near_silence_rms_threshold": 0.0001
+}

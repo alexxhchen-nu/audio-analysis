@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/#早安  ｜10月2日，八月廿二，星期五，清风揽秋意，闲游赴山河。_7688914347178921256/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 9.383673469387755,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 413820,
+  "peak_absolute_amplitude": 0.810302734375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.06461820006370544,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

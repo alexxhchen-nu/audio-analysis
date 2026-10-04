@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/新华社消息｜我国将绘制完成新一代全火星地质图（记者：王立彬）_7690576522146647342/audio_original.wav,63.39328798185941,44100,2,2795644,1.0,2.790054813846112e-05,0.11377498507499695,0.0005493499359091741,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜我国将绘制完成新一代全火星地质图（记者：王立彬）_7690576522146647342/demucs/htdemucs/audio_original/vocals.wav,63.39328798185941,44100,2,2795644,0.989959716796875,0.0,0.112034372985363,0.0005493499359091741,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜我国将绘制完成新一代全火星地质图（记者：王立彬）_7690576522146647342/demucs/htdemucs/audio_original/no_vocals.wav,63.39328798185941,44100,2,2795644,0.0147857666015625,0.0,0.0006519138114526868,0.0,0.0001

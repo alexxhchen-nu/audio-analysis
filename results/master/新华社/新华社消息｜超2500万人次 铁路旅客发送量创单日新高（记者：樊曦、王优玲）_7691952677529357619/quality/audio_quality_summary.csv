@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/新华社消息｜超2500万人次 铁路旅客发送量创单日新高（记者：樊曦、王优玲）_7691952677529357619/audio_original.wav,21.36517006802721,44100,2,942204,0.999969482421875,5.306706403284214e-06,0.128309428691864,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜超2500万人次 铁路旅客发送量创单日新高（记者：樊曦、王优玲）_7691952677529357619/demucs/htdemucs/audio_original/vocals.wav,21.36517006802721,44100,2,942204,0.99005126953125,0.0,0.12677621841430664,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜超2500万人次 铁路旅客发送量创单日新高（记者：樊曦、王优玲）_7691952677529357619/demucs/htdemucs/audio_original/no_vocals.wav,21.36517006802721,44100,2,942204,0.0074005126953125,0.0,0.000612273346632719,0.0,0.0001

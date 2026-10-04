@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/9月29日，2026未来产业创新发展大会文旅体商展融合创新发展交流会在雄安新区举办。会上，河北省文化_7691305843299585280/audio_analysis_trimmed.wav",
+  "duration_seconds": 204.73199546485262,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 9028681,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 1.4066284986699608e-05,
+  "rms_mean": 0.1511867642402649,
+  "near_silence_frame_fraction": 0.0027785653529912107,
+  "near_silence_rms_threshold": 0.0001
+}

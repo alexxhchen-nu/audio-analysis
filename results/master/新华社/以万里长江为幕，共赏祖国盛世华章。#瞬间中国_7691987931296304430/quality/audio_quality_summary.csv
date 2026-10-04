@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/以万里长江为幕，共赏祖国盛世华章。#瞬间中国_7691987931296304430/audio_original.wav,22.80480725623583,44100,2,1005692,0.902557373046875,0.0,0.2287970930337906,0.0010178117048346056,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/以万里长江为幕，共赏祖国盛世华章。#瞬间中国_7691987931296304430/demucs/htdemucs/audio_original/vocals.wav,22.80480725623583,44100,2,1005692,0.1036834716796875,0.0,0.006767560727894306,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/以万里长江为幕，共赏祖国盛世华章。#瞬间中国_7691987931296304430/demucs/htdemucs/audio_original/no_vocals.wav,22.80480725623583,44100,2,1005692,0.871673583984375,0.0,0.2179425209760666,0.0,0.0001

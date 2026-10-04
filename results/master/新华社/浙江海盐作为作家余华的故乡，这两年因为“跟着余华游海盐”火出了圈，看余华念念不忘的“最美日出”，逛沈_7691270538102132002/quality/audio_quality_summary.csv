@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/浙江海盐作为作家余华的故乡，这两年因为“跟着余华游海盐”火出了圈，看余华念念不忘的“最美日出”，逛沈_7691270538102132002/audio_original.wav,263.3170975056689,44100,2,11612284,0.999969482421875,5.166942179505772e-07,0.17889447510242462,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/浙江海盐作为作家余华的故乡，这两年因为“跟着余华游海盐”火出了圈，看余华念念不忘的“最美日出”，逛沈_7691270538102132002/demucs/htdemucs/audio_original/vocals.wav,263.3170975056689,44100,2,11612284,0.9891204833984375,0.0,0.1551068276166916,0.025131167056126273,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/浙江海盐作为作家余华的故乡，这两年因为“跟着余华游海盐”火出了圈，看余华念念不忘的“最美日出”，逛沈_7691270538102132002/demucs/htdemucs/audio_original/no_vocals.wav,263.3170975056689,44100,2,11612284,0.395477294921875,0.0,0.06270712614059448,0.0,0.0001

@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/新华社消息｜我国力争2030年饲草总产量达1.3亿吨（记者：古一平）_7691956728941841679/audio_original.wav",
+  "duration_seconds": 17.27845804988662,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 761980,
+  "peak_absolute_amplitude": 0.999969482421875,
+  "clipped_sample_fraction": 2.0997926454762593e-05,
+  "rms_mean": 0.11956807971000671,
+  "near_silence_frame_fraction": 0.000671591672263264,
+  "near_silence_rms_threshold": 0.0001
+}

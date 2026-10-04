@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/从持枪战士到以笔为枪的宣言者，方志敏在昏暗牢狱中写下《可爱的中国》。_跨越时空，今日之中国正如他所愿_7691874773948779810/audio_original.wav,227.2332879818594,44100,2,10020988,0.9335174560546875,0.0,0.09709666669368744,0.011699790527767843,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/从持枪战士到以笔为枪的宣言者，方志敏在昏暗牢狱中写下《可爱的中国》。_跨越时空，今日之中国正如他所愿_7691874773948779810/demucs/htdemucs/audio_original/vocals.wav,227.2332879818594,44100,2,10020988,0.9219512939453125,0.0,0.08597408980131149,0.05645532110560466,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/从持枪战士到以笔为枪的宣言者，方志敏在昏暗牢狱中写下《可爱的中国》。_跨越时空，今日之中国正如他所愿_7691874773948779810/demucs/htdemucs/audio_original/no_vocals.wav,227.2332879818594,44100,2,10020988,0.630859375,0.0,0.04049922525882721,0.005875440658049354,0.0001

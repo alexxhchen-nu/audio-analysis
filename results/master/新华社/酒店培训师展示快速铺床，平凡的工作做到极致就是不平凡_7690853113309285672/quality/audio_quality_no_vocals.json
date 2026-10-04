@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/酒店培训师展示快速铺床，平凡的工作做到极致就是不平凡_7690853113309285672/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 16.953378684807255,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 747644,
+  "peak_absolute_amplitude": 0.95880126953125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.21558594703674316,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

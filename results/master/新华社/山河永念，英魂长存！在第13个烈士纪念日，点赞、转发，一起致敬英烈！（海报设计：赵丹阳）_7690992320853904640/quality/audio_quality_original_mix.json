@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/山河永念，英魂长存！在第13个烈士纪念日，点赞、转发，一起致敬英烈！（海报设计：赵丹阳）_7690992320853904640/audio_original.wav",
+  "duration_seconds": 11.42421768707483,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 503808,
+  "peak_absolute_amplitude": 0.7510833740234375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.15992018580436707,
+  "near_silence_frame_fraction": 0.0010152284263959391,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/新华社消息｜今年上半年外商股权性质直接投资同比增长55%（记者：刘开雄）_7691964308414024987/audio_original.wav,32.18566893424036,44100,2,1419388,0.999969482421875,2.818115976744907e-06,0.12568911910057068,0.0003606202668589975,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜今年上半年外商股权性质直接投资同比增长55%（记者：刘开雄）_7691964308414024987/demucs/htdemucs/audio_original/vocals.wav,32.18566893424036,44100,2,1419388,0.989898681640625,0.0,0.12450871616601944,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜今年上半年外商股权性质直接投资同比增长55%（记者：刘开雄）_7691964308414024987/demucs/htdemucs/audio_original/no_vocals.wav,32.18566893424036,44100,2,1419388,0.0098114013671875,0.0,0.0005843696999363601,0.0,0.0001

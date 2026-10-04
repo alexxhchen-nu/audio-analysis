@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/新华访谈｜四条高铁线路“同步上新”，读懂轨道上的新图景#高铁线路上新#新华访谈 #媒体原创_7690942997491436838/audio_original.wav,507.4052607709751,44100,2,22376572,1.0,0.0005272925629537893,0.20186209678649902,0.0002516874499485185,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/新华访谈｜四条高铁线路“同步上新”，读懂轨道上的新图景#高铁线路上新#新华访谈 #媒体原创_7690942997491436838/demucs/htdemucs/audio_original/vocals.wav,507.4052607709751,44100,2,22376572,0.9900360107421875,0.0,0.11954940855503082,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/新华访谈｜四条高铁线路“同步上新”，读懂轨道上的新图景#高铁线路上新#新华访谈 #媒体原创_7690942997491436838/demucs/htdemucs/audio_original/no_vocals.wav,507.4052607709751,44100,2,22376572,0.9899749755859375,0.0,0.0924588143825531,0.0,0.0001

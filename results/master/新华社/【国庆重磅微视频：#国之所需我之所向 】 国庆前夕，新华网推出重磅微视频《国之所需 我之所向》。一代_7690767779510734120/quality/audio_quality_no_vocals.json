@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/【国庆重磅微视频：#国之所需我之所向 】 国庆前夕，新华网推出重磅微视频《国之所需 我之所向》。一代_7690767779510734120/demucs/htdemucs/audio_analysis_trimmed/no_vocals.wav",
+  "duration_seconds": 82.41419501133787,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3634466,
+  "peak_absolute_amplitude": 0.4068756103515625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.041609473526477814,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

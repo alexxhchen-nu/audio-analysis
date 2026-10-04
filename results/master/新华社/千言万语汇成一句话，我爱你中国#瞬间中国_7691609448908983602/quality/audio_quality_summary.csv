@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/千言万语汇成一句话，我爱你中国#瞬间中国_7691609448908983602/audio_original.wav,65.2508843537415,44100,2,2877564,0.9813385009765625,0.0,0.23158957064151764,0.0014232342999466287,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/千言万语汇成一句话，我爱你中国#瞬间中国_7691609448908983602/demucs/htdemucs/audio_original/vocals.wav,65.2508843537415,44100,2,2877564,0.938507080078125,0.0,0.08247056603431702,0.007294075787226472,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/千言万语汇成一句话，我爱你中国#瞬间中国_7691609448908983602/demucs/htdemucs/audio_original/no_vocals.wav,65.2508843537415,44100,2,2877564,0.958465576171875,0.0,0.20928321778774261,0.0,0.0001

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/比亚迪“闪充中国”战略迎来新节点：第2000座高速闪充站建成投用，全场景闪充生态加速构建_7690556450975796523/audio_original.wav,28.142585034013607,44100,2,1241088,0.7166290283203125,0.0,0.1923835724592209,0.0008247422680412372,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/比亚迪“闪充中国”战略迎来新节点：第2000座高速闪充站建成投用，全场景闪充生态加速构建_7690556450975796523/demucs/htdemucs/audio_original/vocals.wav,28.142585034013607,44100,2,1241088,0.0280303955078125,0.0,0.0011257027508690953,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/比亚迪“闪充中国”战略迎来新节点：第2000座高速闪充站建成投用，全场景闪充生态加速构建_7690556450975796523/demucs/htdemucs/audio_original/no_vocals.wav,28.142585034013607,44100,2,1241088,0.7287445068359375,0.0,0.19184337556362152,0.0,0.0001

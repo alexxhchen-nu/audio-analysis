@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/宁德时代领跑全球动力电池心智 尼尔森报告解析头部品牌影响力 近日，尼尔森IQ发布全球新能源车消费者报_7690577407551606070/audio_original.wav,32.41505668934241,44100,2,1429504,0.9685821533203125,0.0,0.12595556676387787,0.008234872896527032,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/宁德时代领跑全球动力电池心智 尼尔森报告解析头部品牌影响力 近日，尼尔森IQ发布全球新能源车消费者报_7690577407551606070/demucs/htdemucs/audio_original/vocals.wav,32.41505668934241,44100,2,1429504,0.9850311279296875,0.0,0.11289273202419281,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/宁德时代领跑全球动力电池心智 尼尔森报告解析头部品牌影响力 近日，尼尔森IQ发布全球新能源车消费者报_7690577407551606070/demucs/htdemucs/audio_original/no_vocals.wav,32.41505668934241,44100,2,1429504,0.334930419921875,0.0,0.043051593005657196,0.0,0.0001

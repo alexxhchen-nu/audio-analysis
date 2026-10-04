@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/热烈庆祝中华人民共和国成立77周年。山河锦绣，国泰民安！（海报设计：殷哲伦）_7691456807989955866/audio_original.wav,6.408707482993197,44100,2,282624,0.6685943603515625,0.0,0.11180644482374191,0.014466546112115732,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/热烈庆祝中华人民共和国成立77周年。山河锦绣，国泰民安！（海报设计：殷哲伦）_7691456807989955866/demucs/htdemucs/audio_original/vocals.wav,6.408707482993197,44100,2,282624,0.001922607421875,0.0,0.0001762407919159159,0.007233273056057866,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/热烈庆祝中华人民共和国成立77周年。山河锦绣，国泰民安！（海报设计：殷哲伦）_7691456807989955866/demucs/htdemucs/audio_original/no_vocals.wav,6.408707482993197,44100,2,282624,0.6621246337890625,0.0,0.10976888239383698,0.0,0.0001

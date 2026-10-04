@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/每一次致敬，都是为了更好的传承_7691128074896706843/audio_original.wav,125.11192743764173,44100,2,5517436,0.964569091796875,0.0,0.13752852380275726,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/每一次致敬，都是为了更好的传承_7691128074896706843/demucs/htdemucs/audio_original/vocals.wav,125.11192743764173,44100,2,5517436,0.9544525146484375,0.0,0.12766151130199432,0.024682193560360027,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/每一次致敬，都是为了更好的传承_7691128074896706843/demucs/htdemucs/audio_original/no_vocals.wav,125.11192743764173,44100,2,5517436,0.349700927734375,0.0,0.0417741984128952,0.0,0.0001

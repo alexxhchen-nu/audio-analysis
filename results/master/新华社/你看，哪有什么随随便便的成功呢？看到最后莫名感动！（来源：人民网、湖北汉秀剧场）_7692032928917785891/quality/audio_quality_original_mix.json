@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/你看，哪有什么随随便便的成功呢？看到最后莫名感动！（来源：人民网、湖北汉秀剧场）_7692032928917785891/audio_original.wav",
+  "duration_seconds": 30.34848072562358,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1338368,
+  "peak_absolute_amplitude": 0.84234619140625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.19623012840747833,
+  "near_silence_frame_fraction": 0.0007648183556405354,
+  "near_silence_rms_threshold": 0.0001
+}

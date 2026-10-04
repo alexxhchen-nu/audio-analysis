@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/中国排面：国旗护卫队步步铿锵 #天安门广场举行国庆升旗仪式_7691545034390342947/audio_original.wav,18.22766439909297,44100,2,803840,0.958343505859375,0.0,0.06886684149503708,0.0019096117122851686,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/中国排面：国旗护卫队步步铿锵 #天安门广场举行国庆升旗仪式_7691545034390342947/demucs/htdemucs/audio_original/vocals.wav,18.22766439909297,44100,2,803840,0.0150299072265625,0.0,0.0002929102338384837,0.7912157861234882,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/中国排面：国旗护卫队步步铿锵 #天安门广场举行国庆升旗仪式_7691545034390342947/demucs/htdemucs/audio_original/no_vocals.wav,18.22766439909297,44100,2,803840,0.955108642578125,0.0,0.06801863014698029,0.0006365372374283895,0.0001

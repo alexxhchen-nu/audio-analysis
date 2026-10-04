@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/国庆凌晨，中国空间站飞凌月球#镜头捕捉独属于中国的太空浪漫 #祝祖国繁荣昌盛国泰民安  （来源：火箭_7691514649308679474/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 28.609795918367347,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1261692,
+  "peak_absolute_amplitude": 0.8951873779296875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.1941140741109848,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

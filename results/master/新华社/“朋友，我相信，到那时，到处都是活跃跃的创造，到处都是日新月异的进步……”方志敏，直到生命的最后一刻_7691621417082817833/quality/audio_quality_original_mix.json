@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/“朋友，我相信，到那时，到处都是活跃跃的创造，到处都是日新月异的进步……”方志敏，直到生命的最后一刻_7691621417082817833/audio_analysis_trimmed.wav",
+  "duration_seconds": 70.40959183673469,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3105063,
+  "peak_absolute_amplitude": 0.999969482421875,
+  "clipped_sample_fraction": 2.898491914656804e-06,
+  "rms_mean": 0.12254754453897476,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

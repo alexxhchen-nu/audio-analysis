@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/9月30日是烈士纪念日。英雄烈士，一直是习近平总书记心之所系、情之所牵。党的十八大以来，习近平总书记_7691317049766841642/audio_original.wav",
+  "duration_seconds": 65.01868480725624,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2867324,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 5.51036436761245e-05,
+  "rms_mean": 0.15818922221660614,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

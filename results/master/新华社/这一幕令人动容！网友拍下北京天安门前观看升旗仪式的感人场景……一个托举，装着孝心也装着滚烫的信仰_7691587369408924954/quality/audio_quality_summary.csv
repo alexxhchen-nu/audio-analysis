@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/这一幕令人动容！网友拍下北京天安门前观看升旗仪式的感人场景……一个托举，装着孝心也装着滚烫的信仰_7691587369408924954/audio_original.wav,10.033832199546485,44100,2,442492,0.7469635009765625,0.0,0.18613822758197784,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/这一幕令人动容！网友拍下北京天安门前观看升旗仪式的感人场景……一个托举，装着孝心也装着滚烫的信仰_7691587369408924954/demucs/htdemucs/audio_original/vocals.wav,10.033832199546485,44100,2,442492,0.6448974609375,0.0,0.13343022763729095,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/这一幕令人动容！网友拍下北京天安门前观看升旗仪式的感人场景……一个托举，装着孝心也装着滚烫的信仰_7691587369408924954/demucs/htdemucs/audio_original/no_vocals.wav,10.033832199546485,44100,2,442492,0.7197418212890625,0.0,0.11711415648460388,0.0,0.0001

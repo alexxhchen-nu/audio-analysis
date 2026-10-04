@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/1935年，红军直面大渡河生死考验，绝不能成为第二个石达开！_勇士们组成渡河奋勇队，冲破天险，杀出了_7692052768105745700/audio_original.wav",
+  "duration_seconds": 225.4221315192744,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 9941116,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 5.02961639316954e-07,
+  "rms_mean": 0.06961680203676224,
+  "near_silence_frame_fraction": 0.0008755214502755318,
+  "near_silence_rms_threshold": 0.0001
+}

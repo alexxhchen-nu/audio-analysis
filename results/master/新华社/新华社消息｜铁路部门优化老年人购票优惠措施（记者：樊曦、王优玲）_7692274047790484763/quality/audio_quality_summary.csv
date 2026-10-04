@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/新华社消息｜铁路部门优化老年人购票优惠措施（记者：樊曦、王优玲）_7692274047790484763/audio_original.wav,31.814149659863947,44100,2,1403004,0.900848388671875,0.0,0.07097040861845016,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜铁路部门优化老年人购票优惠措施（记者：樊曦、王优玲）_7692274047790484763/demucs/htdemucs/audio_original/vocals.wav,31.814149659863947,44100,2,1403004,0.8997344970703125,0.0,0.07087826728820801,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜铁路部门优化老年人购票优惠措施（记者：樊曦、王优玲）_7692274047790484763/demucs/htdemucs/audio_original/no_vocals.wav,31.814149659863947,44100,2,1403004,0.0117034912109375,0.0,0.0003500639577396214,0.0,0.0001

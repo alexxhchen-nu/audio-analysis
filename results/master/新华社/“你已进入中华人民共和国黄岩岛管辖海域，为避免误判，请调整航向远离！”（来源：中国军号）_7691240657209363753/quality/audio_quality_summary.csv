@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/“你已进入中华人民共和国黄岩岛管辖海域，为避免误判，请调整航向远离！”（来源：中国军号）_7691240657209363753/audio_original.wav,26.148480725623582,44100,2,1153148,0.989898681640625,0.0,0.20313973724842072,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/“你已进入中华人民共和国黄岩岛管辖海域，为避免误判，请调整航向远离！”（来源：中国军号）_7691240657209363753/demucs/htdemucs/audio_original/vocals.wav,26.148480725623582,44100,2,1153148,0.876739501953125,0.0,0.17114472389221191,0.03506435863293387,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/“你已进入中华人民共和国黄岩岛管辖海域，为避免误判，请调整航向远离！”（来源：中国军号）_7691240657209363753/demucs/htdemucs/audio_original/no_vocals.wav,26.148480725623582,44100,2,1153148,0.3805084228515625,0.0,0.06792290508747101,0.0,0.0001

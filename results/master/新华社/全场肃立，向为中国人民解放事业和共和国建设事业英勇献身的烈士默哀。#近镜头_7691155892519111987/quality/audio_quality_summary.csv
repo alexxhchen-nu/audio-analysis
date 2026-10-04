@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/全场肃立，向为中国人民解放事业和共和国建设事业英勇献身的烈士默哀。#近镜头_7691155892519111987/audio_original.wav,67.20136054421769,44100,2,2963580,0.9256591796875,0.0,0.0675908550620079,0.00017274140611504577,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/全场肃立，向为中国人民解放事业和共和国建设事业英勇献身的烈士默哀。#近镜头_7691155892519111987/demucs/htdemucs/audio_original/vocals.wav,67.20136054421769,44100,2,2963580,0.9564971923828125,0.0,0.06615161895751953,0.006909656244601831,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/全场肃立，向为中国人民解放事业和共和国建设事业英勇献身的烈士默哀。#近镜头_7691155892519111987/demucs/htdemucs/audio_original/no_vocals.wav,67.20136054421769,44100,2,2963580,0.4722900390625,0.0,0.011822903528809547,0.0,0.0001

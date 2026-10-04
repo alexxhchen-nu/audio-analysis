@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/唱响新时代长征之歌！《我们的长征》主题MV发布_7690857016058826047/audio_analysis_trimmed.wav,267.3319954648526,44100,2,11789341,1.0,8.482238320191095e-08,0.17620307207107544,8.685456203587093e-05,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/唱响新时代长征之歌！《我们的长征》主题MV发布_7690857016058826047/demucs/htdemucs/audio_analysis_trimmed/vocals.wav,267.3319954648526,44100,2,11789341,0.936553955078125,0.0,0.1337326467037201,0.09888391887783905,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/唱响新时代长征之歌！《我们的长征》主题MV发布_7690857016058826047/demucs/htdemucs/audio_analysis_trimmed/no_vocals.wav,267.3319954648526,44100,2,11789341,0.9420623779296875,0.0,0.09471709281206131,0.0033004733573630957,0.0001

@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/她是一位母亲。儿子牺牲后，部队方面问她需要什么帮助。她强忍悲痛说：“我没有什么要求，我只想知道我儿子_7691640445931113743/demucs/htdemucs/audio_analysis_trimmed/no_vocals.wav",
+  "duration_seconds": 88.42480725623582,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3899534,
+  "peak_absolute_amplitude": 0.2923126220703125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.01725752092897892,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

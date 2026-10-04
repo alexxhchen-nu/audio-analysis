@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/9月27日，贵州省兴义市高校新生军训现场超燃，3600余名师生“花式告白”祖国。（作者：龙嘉乐 陈雪_7690851647022533930/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 37.34049886621315,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1646716,
+  "peak_absolute_amplitude": 0.70721435546875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.0987352505326271,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

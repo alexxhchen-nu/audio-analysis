@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话_7691295721819081999/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 399.56757369614513,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 17620930,
+  "peak_absolute_amplitude": 0.96978759765625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.13543613255023956,
+  "near_silence_frame_fraction": 0.0010460251046025104,
+  "near_silence_rms_threshold": 0.0001
+}

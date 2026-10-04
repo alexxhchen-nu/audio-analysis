@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/山河壮丽，岁月峥嵘。举国同欢庆，天地共此时。祝福伟大祖国繁荣昌盛，国泰民安。#国庆 #中国航天 #媒_7691492576817417526/audio_original.wav,40.5912925170068,44100,2,1790076,0.948394775390625,0.0,0.1271655261516571,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/山河壮丽，岁月峥嵘。举国同欢庆，天地共此时。祝福伟大祖国繁荣昌盛，国泰民安。#国庆 #中国航天 #媒_7691492576817417526/demucs/htdemucs/audio_original/vocals.wav,40.5912925170068,44100,2,1790076,0.9599151611328125,0.0,0.10610261559486389,0.016299685444666857,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/山河壮丽，岁月峥嵘。举国同欢庆，天地共此时。祝福伟大祖国繁荣昌盛，国泰民安。#国庆 #中国航天 #媒_7691492576817417526/demucs/htdemucs/audio_original/no_vocals.wav,40.5912925170068,44100,2,1790076,0.4621734619140625,0.0,0.06304769217967987,0.0,0.0001

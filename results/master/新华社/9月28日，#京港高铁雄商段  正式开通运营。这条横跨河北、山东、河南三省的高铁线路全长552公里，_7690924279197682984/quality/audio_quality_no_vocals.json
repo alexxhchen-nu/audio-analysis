@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/9月28日，#京港高铁雄商段  正式开通运营。这条横跨河北、山东、河南三省的高铁线路全长552公里，_7690924279197682984/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 84.8485260770975,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 3741820,
+  "peak_absolute_amplitude": 0.1953277587890625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.029591288417577744,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

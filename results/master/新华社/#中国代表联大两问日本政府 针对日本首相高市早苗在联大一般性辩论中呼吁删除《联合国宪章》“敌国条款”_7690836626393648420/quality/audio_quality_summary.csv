@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/#中国代表联大两问日本政府 针对日本首相高市早苗在联大一般性辩论中呼吁删除《联合国宪章》“敌国条款”_7690836626393648420/audio_original.wav,141.0408163265306,44100,2,6219900,0.957366943359375,0.0,0.12823398411273956,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/#中国代表联大两问日本政府 针对日本首相高市早苗在联大一般性辩论中呼吁删除《联合国宪章》“敌国条款”_7690836626393648420/demucs/htdemucs/audio_original/vocals.wav,141.0408163265306,44100,2,6219900,0.9583892822265625,0.0,0.12484254688024521,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/#中国代表联大两问日本政府 针对日本首相高市早苗在联大一般性辩论中呼吁删除《联合国宪章》“敌国条款”_7690836626393648420/demucs/htdemucs/audio_original/no_vocals.wav,141.0408163265306,44100,2,6219900,0.4524688720703125,0.0,0.026111161336302757,0.0,0.0001

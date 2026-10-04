@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/穿越秦岭的高铁通了！西安出发45分钟直达安康#媒体精选计划 #高铁 #西渝高铁西康段 #媒体原创_7690612545660407103/audio_original.wav,104.21396825396826,44100,2,4595836,0.999969482421875,1.958294421297888e-06,0.12283539772033691,0.00044558315695666706,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/穿越秦岭的高铁通了！西安出发45分钟直达安康#媒体精选计划 #高铁 #西渝高铁西康段 #媒体原创_7690612545660407103/demucs/htdemucs/audio_original/vocals.wav,104.21396825396826,44100,2,4595836,0.97991943359375,0.0,0.10307029634714127,0.0006683747354350006,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/穿越秦岭的高铁通了！西安出发45分钟直达安康#媒体精选计划 #高铁 #西渝高铁西康段 #媒体原创_7690612545660407103/demucs/htdemucs/audio_original/no_vocals.wav,104.21396825396826,44100,2,4595836,0.4522705078125,0.0,0.05093760043382645,0.0,0.0001

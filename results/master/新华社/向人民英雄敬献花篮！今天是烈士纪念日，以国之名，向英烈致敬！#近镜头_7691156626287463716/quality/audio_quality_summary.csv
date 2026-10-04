@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/向人民英雄敬献花篮！今天是烈士纪念日，以国之名，向英烈致敬！#近镜头_7691156626287463716/audio_original.wav,27.608526077097505,44100,2,1217536,0.861236572265625,0.0,0.1391962170600891,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/向人民英雄敬献花篮！今天是烈士纪念日，以国之名，向英烈致敬！#近镜头_7691156626287463716/demucs/htdemucs/audio_original/vocals.wav,27.608526077097505,44100,2,1217536,0.7235260009765625,0.0,0.044767171144485474,0.0865910046237915,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/向人民英雄敬献花篮！今天是烈士纪念日，以国之名，向英烈致敬！#近镜头_7691156626287463716/demucs/htdemucs/audio_original/no_vocals.wav,27.608526077097505,44100,2,1217536,0.866607666015625,0.0,0.12956276535987854,0.0,0.0001

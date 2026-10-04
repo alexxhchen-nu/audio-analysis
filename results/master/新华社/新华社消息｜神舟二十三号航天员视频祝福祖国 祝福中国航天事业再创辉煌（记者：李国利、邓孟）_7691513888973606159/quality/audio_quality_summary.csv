@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/新华社消息｜神舟二十三号航天员视频祝福祖国 祝福中国航天事业再创辉煌（记者：李国利、邓孟）_7691513888973606159/audio_original.wav,61.81433106575964,44100,2,2726012,0.709930419921875,0.0,0.08533453941345215,0.003192488262910798,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜神舟二十三号航天员视频祝福祖国 祝福中国航天事业再创辉煌（记者：李国利、邓孟）_7691513888973606159/demucs/htdemucs/audio_original/vocals.wav,61.81433106575964,44100,2,2726012,0.70849609375,0.0,0.07254692912101746,0.012018779342723005,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/新华社消息｜神舟二十三号航天员视频祝福祖国 祝福中国航天事业再创辉煌（记者：李国利、邓孟）_7691513888973606159/demucs/htdemucs/audio_original/no_vocals.wav,61.81433106575964,44100,2,2726012,0.3599090576171875,0.0,0.039798200130462646,0.005258215962441314,0.0001

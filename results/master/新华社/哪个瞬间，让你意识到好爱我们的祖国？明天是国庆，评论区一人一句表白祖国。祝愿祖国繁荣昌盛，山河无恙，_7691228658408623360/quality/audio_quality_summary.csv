@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/哪个瞬间，让你意识到好爱我们的祖国？明天是国庆，评论区一人一句表白祖国。祝愿祖国繁荣昌盛，山河无恙，_7691228658408623360/audio_original.wav,217.2487074829932,44100,2,9580668,1.0,6.262611333572983e-07,0.12215796113014221,0.00016031635761235504,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/哪个瞬间，让你意识到好爱我们的祖国？明天是国庆，评论区一人一句表白祖国。祝愿祖国繁荣昌盛，山河无恙，_7691228658408623360/demucs/htdemucs/audio_original/vocals.wav,217.2487074829932,44100,2,9580668,0.98468017578125,0.0,0.11352464556694031,0.0005343878587078502,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/哪个瞬间，让你意识到好爱我们的祖国？明天是国庆，评论区一人一句表白祖国。祝愿祖国繁荣昌盛，山河无恙，_7691228658408623360/demucs/htdemucs/audio_original/no_vocals.wav,217.2487074829932,44100,2,9580668,0.1644439697265625,0.0,0.020617756992578506,0.00010687757174157004,0.0001

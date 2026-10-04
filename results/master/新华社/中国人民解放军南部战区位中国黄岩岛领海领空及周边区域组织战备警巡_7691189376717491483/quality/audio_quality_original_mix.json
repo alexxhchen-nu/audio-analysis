@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡_7691189376717491483/audio_original.wav",
+  "duration_seconds": 42.588208616780044,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1878140,
+  "peak_absolute_amplitude": 1.0,
+  "clipped_sample_fraction": 5.324416710149403e-07,
+  "rms_mean": 0.17847387492656708,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

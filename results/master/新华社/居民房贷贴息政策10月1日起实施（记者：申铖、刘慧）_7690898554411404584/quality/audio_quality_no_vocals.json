@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/居民房贷贴息政策10月1日起实施（记者：申铖、刘慧）_7690898554411404584/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 6.086439909297052,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 268412,
+  "peak_absolute_amplitude": 0.5274505615234375,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.16012248396873474,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

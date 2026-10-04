@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/长途出行勿久坐不动 减少血栓发生风险（来源：国家应急广播）_7692231364019637539/audio_original.wav,31.509478458049887,44100,2,1389568,0.9242706298828125,0.0,0.17246180772781372,0.0011049723756906078,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/长途出行勿久坐不动 减少血栓发生风险（来源：国家应急广播）_7692231364019637539/demucs/htdemucs/audio_original/vocals.wav,31.509478458049887,44100,2,1389568,0.9754486083984375,0.0,0.16566787660121918,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/长途出行勿久坐不动 减少血栓发生风险（来源：国家应急广播）_7692231364019637539/demucs/htdemucs/audio_original/no_vocals.wav,31.509478458049887,44100,2,1389568,0.34130859375,0.0,0.04372931271791458,0.0,0.0001

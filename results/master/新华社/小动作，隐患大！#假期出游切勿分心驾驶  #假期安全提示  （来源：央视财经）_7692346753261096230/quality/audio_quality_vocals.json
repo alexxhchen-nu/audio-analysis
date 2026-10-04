@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/小动作，隐患大！#假期出游切勿分心驾驶  #假期安全提示  （来源：央视财经）_7692346753261096230/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 56.75238095238095,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 2502780,
+  "peak_absolute_amplitude": 0.924072265625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.15135955810546875,
+  "near_silence_frame_fraction": 0.0006136224176723256,
+  "near_silence_rms_threshold": 0.0001
+}

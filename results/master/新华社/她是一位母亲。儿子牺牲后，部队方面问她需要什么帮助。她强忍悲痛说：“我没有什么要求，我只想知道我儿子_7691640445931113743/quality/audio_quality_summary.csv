@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/她是一位母亲。儿子牺牲后，部队方面问她需要什么帮助。她强忍悲痛说：“我没有什么要求，我只想知道我儿子_7691640445931113743/audio_analysis_trimmed.wav,88.42480725623582,44100,2,3899534,0.8497314453125,0.0,0.09770333021879196,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/她是一位母亲。儿子牺牲后，部队方面问她需要什么帮助。她强忍悲痛说：“我没有什么要求，我只想知道我儿子_7691640445931113743/demucs/htdemucs/audio_analysis_trimmed/vocals.wav,88.42480725623582,44100,2,3899534,0.8429718017578125,0.0,0.0945596992969513,0.0001312852829197847,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/她是一位母亲。儿子牺牲后，部队方面问她需要什么帮助。她强忍悲痛说：“我没有什么要求，我只想知道我儿子_7691640445931113743/demucs/htdemucs/audio_analysis_trimmed/no_vocals.wav,88.42480725623582,44100,2,3899534,0.2923126220703125,0.0,0.01725752092897892,0.0,0.0001

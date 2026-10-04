@@ -1,0 +1,13 @@
+{
+  "stem": "vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/“我还在挨打，但我打开了门。”迪拜航空机长讲述驾驶舱惊魂一刻。9月30日，迪拜航空FZ1073航班从_7692347543044377896/demucs/htdemucs/audio_original/vocals.wav",
+  "duration_seconds": 37.94421768707483,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1673340,
+  "peak_absolute_amplitude": 0.923614501953125,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.1454581320285797,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

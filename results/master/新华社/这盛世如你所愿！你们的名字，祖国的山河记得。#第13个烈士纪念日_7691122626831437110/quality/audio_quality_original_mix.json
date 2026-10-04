@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/这盛世如你所愿！你们的名字，祖国的山河记得。#第13个烈士纪念日_7691122626831437110/audio_original.wav",
+  "duration_seconds": 15.069750566893424,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 664576,
+  "peak_absolute_amplitude": 0.8551025390625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.15974606573581696,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

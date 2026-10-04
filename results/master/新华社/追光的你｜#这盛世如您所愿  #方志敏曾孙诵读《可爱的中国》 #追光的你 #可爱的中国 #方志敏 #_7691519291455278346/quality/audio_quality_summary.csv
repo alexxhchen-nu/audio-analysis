@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/追光的你｜#这盛世如您所愿  #方志敏曾孙诵读《可爱的中国》 #追光的你 #可爱的中国 #方志敏 #_7691519291455278346/audio_original.wav,84.61632653061224,44100,2,3731580,0.6906890869140625,0.0,0.1043371707201004,0.0008231581835642749,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/追光的你｜#这盛世如您所愿  #方志敏曾孙诵读《可爱的中国》 #追光的你 #可爱的中国 #方志敏 #_7691519291455278346/demucs/htdemucs/audio_original/vocals.wav,84.61632653061224,44100,2,3731580,0.6747894287109375,0.0,0.0962035208940506,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/追光的你｜#这盛世如您所愿  #方志敏曾孙诵读《可爱的中国》 #追光的你 #可爱的中国 #方志敏 #_7691519291455278346/demucs/htdemucs/audio_original/no_vocals.wav,84.61632653061224,44100,2,3731580,0.4109649658203125,0.0,0.04002290219068527,0.0,0.0001

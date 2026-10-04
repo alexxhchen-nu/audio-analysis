@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/新华社/山河永念，英魂长存！在第13个烈士纪念日，点赞、转发，一起致敬英烈！（海报设计：赵丹阳）_7690992320853904640/audio_original.wav,11.42421768707483,44100,2,503808,0.7510833740234375,0.0,0.15992018580436707,0.0010152284263959391,0.0001
+vocals,/home/ubuntu/music/results/master/新华社/山河永念，英魂长存！在第13个烈士纪念日，点赞、转发，一起致敬英烈！（海报设计：赵丹阳）_7690992320853904640/demucs/htdemucs/audio_original/vocals.wav,11.42421768707483,44100,2,503808,0.00518798828125,0.0,0.000506509211845696,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/新华社/山河永念，英魂长存！在第13个烈士纪念日，点赞、转发，一起致敬英烈！（海报设计：赵丹阳）_7690992320853904640/demucs/htdemucs/audio_original/no_vocals.wav,11.42421768707483,44100,2,503808,0.7449188232421875,0.0,0.15795135498046875,0.0,0.0001

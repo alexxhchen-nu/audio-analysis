@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/新华社消息｜铁路部门优化老年人购票优惠措施（记者：樊曦、王优玲）_7692274047790484763/audio_original.wav",
+  "duration_seconds": 31.814149659863947,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1403004,
+  "peak_absolute_amplitude": 0.900848388671875,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.07097040861845016,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

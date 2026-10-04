@@ -1,0 +1,13 @@
+{
+  "stem": "no_vocals",
+  "file": "/home/ubuntu/music/results/master/新华社/一条水道，把西江与北部湾连成一线，也把西南腹地推到面向东盟、面向海洋的前沿。本期新华访谈专访全国工程_7691506018575994122/demucs/htdemucs/audio_original/no_vocals.wav",
+  "duration_seconds": 647.5609070294785,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 28557436,
+  "peak_absolute_amplitude": 0.8504791259765625,
+  "clipped_sample_fraction": 0.0,
+  "rms_mean": 0.02535710670053959,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

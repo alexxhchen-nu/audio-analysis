@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/新华社/新华社消息｜庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话_7691282108668595475/audio_original.wav",
+  "duration_seconds": 45.14240362811791,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 1990780,
+  "peak_absolute_amplitude": 0.999969482421875,
+  "clipped_sample_fraction": 1.0046313505259245e-06,
+  "rms_mean": 0.11578629910945892,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}
