@@ -1,0 +1,4 @@
+start_seconds,end_seconds,dominant_pitch_class,mean_chroma
+0.0,5.0,E,0.7686684131622314
+5.0,10.0,C#,0.6999003291130066
+10.0,10.54467120181406,C#,1.0

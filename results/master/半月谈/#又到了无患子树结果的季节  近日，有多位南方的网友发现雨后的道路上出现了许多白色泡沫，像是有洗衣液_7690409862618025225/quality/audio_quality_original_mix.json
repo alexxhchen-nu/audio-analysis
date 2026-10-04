@@ -1,0 +1,13 @@
+{
+  "stem": "original_mix",
+  "file": "/home/ubuntu/music/results/master/半月谈/#又到了无患子树结果的季节  近日，有多位南方的网友发现雨后的道路上出现了许多白色泡沫，像是有洗衣液_7690409862618025225/audio_original.wav",
+  "duration_seconds": 10.54467120181406,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "frames": 465020,
+  "peak_absolute_amplitude": 0.999969482421875,
+  "clipped_sample_fraction": 2.150445142144424e-06,
+  "rms_mean": 0.26722005009651184,
+  "near_silence_frame_fraction": 0.0,
+  "near_silence_rms_threshold": 0.0001
+}

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/半月谈/#又到了无患子树结果的季节  近日，有多位南方的网友发现雨后的道路上出现了许多白色泡沫，像是有洗衣液_7690409862618025225/audio_original.wav,10.54467120181406,44100,2,465020,0.999969482421875,2.150445142144424e-06,0.26722005009651184,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/半月谈/#又到了无患子树结果的季节  近日，有多位南方的网友发现雨后的道路上出现了许多白色泡沫，像是有洗衣液_7690409862618025225/demucs/htdemucs/audio_original/vocals.wav,10.54467120181406,44100,2,465020,0.6823577880859375,0.0,0.14232535660266876,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/半月谈/#又到了无患子树结果的季节  近日，有多位南方的网友发现雨后的道路上出现了许多白色泡沫，像是有洗衣液_7690409862618025225/demucs/htdemucs/audio_original/no_vocals.wav,10.54467120181406,44100,2,465020,0.858551025390625,0.0,0.1922425478696823,0.0,0.0001

@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/半月谈/#国乒洛杉矶奥运会难题不止日本队  #洛杉矶奥运会才是国乒的大考  #半月谈  #超级看台_7690856543847320867/audio_original.wav,13.888344671201814,44100,2,612476,0.9479522705078125,0.0,0.2452070266008377,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/半月谈/#国乒洛杉矶奥运会难题不止日本队  #洛杉矶奥运会才是国乒的大考  #半月谈  #超级看台_7690856543847320867/demucs/htdemucs/audio_original/vocals.wav,13.888344671201814,44100,2,612476,0.627532958984375,0.0,0.13086247444152832,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/半月谈/#国乒洛杉矶奥运会难题不止日本队  #洛杉矶奥运会才是国乒的大考  #半月谈  #超级看台_7690856543847320867/demucs/htdemucs/audio_original/no_vocals.wav,13.888344671201814,44100,2,612476,0.9373626708984375,0.0,0.19200460612773895,0.0,0.0001

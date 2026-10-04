@@ -1,0 +1,4 @@
+stem,file,duration_seconds,sample_rate_hz,channels,frames,peak_absolute_amplitude,clipped_sample_fraction,rms_mean,near_silence_frame_fraction,near_silence_rms_threshold
+original_mix,/home/ubuntu/music/results/master/半月谈/#别让“官宣”私事绑架公共空间   #公共注意力的边界究竟在哪里  #警惕精心策划的伪事件  #半月_7690482736628337947/audio_original.wav,9.383673469387755,44100,2,413820,1.0,2.658160552897395e-05,0.2520049214363098,0.0,0.0001
+vocals,/home/ubuntu/music/results/master/半月谈/#别让“官宣”私事绑架公共空间   #公共注意力的边界究竟在哪里  #警惕精心策划的伪事件  #半月_7690482736628337947/demucs/htdemucs/audio_original/vocals.wav,9.383673469387755,44100,2,413820,0.002197265625,0.0,0.0002456049551256001,0.0,0.0001
+no_vocals,/home/ubuntu/music/results/master/半月谈/#别让“官宣”私事绑架公共空间   #公共注意力的边界究竟在哪里  #警惕精心策划的伪事件  #半月_7690482736628337947/demucs/htdemucs/audio_original/no_vocals.wav,9.383673469387755,44100,2,413820,0.970703125,0.0,0.24234479665756226,0.0,0.0001
